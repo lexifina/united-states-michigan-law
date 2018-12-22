@@ -8,4 +8,4 @@ Sec. 26. (1) The University of Michigan, Michigan State University, Wayne State 
 (7) This section shall be self-executing. If any part or parts of this section are found to be in conflict with the United States Constitution or federal law, the section shall be implemented to the maximum extent that the United States Constitution and federal law permit. Any provision held invalid shall be severable from the remaining portions of this section.
 (8) This section applies only to action taken after the effective date of this section.
 (9) This section does not invalidate any court order or consent decree that is in force as of the effective date of this section.
-History: Add. Initiated Law, approved Nov. 7, 2006, Eff. Dec. 23, 2006
+History: Add. Init., approved Nov. 7, 2006, Eff. Dec. 23, 2006
