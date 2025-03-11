@@ -1,0 +1,5 @@
+# MCL 565.371.amended Recording fraudulent conveyance of realty; penalty.
+Sec. 1. (1) A person that procures or places upon record any conveyance of real estate with intent to deceive any person as to the veracity of the document recorded is guilty of a felony punishable by imprisonment for not more than 3 years or a fine of not more than $5,000.00, or both.
+(2) A person that knowingly and willfully drafts or submits a document to be filed and recorded with a register of deeds in this state with intent to defraud the owner of real estate or the owner of an interest in real estate is guilty of a felony punishable by imprisonment for not more than 10 years, a fine of not more than $5,000.00, or both.
+(3) If the register of deeds believes a document was submitted to the register of deeds in violation of this section, the register of deeds may provide evidence of the violation to the county prosecutor in the county where the register of deeds is located.
+History: 1883, Act 98, Eff. Sept. 8, 1883; How. 9234a; CL 1897, 11687; CL 1915, 15461; CL 1929, 13355; CL 1948, 565.371; Am. 2024, Act 154, Eff. (sine die)
