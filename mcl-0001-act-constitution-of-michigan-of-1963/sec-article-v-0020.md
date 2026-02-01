@@ -1,0 +1,3 @@
+# MCL Article V § 20 Reductions in expenditures.
+Sec. 20. No appropriation shall be a mandate to spend. The governor, with the approval of the appropriating committees of the house and senate, shall reduce expenditures authorized by appropriations whenever it appears that actual revenues for a fiscal period will fall below the revenue estimates on which appropriations for that period were based. Reductions in expenditures shall be made in accordance with procedures prescribed by law. The governor may not reduce expenditures of the legislative and judicial branches or from funds constitutionally dedicated for specific purposes.
+History: Const. 1963, Art. V, § 20, Eff. Jan. 1, 1964

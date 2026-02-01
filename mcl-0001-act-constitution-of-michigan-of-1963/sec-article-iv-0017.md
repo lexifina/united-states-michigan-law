@@ -1,0 +1,3 @@
+# MCL Article IV § 17 Committees; record of votes, public inspection, notice of hearings.
+Sec. 17. Each house of the legislature may establish the committees necessary for the efficient conduct of its business and the legislature may create joint committees. On all actions on bills and resolutions in each committee, names and votes of members shall be recorded. Such vote shall be available for public inspection. Notice of all committee hearings and a clear statement of all subjects to be considered at each hearing shall be published in the journal in advance of the hearing.
+History: Const. 1963, Art. IV, § 17, Eff. Jan. 1, 1964

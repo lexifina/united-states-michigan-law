@@ -1,0 +1,3 @@
+# MCL Schedule § 11 Michigan State University trustees and Wayne State University governors, terms.
+Sec. 11. The provisions of this constitution increasing the number of members of the Board of Trustees of Michigan State University and the Board of Governors of Wayne State University to eight, and of their term of office to eight years, shall be implemented by law. The law may provide that the term of each member in office on the date of the vote on this constitution may be extended one year, and may further provide that the initial terms of office of the additional members may be less than eight years.
+History: Const. 1963, Schedule, § 11, Eff. Jan. 1, 1964

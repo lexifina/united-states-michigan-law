@@ -1,0 +1,3 @@
+# MCL Schedule § 16 Voters, ballots, effective date.
+Sec. 16. Every registered elector may vote on the adoption of the constitution. The board of election commissioners in each county shall cause to be printed on a ballot separate from the ballot containing the names of the nominees for office, the words: Shall the revised constitution be adopted? ( ) Yes. ( ) No. All votes cast at the election shall be taken, counted, canvassed and returned as provided by law for the election of state officers. If the revised constitution so submitted receives more votes in its favor than were cast against it, it shall be the supreme law of the state on and after the first day of January of the year following its adoption.
+History: Const. 1963, Schedule, § 16, Eff. Jan. 1, 1964

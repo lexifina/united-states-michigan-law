@@ -1,0 +1,3 @@
+# MCL Article IX § 20 Deposit of state money in certain financial institutions; requirements.
+Sec. 20. No state money shall be deposited in banks, savings and loans associations, or credit unions, other than those organized under the law of this state or federal law. No state money shall be deposited in any bank, savings and loan association, or credit union, in excess of 50 percent of the net worth of the bank, savings and loan association, or credit union. Any bank, savings and loan association, or credit union, receiving deposits of state money shall show the amount of state money so deposited as a separate item in all published statements.
+History: Const. 1963, Art. IX, § 20, Eff. Jan. 1, 1964; Am. H.J.R. GG, approved Nov. 7, 1978, Eff. Dec. 23, 1978

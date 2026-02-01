@@ -1,0 +1,4 @@
+# MCL Article XI § 8 Convictions for certain felonies; eligibility for elective office or certain positions of public employment.
+Sec. 8. A person is ineligible for election or appointment to any state or local elective office of this state and ineligible to hold a position in public employment in this state that is policy-making or that has discretionary authority over public assets if, within the immediately preceding 20 years, the person was convicted of a felony involving dishonesty, deceit, fraud, or a breach of the public trust and the conviction was related to the person's official capacity while the person was holding any elective office or position of employment in local, state, or federal government. This requirement is in addition to any other qualification required under this constitution or by law.
+The legislature shall prescribe by law for the implementation of this section.
+History: Add. S.J.R. V, approved Nov. 2, 2010, Eff. Dec. 18, 2010

@@ -1,0 +1,3 @@
+# MCL Article X § 1 Disabilities of coverture abolished; separate property of wife; dower.
+Sec. 1. The disabilities of coverture as to property are abolished. The real and personal estate of every woman acquired before marriage and all real and personal property to which she may afterwards become entitled shall be and remain the estate and property of such woman, and shall not be liable for the debts, obligations or engagements of her husband, and may be dealt with and disposed of by her as if she were unmarried. Dower may be relinquished or conveyed as provided by law.
+History: Const. 1963, Art. X, § 1, Eff. Jan. 1, 1964

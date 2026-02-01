@@ -1,0 +1,11 @@
+# MCL Article I § 26 Affirmative action programs.
+Sec. 26. (1) The University of Michigan, Michigan State University, Wayne State University, and any other public college or university, community college, or school district shall not discriminate against, or grant preferential treatment to, any individual or group on the basis of race, sex, color, ethnicity, or national origin in the operation of public employment, public education, or public contracting.
+(2) The state shall not discriminate against, or grant preferential treatment to, any individual or group on the basis of race, sex, color, ethnicity, or national origin in the operation of public employment, public education, or public contracting.
+(3) For the purposes of this section "state" includes, but is not necessarily limited to, the state itself, any city, county, any public college, university, or community college, school district, or other political subdivision or governmental instrumentality of or within the State of Michigan not included in sub-section 1.
+(4) This section does not prohibit action that must be taken to establish or maintain eligibility for any federal program, if ineligibility would result in a loss of federal funds to the state.
+(5) Nothing in this section shall be interpreted as prohibiting bona fide qualifications based on sex that are reasonably necessary to the normal operation of public employment, public education, or public contracting.
+(6) The remedies available for violations of this section shall be the same, regardless of the injured party's race, sex, color, ethnicity, or national origin, as are otherwise available for violations of Michigan anti-discrimination law.
+(7) This section shall be self-executing. If any part or parts of this section are found to be in conflict with the United States Constitution or federal law, the section shall be implemented to the maximum extent that the United States Constitution and federal law permit. Any provision held invalid shall be severable from the remaining portions of this section.
+(8) This section applies only to action taken after the effective date of this section.
+(9) This section does not invalidate any court order or consent decree that is in force as of the effective date of this section.
+History: Add. Initiated Law, approved Nov. 7, 2006, Eff. Dec. 23, 2006

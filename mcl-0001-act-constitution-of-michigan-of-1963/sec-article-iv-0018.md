@@ -1,0 +1,3 @@
+# MCL Article IV § 18 Journal of proceedings; record of votes, dissents.
+Sec. 18. Each house shall keep a journal of its proceedings, and publish the same unless the public security otherwise requires. The record of the vote and name of the members of either house voting on any question shall be entered in the journal at the request of one-fifth of the members present. Any member of either house may dissent from and protest against any act, proceeding or resolution which he deems injurious to any person or the public, and have the reason for his dissent entered in the journal.
+History: Const. 1963, Art. IV, § 18, Eff. Jan. 1, 1964

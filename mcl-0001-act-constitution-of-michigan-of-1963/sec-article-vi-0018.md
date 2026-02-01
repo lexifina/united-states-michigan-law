@@ -1,0 +1,5 @@
+# MCL Article VI § 18 Salaries; uniformity, changes during term.
+Sec. 18. Salaries of justices of the supreme court, of the judges of the court of appeals, of the circuit judges within a circuit, and of the probate judges within a county or district, shall be uniform, and may be increased but shall not be decreased during a term of office except and only to the extent of a general salary reduction in all other branches of government.
+Circuit judges, additional salary from county.
+Each of the judges of the circuit court shall receive an annual salary as provided by law. In addition to the salary received from the state, each circuit judge may receive from any county in which he regularly holds court an additional salary as determined from time to time by the board of supervisors of the county. In any county where an additional salary is granted, it shall be paid at the same rate to all circuit judges regularly holding court therein.
+History: Const. 1963, Art. VI, § 18, Eff. Jan. 1, 1964

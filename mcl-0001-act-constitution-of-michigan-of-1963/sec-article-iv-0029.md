@@ -1,0 +1,3 @@
+# MCL Article IV § 29 Local or special acts.
+Sec. 29. The legislature shall pass no local or special act in any case where a general act can be made applicable, and whether a general act can be made applicable shall be a judicial question. No local or special act shall take effect until approved by two-thirds of the members elected to and serving in each house and by a majority of the electors voting thereon in the district affected. Any act repealing local or special acts shall require only a majority of the members elected to and serving in each house and shall not require submission to the electors of such district.
+History: Const. 1963, Art. IV, § 29, Eff. Jan. 1, 1964

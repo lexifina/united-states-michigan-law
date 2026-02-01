@@ -1,0 +1,3 @@
+# MCL Article IX § 10 Sales tax; distribution to local governments.
+Sec. 10. Fifteen percent of all taxes imposed on retailers on taxable sales at retail of tangible personal property at a rate of not more than 4% shall be used exclusively for assistance to townships, cities and villages, on a population basis as provided by law. In determining population the legislature may exclude any portion of the total number of persons who are wards, patients or convicts in any tax supported institution.
+History: Const. 1963, Art. IX, § 10, Eff. Jan. 1, 1964; Am. S.J.R. S, approved Mar. 15, 1994, Eff. Apr. 30, 1994

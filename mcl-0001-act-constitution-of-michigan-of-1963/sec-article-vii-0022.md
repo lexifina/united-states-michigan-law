@@ -1,0 +1,3 @@
+# MCL Article VII § 22 Charters, resolutions, ordinances; enumeration of powers.
+Sec. 22. Under general laws the electors of each city and village shall have the power and authority to frame, adopt and amend its charter, and to amend an existing charter of the city or village heretofore granted or enacted by the legislature for the government of the city or village. Each such city and village shall have power to adopt resolutions and ordinances relating to its municipal concerns, property and government, subject to the constitution and law. No enumeration of powers granted to cities and villages in this constitution shall limit or restrict the general grant of authority conferred by this section.
+History: Const. 1963, Art. VII, § 22, Eff. Jan. 1, 1964

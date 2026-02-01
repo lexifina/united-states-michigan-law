@@ -1,0 +1,3 @@
+# MCL Schedule § 10 Boards controlling higher education institutions and state board of public community and junior colleges, terms.
+Sec. 10. The provisions of this constitution providing for members of boards of control of institutions of higher education and the state board of public community and junior colleges shall be implemented by law. The law may provide that the term of each member in office on the date of the vote on this constitution may be extended, and may further provide that the initial terms of office of members may be less than eight years.
+History: Const. 1963, Schedule, § 10, Eff. Jan. 1, 1964

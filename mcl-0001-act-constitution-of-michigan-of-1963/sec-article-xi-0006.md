@@ -1,0 +1,3 @@
+# MCL Article XI § 6 Merit systems for local governments.
+Sec. 6. By ordinance or resolution of its governing body which shall not take effect until approved by a majority of the electors voting thereon, unless otherwise provided by charter, each county, township, city, village, school district and other governmental unit or authority may establish, modify or discontinue a merit system for its employees other than teachers under contract or tenure. The state civil service commission may on request furnish technical services to any such unit on a reimbursable basis.
+History: Const. 1963, Art. XI, § 6, Eff. Jan. 1, 1964

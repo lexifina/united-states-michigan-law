@@ -1,0 +1,3 @@
+# MCL Article VI § 7 Staff; budget; salaries of justices; fees.
+Sec. 7. The supreme court may appoint, may remove, and shall have general supervision of its staff. It shall have control of the preparation of its budget recommendations and the expenditure of moneys appropriated for any purpose pertaining to the operation of the court or the performance of activities of its staff except that the salaries of the justices shall be established by law. All fees and perquisites collected by the court staff shall be turned over to the state treasury and credited to the general fund.
+History: Const. 1963, Art. VI, § 7, Eff. Jan. 1, 1964

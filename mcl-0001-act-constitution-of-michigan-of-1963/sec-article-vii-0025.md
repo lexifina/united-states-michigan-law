@@ -1,0 +1,3 @@
+# MCL Article VII § 25 Public utilities; acquisition, franchises, sale.
+Sec. 25. No city or village shall acquire any public utility furnishing light, heat or power, or grant any public utility franchise which is not subject to revocation at the will of the city or village, unless the proposition shall first have been approved by three-fifths of the electors voting thereon. No city or village may sell any public utility unless the proposition shall first have been approved by a majority of the electors voting thereon, or a greater number if the charter shall so provide.
+History: Const. 1963, Art. VII, § 25, Eff. Jan. 1, 1964

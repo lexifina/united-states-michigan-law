@@ -1,0 +1,3 @@
+# MCL Schedule § 14 Mackinac Bridge Authority; refunding of bonds, transfer of functions to highway department.
+Sec. 14. The legislature by a vote of two-thirds of the members elected to and serving in each house may provide that the state may borrow money and may pledge its full faith and credit for refunding any bonds issued by the Mackinac Bridge Authority and at the time of refunding the Mackinac Bridge Authority shall be abolished and the operation of the bridge shall be assumed by the state highway department. The legislature may implement this section by law.
+History: Const. 1963, Schedule, § 14, Eff. Jan. 1, 1964

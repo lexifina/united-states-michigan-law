@@ -1,0 +1,5 @@
+# MCL Article VI § 26 Circuit court commissioners and justices of the peace, abolition; courts of limited jurisdiction.
+Sec. 26. The offices of circuit court commissioner and justice of the peace are abolished at the expiration of five years from the date this constitution becomes effective or may within this period be abolished by law. Their jurisdiction, compensation and powers within this period shall be as provided by law. Within this five-year period, the legislature shall establish a court or courts of limited jurisdiction with powers and jurisdiction defined by law. The location of such court or courts, and the qualifications, tenure, method of election and salary of the judges of such court or courts, and by what governmental units the judges shall be paid, shall be provided by law, subject to the limitations contained in this article.
+Present statutory courts.
+Statutory courts in existence at the time this constitution becomes effective shall retain their powers and jurisdiction, except as provided by law, until they are abolished by law.
+History: Const. 1963, Art. VI, § 26, Eff. Jan. 1, 1964

@@ -1,0 +1,3 @@
+# MCL Article VI § 8 Court of appeals; election of judges, divisions.
+Sec. 8. The court of appeals shall consist initially of nine judges who shall be nominated and elected at non-partisan elections from districts drawn on county lines and as nearly as possible of equal population, as provided by law. The supreme court may prescribe by rule that the court of appeals sit in divisions and for the terms of court and the times and places thereof. Each such division shall consist of not fewer than three judges. The number of judges comprising the court of appeals may be increased, and the districts from which they are elected may be changed by law.
+History: Const. 1963, Art. VI, § 8, Eff. Jan. 1, 1964

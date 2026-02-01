@@ -1,0 +1,3 @@
+# MCL Article XI § 1 Oath of public officers.
+Sec. 1. All officers, legislative, executive and judicial, before entering upon the duties of their respective offices, shall take and subscribe the following oath or affirmation: I do solemnly swear (or affirm) that I will support the Constitution of the United States and the constitution of this state, and that I will faithfully discharge the duties of the office of .......... according to the best of my ability. No other oath, affirmation, or any religious test shall be required as a qualification for any office or public trust.
+History: Const. 1963, Art. XI, § 1, Eff. Jan. 1, 1964

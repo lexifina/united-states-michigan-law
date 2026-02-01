@@ -1,0 +1,11 @@
+# MCL Article I § 28 Right to reproductive freedom.
+Sec. 28. (1) Every individual has a fundamental right to reproductive freedom, which entails the right to make and effectuate decisions about all matters relating to pregnancy, including but not limited to prenatal care, childbirth, postpartum care, contraception, sterilization, abortion care, miscarriage management, and infertility care.
+An individual's right to reproductive freedom shall not be denied, burdened, nor infringed upon unless justified by a compelling state interest achieved by the least restrictive means.
+Notwithstanding the above, the state may regulate the provision of abortion care after fetal viability, provided that in no circumstance shall the state prohibit an abortion that, in the professional judgment of an attending health care professional, is medically indicated to protect the life or physical or mental health of the pregnant individual.
+(2) The state shall not discriminate in the protection or enforcement of this fundamental right.
+(3) The state shall not penalize, prosecute, or otherwise take adverse action against an individual based on their actual, potential, perceived, or alleged pregnancy outcomes, including but not limited to miscarriage, stillbirth, or abortion. Nor shall the state penalize, prosecute, or otherwise take adverse action against someone for aiding or assisting a pregnant individual in exercising their right to reproductive freedom with their voluntary consent.
+(4) For the purposes of this section:
+A state interest is "compelling" only if it is for the limited purpose of protecting the health of an individual seeking care, consistent with accepted clinical standards of practice and evidence-based medicine, and does not infringe on that individual's autonomous decision-making.
+"Fetal viability" means: the point in pregnancy when, in the professional judgment of an attending health care professional and based on the particular facts of the case, there is a significant likelihood of the fetus's sustained survival outside the uterus without the application of extraordinary medical measures.
+(5) This section shall be self-executing. Any provision of this section held invalid shall be severable from the remaining portions of this section.
+History: Add. Initiated Law, approved Nov. 8, 2022, Eff. Dec. 24, 2022

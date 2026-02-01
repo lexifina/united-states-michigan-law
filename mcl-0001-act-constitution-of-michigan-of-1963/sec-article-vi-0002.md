@@ -1,0 +1,3 @@
+# MCL Article VI § 2 Justices of the supreme court; number, term, nomination, election.
+Sec. 2. The supreme court shall consist of seven justices elected at non-partisan elections as provided by law. The term of office shall be eight years and not more than two terms of office shall expire at the same time. Nominations for justices of the supreme court shall be in the manner prescribed by law. Any incumbent justice whose term is to expire may become a candidate for re-election by filing an affidavit of candidacy, in the form and manner prescribed by law, not less than 180 days prior to the expiration of his term.
+History: Const. 1963, Art. VI, § 2, Eff. Jan. 1, 1964

@@ -1,0 +1,7 @@
+# MCL Article V § 3 Single heads of departments; appointment, term.
+Sec. 3. The head of each principal department shall be a single executive unless otherwise provided in this constitution or by law. The single executives heading principal departments shall include a secretary of state, a state treasurer and an attorney general. When a single executive is the head of a principal department, unless elected or appointed as otherwise provided in this constitution, he shall be appointed by the governor by and with the advice and consent of the senate and he shall serve at the pleasure of the governor.
+Boards heading departments; appointment, term, removal.
+When a board or commission is at the head of a principal department, unless elected or appointed as otherwise provided in this constitution, the members thereof shall be appointed by the governor by and with the advice and consent of the senate. The term of office and procedure for removal of such members shall be as prescribed in this constitution or by law.
+Boards and commissions, maximum term.
+Terms of office of any board or commission created or enlarged after the effective date of this constitution shall not exceed four years except as otherwise authorized in this constitution. The terms of office of existing boards and commissions which are longer than four years shall not be further extended except as provided in this constitution.
+History: Const. 1963, Art. V, § 3, Eff. Jan. 1, 1964

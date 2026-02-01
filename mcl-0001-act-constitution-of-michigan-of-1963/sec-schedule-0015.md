@@ -1,0 +1,3 @@
+# MCL Schedule § 15 Submission of constitution; time, notice.
+Sec. 15. This constitution shall be submitted to the people for their adoption or rejection at the general election to be held on the first Monday in April, 1963. It shall be the duty of the secretary of state forthwith to give notice of such submission to all other officers required to give or publish any notice in regard to a general election. He shall give notice that this constitution will be duly submitted to the electors at such election. The notice shall be given in the manner required for the election of governor.
+History: Const. 1963, Schedule, § 15, Eff. Jan. 1, 1964

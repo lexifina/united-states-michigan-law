@@ -1,0 +1,3 @@
+# MCL Article VI § 13 Circuit courts; jurisdiction, writs, supervisory control over inferior courts.
+Sec. 13. The circuit court shall have original jurisdiction in all matters not prohibited by law; appellate jurisdiction from all inferior courts and tribunals except as otherwise provided by law; power to issue, hear and determine prerogative and remedial writs; supervisory and general control over inferior courts and tribunals within their respective jurisdictions in accordance with rules of the supreme court; and jurisdiction of other cases and matters as provided by rules of the supreme court.
+History: Const. 1963, Art. VI, § 13, Eff. Jan. 1, 1964

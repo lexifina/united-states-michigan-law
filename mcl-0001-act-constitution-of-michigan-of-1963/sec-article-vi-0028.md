@@ -1,0 +1,5 @@
+# MCL Article VI § 28 Administrative action, review.
+Sec. 28. All final decisions, findings, rulings and orders of any administrative officer or agency existing under the constitution or by law, which are judicial or quasi-judicial and affect private rights or licenses, shall be subject to direct review by the courts as provided by law. This review shall include, as a minimum, the determination whether such final decisions, findings, rulings and orders are authorized by law; and, in cases in which a hearing is required, whether the same are supported by competent, material and substantial evidence on the whole record. Findings of fact in workmen's compensation proceedings shall be conclusive in the absence of fraud unless otherwise provided by law.
+Property tax valuation or allocation; review.
+In the absence of fraud, error of law or the adoption of wrong principles, no appeal may be taken to any court from any final agency provided for the administration of property tax laws from any decision relating to valuation or allocation.
+History: Const. 1963, Art. VI, § 28, Eff. Jan. 1, 1964

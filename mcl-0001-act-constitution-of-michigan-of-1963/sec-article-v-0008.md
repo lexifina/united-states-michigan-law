@@ -1,0 +1,5 @@
+# MCL Article V § 8 Principal departments, supervision of governor; information from state officers.
+Sec. 8. Each principal department shall be under the supervision of the governor unless otherwise provided by this constitution. The governor shall take care that the laws be faithfully executed. He shall transact all necessary business with the officers of government and may require information in writing from all executive and administrative state officers, elective and appointive, upon any subject relating to the duties of their respective offices.
+Court enforcement of constitutional or legislative mandate.
+The governor may initiate court proceedings in the name of the state to enforce compliance with any constitutional or legislative mandate, or to restrain violations of any constitutional or legislative power, duty or right by any officer, department or agency of the state or any of its political subdivisions. This authority shall not be construed to authorize court proceedings against the legislature.
+History: Const. 1963, Art. V, § 8, Eff. Jan. 1, 1964

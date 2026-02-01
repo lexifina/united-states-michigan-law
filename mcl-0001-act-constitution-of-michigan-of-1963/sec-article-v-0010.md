@@ -1,0 +1,3 @@
+# MCL Article V § 10 Removal or suspension of officers; grounds, report.
+Sec. 10. The governor shall have power and it shall be his duty to inquire into the condition and administration of any public office and the acts of any public officer, elective or appointive. He may remove or suspend from office for gross neglect of duty or for corrupt conduct in office, or for any other misfeasance or malfeasance therein, any elective or appointive state officer, except legislative or judicial, and shall report the reasons for such removal or suspension to the legislature.
+History: Const. 1963, Art. V, § 10, Eff. Jan. 1, 1964

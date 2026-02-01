@@ -1,0 +1,3 @@
+# MCL Article IV § 26 Bills; printing, possession, reading, vote on passage.
+Sec. 26. No bill shall be passed or become a law at any regular session of the legislature until it has been printed or reproduced and in the possession of each house for at least five days. Every bill shall be read three times in each house before the final passage thereof. No bill shall become a law without the concurrence of a majority of the members elected to and serving in each house. On the final passage of bills, the votes and names of the members voting thereon shall be entered in the journal.
+History: Const. 1963, Art. IV, § 26, Eff. Jan. 1, 1964

@@ -1,0 +1,3 @@
+# MCL Article II § 6 Voters on tax limit increases or bond issues.
+Sec. 6. Whenever any question is required to be submitted by a political subdivision to the electors for the increase of the ad valorem tax rate limitation imposed by Section 6 of Article IX for a period of more than five years, or for the issue of bonds, only electors in, and who have property assessed for any ad valorem taxes in, any part of the district or territory to be affected by the result of such election or electors who are the lawful husbands or wives of such persons shall be entitled to vote thereon. All electors in the district or territory affected may vote on all other questions.
+History: Const. 1963, Art. II, § 6, Eff. Jan. 1, 1964

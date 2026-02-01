@@ -1,0 +1,5 @@
+# MCL Article V § 28 State transportation commission; establishment; purpose; appointment, qualifications, and terms of members; director of state transportation department.
+Sec. 28. There is hereby established a state transportation commission, which shall establish policy for the state transportation department transportation programs and facilities, and such other public works of the state, as provided by law.
+The state transportation commission shall consist of six members, not more than three of whom shall be members of the same political party. They shall be appointed by the governor by and with the advice and consent of the senate for three-year terms, no three of which shall expire in the same year, as provided by law.
+The director of the state transportation department shall be appointed as provided by law and shall be the principal executive officer of the state transportation department and shall be responsible for executing the policy of the state transportation commission.
+History: Const. 1963, Art. V, § 28, Eff. Jan. 1, 1964; Am. H.J.R. F, approved Nov. 7, 1978, Eff. Dec. 23, 1978
