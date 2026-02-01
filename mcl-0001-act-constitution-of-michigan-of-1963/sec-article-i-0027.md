@@ -10,4 +10,4 @@ Section 27. (1) Nothing in this section shall alter Michigan's current prohibiti
 (i) prevent, restrict, obstruct, or discourage any stem cell research or stem cell therapies and cures that are permitted by the provisions of this section; or
 (ii) create disincentives for any person to engage in or otherwise associate with such research or therapies or cures.
 (3) Any provision of this section held unconstitutional shall be severable from the remaining portions of this section.
-History: Add. Init., approved Nov. 4, 2008, Eff. Dec. 19, 2008
+History: Add. Initiated Law, approved Nov. 4, 2008, Eff. Dec. 19, 2008

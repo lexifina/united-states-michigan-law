@@ -1,3 +1,3 @@
 # MCL Article VI § 1 Judicial power in court of justice; divisions.
 Sec. 1. Except to the extent limited or abrogated by article IV, section 6, or article V, section 2, the judicial power of the state is vested exclusively in one court of justice which shall be divided into one supreme court, one court of appeals, one trial court of general jurisdiction known as the circuit court, one probate court, and courts of limited jurisdiction that the legislature may establish by a two-thirds vote of the members elected to and serving in each house.
-History: Const. 1963, Art. VI, § 1, Eff. Jan. 1, 1964; Am. Init., approved Nov. 6, 2018, Eff. Dec. 22, 2018
+History: Const. 1963, Art. VI, § 1, Eff. Jan. 1, 1964; Am. Initiated Law, approved Nov. 6, 2018, Eff. Dec. 22, 2018
