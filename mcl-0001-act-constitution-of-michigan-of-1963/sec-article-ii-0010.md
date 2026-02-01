@@ -3,4 +3,4 @@ Sec. 10. No person shall be elected to office as representative in the United St
 The people of Michigan hereby state their support for the aforementioned term limits for members of the United States House of Representatives and United States Senate and instruct their public officials to use their best efforts to attain such a limit nationwide.
 The people of Michigan declare that the provisions of this section shall be deemed severable from the remainder of this amendment and that their intention is that federal officials elected from Michigan will continue voluntarily to observe the wishes of the people as stated in this section, in the event any provision of this section is held invalid.
 This section shall be self-executing. Legislation may be enacted to facilitate operation of this section, but no law shall limit or restrict the application of this section. If any part of this section is held to be invalid or unconstitutional, the remaining parts of this section shall not be affected but will remain in full force and effect.
-History: Add. Init., approved Nov. 3, 1992, Eff. Dec. 19, 1992
+History: Add. Initiated Law, approved Nov. 3, 1992, Eff. Dec. 19, 1992
