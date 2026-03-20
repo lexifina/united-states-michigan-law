@@ -1,0 +1,16 @@
+# MCL 125.1528.amended Inconsistent or conflicting provisions; powers and duties of other acts not affected; exception for temporary door locking device or system.
+Sec. 28. (1) Any provision of any of the following that is inconsistent or in conflict with this act is superseded to the extent of the inconsistency or conflict:
+(a) Section 34 of 1933 (Ex Sess) PA 18, MCL 125.684.
+(b) Article 11 of the skilled trades regulation act, 2016 PA 407, MCL 339.6101 to 339.6133.
+(c) Article 7 of the skilled trades regulation act, 2016 PA 407, MCL 339.5701 to 339.5739.
+(d) Except as otherwise provided in this section, any other public act.
+(2) Any provision of this act that is inconsistent or in conflict with the Michigan fireworks safety act, 2011 PA 256, MCL 28.451 to 28.470, as it relates to the retail sale of consumer fireworks and low-impact fireworks, as those terms are defined in that act, is superseded to the extent of the inconsistency or conflict.
+(3) This act does not repeal, amend, supersede, or otherwise affect the powers and duties under any of the following:
+(a) Part 55 of the natural resources and environmental protection act, 1994 PA 451, MCL 324.5501 to 324.5542.
+(b) Part 124 of the public health code, 1978 PA 368, MCL 333.12401 to 333.12434.
+(c) The Michigan occupational safety and health act, 1974 PA 154, MCL 408.1001 to 408.1094.
+(d) Article 9 of the skilled trades regulation act, 2016 PA 407, MCL 339.5901 to 339.5947.
+(e) 1967 PA 227, MCL 408.801 to 408.824.
+(f) 1937 PA 306, MCL 388.851 to 388.855a.
+(4) A labeled fire door assembly with a temporary door locking device or system that is installed in accordance with section 4i or section 1d of 1937 PA 306, MCL 388.851d, does not violate this act.
+History: 1972, Act 230, Eff. Jan. 1, 1973; Am. 1980, Act 371, Imd. Eff. Dec. 30, 1980; Am. 1996, Act 48, Imd. Eff. Feb. 26, 1996; Am. 2014, Act 9, Imd. Eff. Feb. 11, 2014; Am. 2016, Act 409, Eff. Apr. 4, 2017; Am. 2018, Act 307, Imd. Eff. June 29, 2018; Am. 2020, Act 155, Imd. Eff. Sept. 17, 2020; Am. 2025, Act 60, Eff. Mar. 24, 2026
