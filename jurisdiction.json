@@ -1,0 +1,8 @@
+{
+  "path": "us/mi",
+  "code": "US-MI",
+  "name": "United States (Michigan)",
+  "level": "state",
+  "repo": "https://github.com/lexifina/united-states-michigan-law",
+  "build": "built"
+}
