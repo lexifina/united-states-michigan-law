@@ -175,6 +175,32 @@ This file is written by the build on 2026-11-10, the day the source data was ret
 | Michigan Compiled Laws chapter 492 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20492.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
 | Michigan Compiled Laws chapter 493 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20493.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
 | Michigan Compiled Laws chapter 500 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20500.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
+| Michigan Compiled Laws chapter 550 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20550.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
+| Michigan Compiled Laws chapter 551 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20551.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
+| Michigan Compiled Laws chapter 552 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20552.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
+| Michigan Compiled Laws chapter 555 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20555.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
+| Michigan Compiled Laws chapter 556 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20556.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
+| Michigan Compiled Laws chapter 557 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20557.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
+| Michigan Compiled Laws chapter 558 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20558.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
+| Michigan Compiled Laws chapter 559 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20559.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
+| Michigan Compiled Laws chapter 560 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20560.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
+| Michigan Compiled Laws chapter 561 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20561.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
+| Michigan Compiled Laws chapter 566 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20566.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
+| Michigan Compiled Laws chapter 567 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20567.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
+| Michigan Compiled Laws chapter 570 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20570.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
+| Michigan Compiled Laws chapter 600 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20600.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
+| Michigan Compiled Laws chapter 691 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20691.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
+| Michigan Compiled Laws chapter 700 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20700.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
+| Michigan Compiled Laws chapter 701 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20701.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
+| Michigan Compiled Laws chapter 720 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20720.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
+| Michigan Compiled Laws chapter 722 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20722.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
+| Michigan Compiled Laws chapter 725 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20725.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
+| Michigan Compiled Laws chapter 729 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20729.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
+| Michigan Compiled Laws chapter 730 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20730.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
+| Michigan Compiled Laws chapter 752 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20752.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
+| Michigan Compiled Laws chapter 760 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20760.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
+| Michigan Compiled Laws chapter 780 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20780.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
+| Michigan Compiled Laws chapter 791 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20791.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -2274,12 +2300,264 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `mcl-0493-act-2009-0075` | Michigan Compiled Laws, Chapter 493 (REGULATORY LOANS): Act 75 of 2009, Mortgage loan originator licensing act | 1 | 2026-03-23 to 2026-03-23 |
 | `mcl-0493-act-1984-0379` | Michigan Compiled Laws, Chapter 493 (REGULATORY LOANS): Act 379 of 1984, CREDIT CARD ARRANGEMENTS | 1 | 2026-03-23 to 2026-03-23 |
 | `mcl-0500-act-1956-0218` | Michigan Compiled Laws, Chapter 500 (INSURANCE CODE OF 1956): Act 218 of 1956, The insurance code of 1956 | 1 | 2026-03-30 to 2026-03-30 |
+| `mcl-0550-act-1933-0066` | Michigan Compiled Laws, Chapter 550 (GENERAL INSURANCE LAWS): Act 66 of 1933, EMERGENCY INSURANCE LEGISLATION | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0550-act-1984-0233` | Michigan Compiled Laws, Chapter 550 (GENERAL INSURANCE LAWS): Act 233 of 1984, Prudent purchaser act | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0550-act-1935-0143` | Michigan Compiled Laws, Chapter 550 (GENERAL INSURANCE LAWS): Act 143 of 1935, OFFICE AGENT; SET-OFF FOR DAMAGES | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0550-act-1984-0064` | Michigan Compiled Laws, Chapter 550 (GENERAL INSURANCE LAWS): Act 64 of 1984, The coordination of benefits act | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0550-act-2006-0593` | Michigan Compiled Laws, Chapter 550 (GENERAL INSURANCE LAWS): Act 593 of 2006, SHARING HEALTH CARE INFORMATION | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0550-act-1963-0125` | Michigan Compiled Laws, Chapter 550 (GENERAL INSURANCE LAWS): Act 125 of 1963, NONPROFIT DENTAL CARE CORPORATIONS | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0550-act-1996-0386` | Michigan Compiled Laws, Chapter 550 (GENERAL INSURANCE LAWS): Act 386 of 1996, VIATICAL SETTLEMENT CONTRACTS | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0550-act-1958-0173` | Michigan Compiled Laws, Chapter 550 (GENERAL INSURANCE LAWS): Act 173 of 1958, Credit insurance act | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0550-act-1913-0388` | Michigan Compiled Laws, Chapter 550 (GENERAL INSURANCE LAWS): Act 388 of 1913, STATE INSURANCE | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0550-act-2022-0011` | Michigan Compiled Laws, Chapter 550 (GENERAL INSURANCE LAWS): Act 11 of 2022, Pharmacy benefit manager licensure and regulation act | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0550-act-1984-0218` | Michigan Compiled Laws, Chapter 550 (GENERAL INSURANCE LAWS): Act 218 of 1984, Third party administrator act | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0550-act-e-r-o-no-2009-0022` | Michigan Compiled Laws, Chapter 550 (GENERAL INSURANCE LAWS): E.R.O. No. 2009-22, EXECUTIVE REORGANIZATION ORDER | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0550-act-e-r-o-no-2013-0001` | Michigan Compiled Laws, Chapter 550 (GENERAL INSURANCE LAWS): E.R.O. No. 2013-1, EXECUTIVE REORGANIZATION ORDER | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0550-act-1986-0252` | Michigan Compiled Laws, Chapter 550 (GENERAL INSURANCE LAWS): Act 252 of 1986, The health benefit agent act | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0550-act-1980-0350` | Michigan Compiled Laws, Chapter 550 (GENERAL INSURANCE LAWS): Act 350 of 1980, The nonprofit health care corporation reform act | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0550-act-2018-0175` | Michigan Compiled Laws, Chapter 550 (GENERAL INSURANCE LAWS): Act 175 of 2018, Insurance provider assessment act | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0550-act-1995-0239` | Michigan Compiled Laws, Chapter 550 (GENERAL INSURANCE LAWS): Act 239 of 1995, Group health plan act | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0550-act-2012-0101` | Michigan Compiled Laws, Chapter 550 (GENERAL INSURANCE LAWS): Act 101 of 2012, Autism coverage reimbursement act | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0550-act-2012-0530` | Michigan Compiled Laws, Chapter 550 (GENERAL INSURANCE LAWS): Act 530 of 2012, Health care sharing ministries freedom to share act | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0550-act-2000-0251` | Michigan Compiled Laws, Chapter 550 (GENERAL INSURANCE LAWS): Act 251 of 2000, Patient's right to independent review act | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0550-act-2006-0495` | Michigan Compiled Laws, Chapter 550 (GENERAL INSURANCE LAWS): Act 495 of 2006, CONTRACTS WITH STATE AND LOCAL GOVERNMENT SUBJECT TO PATIENT'S RIGHT TO INDEPENDENT REVIEW | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0550-act-2000-0499` | Michigan Compiled Laws, Chapter 550 (GENERAL INSURANCE LAWS): Act 499 of 2000, Elder prescription insurance coverage act | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0551-act-r-s-of-1846` | Michigan Compiled Laws, Chapter 551 (MARRIAGE): R.S. of 1846, Revised Statutes of 1846 | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0551-act-1921-0352` | Michigan Compiled Laws, Chapter 551 (MARRIAGE): Act 352 of 1921, MARRIAGE OF INDIVIDUALS UNDER EIGHTEEN | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0551-act-1887-0128` | Michigan Compiled Laws, Chapter 551 (MARRIAGE): Act 128 of 1887, MARRIAGE LICENSE | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0551-act-1897-0180` | Michigan Compiled Laws, Chapter 551 (MARRIAGE): Act 180 of 1897, ISSUANCE OF MARRIAGE LICENSE WITHOUT PUBLICITY | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0551-act-1919-0160` | Michigan Compiled Laws, Chapter 551 (MARRIAGE): Act 160 of 1919, LEGAL STATUS OF MARRIED MINORS | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0551-act-1939-0168` | Michigan Compiled Laws, Chapter 551 (MARRIAGE): Act 168 of 1939, FOREIGN MARRIAGES | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0551-act-1964-0155` | Michigan Compiled Laws, Chapter 551 (MARRIAGE): Act 155 of 1964, Circuit court family counseling services act | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0552-act-r-s-of-1846` | Michigan Compiled Laws, Chapter 552 (DIVORCE): R.S. of 1846, Revised Statutes of 1846 | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0552-act-1909-0259` | Michigan Compiled Laws, Chapter 552 (DIVORCE): Act 259 of 1909, JUDGMENTS OF DIVORCE OR SEPARATE MAINTENANCE | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0552-act-1911-0052` | Michigan Compiled Laws, Chapter 552 (DIVORCE): Act 52 of 1911, ALIMONY AWARDED BY COURT OF ANOTHER STATE | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0552-act-1913-0379` | Michigan Compiled Laws, Chapter 552 (DIVORCE): Act 379 of 1913, COLLECTION OF ALIMONY OR SUPPORT AND MAINTENANCE | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0552-act-1905-0299` | Michigan Compiled Laws, Chapter 552 (DIVORCE): Act 299 of 1905, CHANGE OF NAME OF DIVORCED WOMAN | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0552-act-1949-0042` | Michigan Compiled Laws, Chapter 552 (DIVORCE): Act 42 of 1949, AWARD OF PROPERTY OWNED BY SPOUSE TO PARTY | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0552-act-1966-0138` | Michigan Compiled Laws, Chapter 552 (DIVORCE): Act 138 of 1966, The family support act | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0552-act-1982-0294` | Michigan Compiled Laws, Chapter 552 (DIVORCE): Act 294 of 1982, Friend of the court act | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0552-act-1982-0295` | Michigan Compiled Laws, Chapter 552 (DIVORCE): Act 295 of 1982, Support and parenting time enforcement act | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0552-act-1985-0216` | Michigan Compiled Laws, Chapter 552 (DIVORCE): Act 216 of 1985, Interstate income withholding act | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0552-act-2015-0255` | Michigan Compiled Laws, Chapter 552 (DIVORCE): Act 255 of 2015, Uniform interstate family support act | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0555-act-r-s-of-1846` | Michigan Compiled Laws, Chapter 555 (USES AND TRUSTS): R.S. of 1846, Revised Statutes of 1846 | 1 | 2026-03-26 to 2026-03-26 |
+| `mcl-0555-act-1941-0174` | Michigan Compiled Laws, Chapter 555 (USES AND TRUSTS): Act 174 of 1941, Collective investment funds act | 1 | 2026-03-26 to 2026-03-26 |
+| `mcl-0555-act-1947-0193` | Michigan Compiled Laws, Chapter 555 (USES AND TRUSTS): Act 193 of 1947, TRUSTS OF PROPERTY FOR EMPLOYEES | 1 | 2026-03-26 to 2026-03-26 |
+| `mcl-0555-act-1957-0056` | Michigan Compiled Laws, Chapter 555 (USES AND TRUSTS): Act 56 of 1957, CORPORATE FIDUCIARY STOCKHOLDERS | 1 | 2026-03-26 to 2026-03-26 |
+| `mcl-0555-act-2004-0159` | Michigan Compiled Laws, Chapter 555 (USES AND TRUSTS): Act 159 of 2004, Uniform principal and income act | 1 | 2026-03-26 to 2026-03-26 |
+| `mcl-0556-act-1967-0224` | Michigan Compiled Laws, Chapter 556 (POWERS OF APPOINTMENT): Act 224 of 1967, Powers of appointment act of 1967 | 1 | 2026-03-22 to 2026-03-22 |
+| `mcl-0556-act-2023-0187` | Michigan Compiled Laws, Chapter 556 (POWERS OF APPOINTMENT): Act 187 of 2023, Uniform power of attorney act | 1 | 2026-03-22 to 2026-03-22 |
+| `mcl-0557-act-1981-0216` | Michigan Compiled Laws, Chapter 557 (PROPERTY OF HUSBAND AND WIFE): Act 216 of 1981, RIGHTS AND LIABILITY OF MARRIED WOMEN | 1 | 2026-02-07 to 2026-02-07 |
+| `mcl-0557-act-1975-0288` | Michigan Compiled Laws, Chapter 557 (PROPERTY OF HUSBAND AND WIFE): Act 288 of 1975, INCOME RIGHTS OF HUSBAND AND WIFE AS TENANTS BY ENTIRETY | 1 | 2026-02-07 to 2026-02-07 |
+| `mcl-0557-act-1925-0126` | Michigan Compiled Laws, Chapter 557 (PROPERTY OF HUSBAND AND WIFE): Act 126 of 1925, LAND HELD AS TENANCY BY ENTIRETY | 1 | 2026-02-07 to 2026-02-07 |
+| `mcl-0557-act-1927-0210` | Michigan Compiled Laws, Chapter 557 (PROPERTY OF HUSBAND AND WIFE): Act 210 of 1927, TERMINATION OF TENANCIES BY ENTIRETY | 1 | 2026-02-07 to 2026-02-07 |
+| `mcl-0557-act-1978-0118` | Michigan Compiled Laws, Chapter 557 (PROPERTY OF HUSBAND AND WIFE): Act 118 of 1978, OWNERSHIP OF PROPERTY ACQUIRED JOINTLY AFTER GOOD FAITH MARRIAGE | 1 | 2026-02-07 to 2026-02-07 |
+| `mcl-0557-act-1927-0212` | Michigan Compiled Laws, Chapter 557 (PROPERTY OF HUSBAND AND WIFE): Act 212 of 1927, JOINT OWNERSHIP OF PERSONAL PROPERTY IN JOINT TENANCY | 1 | 2026-02-07 to 2026-02-07 |
+| `mcl-0557-act-1947-0317` | Michigan Compiled Laws, Chapter 557 (PROPERTY OF HUSBAND AND WIFE): Act 317 of 1947, Michigan community property act | 1 | 2026-02-07 to 2026-02-07 |
+| `mcl-0557-act-1948-0039` | Michigan Compiled Laws, Chapter 557 (PROPERTY OF HUSBAND AND WIFE): Act 39 of 1948 (1st Ex. Sess.), REPEAL OF COMMUNITY PROPERTY ACT | 1 | 2026-02-07 to 2026-02-07 |
+| `mcl-0557-act-1975-0289` | Michigan Compiled Laws, Chapter 557 (PROPERTY OF HUSBAND AND WIFE): Act 289 of 1975, Uniform disposition of community property rights at death act | 1 | 2026-02-07 to 2026-02-07 |
+| `mcl-0558-act-r-s-of-1846` | Michigan Compiled Laws, Chapter 558 (ESTATES IN DOWER): R.S. of 1846, Revised Statutes of 1846 | 1 | 2026-03-25 to 2026-03-25 |
+| `mcl-0558-act-1847-0063` | Michigan Compiled Laws, Chapter 558 (ESTATES IN DOWER): Act 63 of 1847, DUAL CLAIM TO, OR DISCHARGE OF, DOWER | 1 | 2026-03-25 to 2026-03-25 |
+| `mcl-0558-act-1917-0058` | Michigan Compiled Laws, Chapter 558 (ESTATES IN DOWER): Act 58 of 1917, FILING OF CLAIM OF DOWER | 1 | 2026-03-25 to 2026-03-25 |
+| `mcl-0558-act-1939-0105` | Michigan Compiled Laws, Chapter 558 (ESTATES IN DOWER): Act 105 of 1939, FILING OF CLAIM OF DOWER | 1 | 2026-03-25 to 2026-03-25 |
+| `mcl-0559-act-1978-0059` | Michigan Compiled Laws, Chapter 559 (CONDOMINIUMS): Act 59 of 1978, Condominium act | 1 | 2026-03-20 to 2026-03-20 |
+| `mcl-0559-act-2024-0068` | Michigan Compiled Laws, Chapter 559 (CONDOMINIUMS): Act 68 of 2024, Homeowners' energy policy act | 1 | 2026-03-20 to 2026-03-20 |
+| `mcl-0560-act-1967-0288` | Michigan Compiled Laws, Chapter 560 (SUBDIVISION CONTROL ACT OF 1967): Act 288 of 1967, Land division act | 1 | 2026-01-26 to 2026-01-26 |
+| `mcl-0561-act-1944-0052` | Michigan Compiled Laws, Chapter 561 (LOSS OR DESTRUCTION OF PUBLIC RECORDS): Act 52 of 1944 (1st Ex. Sess.), LOSS OR DESTRUCTION OF PUBLIC RECORDS | 1 | 2026-02-03 to 2026-02-03 |
+| `mcl-0566-act-1941-0238` | Michigan Compiled Laws, Chapter 566 (FRAUDULENT CONVEYANCES AND CONTRACTS): Act 238 of 1941, AGREEMENTS TO MODIFY OR DISCHARGE CONTRACTS | 1 | 2026-03-24 to 2026-03-24 |
+| `mcl-0566-act-1998-0434` | Michigan Compiled Laws, Chapter 566 (FRAUDULENT CONVEYANCES AND CONTRACTS): Act 434 of 1998, Uniform voidable transactions act | 1 | 2026-03-24 to 2026-03-24 |
+| `mcl-0566-act-r-s-of-1846` | Michigan Compiled Laws, Chapter 566 (FRAUDULENT CONVEYANCES AND CONTRACTS): R.S. of 1846, Revised Statutes of 1846 | 1 | 2026-03-24 to 2026-03-24 |
+| `mcl-0566-act-r-s-of-1846-2` | Michigan Compiled Laws, Chapter 566 (FRAUDULENT CONVEYANCES AND CONTRACTS): R.S. of 1846, Revised Statutes of 1846 | 1 | 2026-03-24 to 2026-03-24 |
+| `mcl-0566-act-r-s-of-1846-3` | Michigan Compiled Laws, Chapter 566 (FRAUDULENT CONVEYANCES AND CONTRACTS): R.S. of 1846, Revised Statutes of 1846 | 1 | 2026-03-24 to 2026-03-24 |
+| `mcl-0566-act-1937-0305` | Michigan Compiled Laws, Chapter 566 (FRAUDULENT CONVEYANCES AND CONTRACTS): Act 305 of 1937, AUTOMOBILE ACCESSORIES; RECORDING CHATTEL MORTGAGES AND CONDITIONAL SALES CONTRACTS | 1 | 2026-03-24 to 2026-03-24 |
+| `mcl-0566-act-1939-0305` | Michigan Compiled Laws, Chapter 566 (FRAUDULENT CONVEYANCES AND CONTRACTS): Act 305 of 1939, MOTOR VEHICLE INSTALLMENT SALES CONTRACTS | 1 | 2026-03-24 to 2026-03-24 |
+| `mcl-0566-act-1937-0331` | Michigan Compiled Laws, Chapter 566 (FRAUDULENT CONVEYANCES AND CONTRACTS): Act 331 of 1937, CORRESPONDENCE SCHOOL CONTRACTS | 1 | 2026-03-24 to 2026-03-24 |
+| `mcl-0567-act-1995-0029` | Michigan Compiled Laws, Chapter 567 (ESCHEATS): Act 29 of 1995, Uniform unclaimed property act | 1 | 2026-03-24 to 2026-03-24 |
+| `mcl-0570-act-1905-0187` | Michigan Compiled Laws, Chapter 570 (LIENS): Act 187 of 1905, PUBLIC BUILDINGS AND PUBLIC WORKS; BOND OF CONTRACTOR | 1 | 2026-03-25 to 2026-03-25 |
+| `mcl-0570-act-1931-0259` | Michigan Compiled Laws, Chapter 570 (LIENS): Act 259 of 1931, BUILDING CONTRACT FUND | 1 | 2026-03-25 to 2026-03-25 |
+| `mcl-0570-act-r-s-of-1846` | Michigan Compiled Laws, Chapter 570 (LIENS): R.S. of 1846, Revised Statutes of 1846 | 1 | 2026-03-25 to 2026-03-25 |
+| `mcl-0570-act-1909-0254` | Michigan Compiled Laws, Chapter 570 (LIENS): Act 254 of 1909, LIEN FOR LABOR ON PROPERTY OF COAL, SHALE, OR CLAY MINING CORPORATIONS | 1 | 2026-03-25 to 2026-03-25 |
+| `mcl-0570-act-1937-0146` | Michigan Compiled Laws, Chapter 570 (LIENS): Act 146 of 1937, LIEN FOR LABOR AND MATERIALS FOR OIL OR GAS WELLS, PIPE LINES, OR EQUIPMENT | 1 | 2026-03-25 to 2026-03-25 |
+| `mcl-0570-act-1915-0312` | Michigan Compiled Laws, Chapter 570 (LIENS): Act 312 of 1915, Garage keeper's lien act | 1 | 2026-03-25 to 2026-03-25 |
+| `mcl-0570-act-1911-0116` | Michigan Compiled Laws, Chapter 570 (LIENS): Act 116 of 1911, PRESSING, THRESHING, OR HULLING LIEN | 1 | 2026-03-25 to 2026-03-25 |
+| `mcl-0570-act-1998-0362` | Michigan Compiled Laws, Chapter 570 (LIENS): Act 362 of 1998, Michigan marina and boatyard storage lien act | 1 | 2026-03-25 to 2026-03-25 |
+| `mcl-0570-act-1864-0059` | Michigan Compiled Laws, Chapter 570 (LIENS): Act 59 of 1864 (Ex. Sess.), LIEN ON WATERCRAFT | 1 | 2026-03-25 to 2026-03-25 |
+| `mcl-0570-act-1985-0148` | Michigan Compiled Laws, Chapter 570 (LIENS): Act 148 of 1985, Self-service storage facility act | 1 | 2026-03-25 to 2026-03-25 |
+| `mcl-0570-act-2002-0481` | Michigan Compiled Laws, Chapter 570 (LIENS): Act 481 of 2002, Special tools lien act | 1 | 2026-03-25 to 2026-03-25 |
+| `mcl-0570-act-2010-0201` | Michigan Compiled Laws, Chapter 570 (LIENS): Act 201 of 2010, Commercial real estate broker's lien act | 1 | 2026-03-25 to 2026-03-25 |
+| `mcl-0570-act-1980-0497` | Michigan Compiled Laws, Chapter 570 (LIENS): Act 497 of 1980, Construction lien act | 1 | 2026-03-25 to 2026-03-25 |
+| `mcl-0600-act-1961-0236` | Michigan Compiled Laws, Chapter 600 (REVISED JUDICATURE ACT OF 1961): Act 236 of 1961, Revised judicature act of 1961 | 1 | 2026-03-24 to 2026-03-24 |
+| `mcl-0600-act-2024-0047` | Michigan Compiled Laws, Chapter 600 (REVISED JUDICATURE ACT OF 1961): Act 47 of 2024, Trial court funding act of 2024 | 1 | 2026-03-24 to 2026-03-24 |
+| `mcl-0691-act-1963-0227` | Michigan Compiled Laws, Chapter 691 (JUDICIARY): Act 227 of 1963, Emergency interim judicial succession act | 1 | 2026-03-20 to 2026-03-20 |
+| `mcl-0691-act-1966-0165` | Michigan Compiled Laws, Chapter 691 (JUDICIARY): Act 165 of 1966, VOID CONSTRUCTION CONTRACTS | 1 | 2026-03-20 to 2026-03-20 |
+| `mcl-0691-act-1969-0161` | Michigan Compiled Laws, Chapter 691 (JUDICIARY): Act 161 of 1969, ACTIONS INVOLVING ELECTIONS | 1 | 2026-03-20 to 2026-03-20 |
+| `mcl-0691-act-1963-0247` | Michigan Compiled Laws, Chapter 691 (JUDICIARY): Act 247 of 1963, PUBLICATION OF NOTICES IN NEWSPAPERS | 1 | 2026-03-20 to 2026-03-20 |
+| `mcl-0691-act-1963-0052` | Michigan Compiled Laws, Chapter 691 (JUDICIARY): Act 52 of 1963 (2nd Ex. Sess.), SUPREME COURT JUSTICES | 1 | 2026-03-20 to 2026-03-20 |
+| `mcl-0691-act-1964-0105` | Michigan Compiled Laws, Chapter 691 (JUDICIARY): Act 105 of 1964, REPRODUCTION OF PUBLIC RECORDS | 1 | 2026-03-20 to 2026-03-20 |
+| `mcl-0691-act-1964-0106` | Michigan Compiled Laws, Chapter 691 (JUDICIARY): Act 106 of 1964, REPRODUCTION OF PUBLIC RECORDS | 1 | 2026-03-20 to 2026-03-20 |
+| `mcl-0691-act-2008-0020` | Michigan Compiled Laws, Chapter 691 (JUDICIARY): Act 20 of 2008, Uniform foreign-country money judgments recognition act | 1 | 2026-03-20 to 2026-03-20 |
+| `mcl-0691-act-1996-0502` | Michigan Compiled Laws, Chapter 691 (JUDICIARY): Act 502 of 1996, Uniform enforcement of foreign judgments act | 1 | 2026-03-20 to 2026-03-20 |
+| `mcl-0691-act-2006-0296` | Michigan Compiled Laws, Chapter 691 (JUDICIARY): Act 296 of 2006, Revised structured settlement protection act | 1 | 2026-03-20 to 2026-03-20 |
+| `mcl-0691-act-2014-0159` | Michigan Compiled Laws, Chapter 691 (JUDICIARY): Act 159 of 2014, Uniform collaborative law act | 1 | 2026-03-20 to 2026-03-20 |
+| `mcl-0691-act-1964-0170` | Michigan Compiled Laws, Chapter 691 (JUDICIARY): Act 170 of 1964, GOVERNMENTAL LIABILITY FOR NEGLIGENCE | 1 | 2026-03-20 to 2026-03-20 |
+| `mcl-0691-act-2020-0240` | Michigan Compiled Laws, Chapter 691 (JUDICIARY): Act 240 of 2020, Pandemic health care immunity act | 1 | 2026-03-20 to 2026-03-20 |
+| `mcl-0691-act-1963-0017` | Michigan Compiled Laws, Chapter 691 (JUDICIARY): Act 17 of 1963, LIABILITY OF CERTAIN PERSONS FOR EMERGENCY CARE | 1 | 2026-03-20 to 2026-03-20 |
+| `mcl-0691-act-1978-0448` | Michigan Compiled Laws, Chapter 691 (JUDICIARY): Act 448 of 1978, IMMUNITY OF RESTAURANT OWNERS AND EMPLOYEES | 1 | 2026-03-20 to 2026-03-20 |
+| `mcl-0691-act-1989-0269` | Michigan Compiled Laws, Chapter 691 (JUDICIARY): Act 269 of 1989, SPORT SHOOTING RANGES | 1 | 2026-03-20 to 2026-03-20 |
+| `mcl-0691-act-1988-0260` | Michigan Compiled Laws, Chapter 691 (JUDICIARY): Act 260 of 1988, Community dispute resolution act | 1 | 2026-03-20 to 2026-03-20 |
+| `mcl-0691-act-1993-0136` | Michigan Compiled Laws, Chapter 691 (JUDICIARY): Act 136 of 1993, IMMUNITY OF FOOD DONORS FROM CIVIL LIABILITY | 1 | 2026-03-20 to 2026-03-20 |
+| `mcl-0691-act-2011-0221` | Michigan Compiled Laws, Chapter 691 (JUDICIARY): Act 221 of 2011, Bowling center act | 1 | 2026-03-20 to 2026-03-20 |
+| `mcl-0691-act-1994-0027` | Michigan Compiled Laws, Chapter 691 (JUDICIARY): Act 27 of 1994, Drug dealer liability act | 1 | 2026-03-20 to 2026-03-20 |
+| `mcl-0691-act-2012-0590` | Michigan Compiled Laws, Chapter 691 (JUDICIARY): Act 590 of 2012, Social services agency liability act | 1 | 2026-03-20 to 2026-03-20 |
+| `mcl-0691-act-1994-0351` | Michigan Compiled Laws, Chapter 691 (JUDICIARY): Act 351 of 1994, Equine activity liability act | 1 | 2026-03-20 to 2026-03-20 |
+| `mcl-0691-act-2022-0085` | Michigan Compiled Laws, Chapter 691 (JUDICIARY): Act 85 of 2022, Opioid liability litigation act | 1 | 2026-03-20 to 2026-03-20 |
+| `mcl-0691-act-2012-0371` | Michigan Compiled Laws, Chapter 691 (JUDICIARY): Act 371 of 2012, Uniform arbitration act | 1 | 2026-03-20 to 2026-03-20 |
+| `mcl-0691-act-2014-0011` | Michigan Compiled Laws, Chapter 691 (JUDICIARY): Act 11 of 2014, Trampoline court safety act | 1 | 2026-03-20 to 2026-03-20 |
+| `mcl-0691-act-2016-0343` | Michigan Compiled Laws, Chapter 691 (JUDICIARY): Act 343 of 2016, Wrongful imprisonment compensation act | 1 | 2026-03-20 to 2026-03-20 |
+| `mcl-0691-act-2023-0038` | Michigan Compiled Laws, Chapter 691 (JUDICIARY): Act 38 of 2023, Extreme risk protection order act | 1 | 2026-03-20 to 2026-03-20 |
+| `mcl-0691-act-2025-0052` | Michigan Compiled Laws, Chapter 691 (JUDICIARY): Act 52 of 2025, Uniform public expression protection act | 1 | 2026-03-20 to 2026-03-20 |
+| `mcl-0700-act-2016-0059` | Michigan Compiled Laws, Chapter 700 (ESTATES AND PROTECTED INDIVIDUALS CODE): Act 59 of 2016, Fiduciary access to digital assets act | 1 | 2026-02-04 to 2026-02-04 |
+| `mcl-0700-act-2016-0330` | Michigan Compiled Laws, Chapter 700 (ESTATES AND PROTECTED INDIVIDUALS CODE): Act 330 of 2016, Qualified dispositions in trust act | 1 | 2026-02-04 to 2026-02-04 |
+| `mcl-0700-act-1998-0386` | Michigan Compiled Laws, Chapter 700 (ESTATES AND PROTECTED INDIVIDUALS CODE): Act 386 of 1998, Estates and protected individuals code | 1 | 2026-02-04 to 2026-02-04 |
+| `mcl-0701-act-1939-0288` | Michigan Compiled Laws, Chapter 701 (PROBATE CODE): Act 288 of 1939, Probate code of 1939 | 1 | 2025-05-06 to 2025-05-06 |
+| `mcl-0720-act-1947-0194` | Michigan Compiled Laws, Chapter 720 (PROBATE): Act 194 of 1947, STATE PUBLIC ADMINISTRATOR | 1 | 2026-03-25 to 2026-03-25 |
+| `mcl-0720-act-1947-0044` | Michigan Compiled Laws, Chapter 720 (PROBATE): Act 44 of 1947, MISSING PERSONS | 1 | 2026-03-25 to 2026-03-25 |
+| `mcl-0720-act-1957-0029` | Michigan Compiled Laws, Chapter 720 (PROBATE): Act 29 of 1957, DESTRUCTION OF CERTAIN FILES AND RECORDS | 1 | 2026-03-25 to 2026-03-25 |
+| `mcl-0720-act-1949-0084` | Michigan Compiled Laws, Chapter 720 (PROBATE): Act 84 of 1949, TRANSFER OF JUVENILES BETWEEN INSTITUTIONS | 1 | 2026-03-25 to 2026-03-25 |
+| `mcl-0720-act-1963-0214` | Michigan Compiled Laws, Chapter 720 (PROBATE): Act 214 of 1963, REGIONAL FACILITIES FOR DELINQUENT AND NEGLECTED MINORS | 1 | 2026-03-25 to 2026-03-25 |
+| `mcl-0722-act-1968-0293` | Michigan Compiled Laws, Chapter 722 (CHILDREN): Act 293 of 1968, STATUS OF MINORS AND CHILD SUPPORT | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0722-act-1989-0032` | Michigan Compiled Laws, Chapter 722 (CHILDREN): Act 32 of 1989, MCGRUFF HOUSE PROGRAM AND MICHIGAN COMMUNITY CHILD WATCH PROGRAM | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0722-act-1970-0091` | Michigan Compiled Laws, Chapter 722 (CHILDREN): Act 91 of 1970, Child custody act of 1970 | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0722-act-1971-0022` | Michigan Compiled Laws, Chapter 722 (CHILDREN): Act 22 of 1971, BLOOD DONATIONS | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0722-act-1971-0079` | Michigan Compiled Laws, Chapter 722 (CHILDREN): Act 79 of 1971, Age of majority act of 1971 | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0722-act-e-r-o-no-2018-0006` | Michigan Compiled Laws, Chapter 722 (CHILDREN): E.R.O. No. 2018-6, EXECUTIVE REORGANIZATION ORDER | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0722-act-1973-0116` | Michigan Compiled Laws, Chapter 722 (CHILDREN): Act 116 of 1973, CHILD CARE ORGANIZATIONS | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0722-act-1984-0422` | Michigan Compiled Laws, Chapter 722 (CHILDREN): Act 422 of 1984, FOSTER CARE REVIEW BOARDS | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0722-act-1968-0296` | Michigan Compiled Laws, Chapter 722 (CHILDREN): Act 296 of 1968, AIDING OR ABETTING VIOLATIONS OF JUVENILE COURT ORDERS | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0722-act-1980-0033` | Michigan Compiled Laws, Chapter 722 (CHILDREN): Act 33 of 1980, REIMBURSEMENT OF LEGAL COSTS OF FOSTER PARENTS | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0722-act-1944-0013` | Michigan Compiled Laws, Chapter 722 (CHILDREN): Act 13 of 1944 (1st Ex. Sess.), CHILD GUIDANCE CLINICS; COMMUNITY MENTAL HEALTH CLINICS | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0722-act-1921-0137` | Michigan Compiled Laws, Chapter 722 (CHILDREN): Act 137 of 1921, CONTRACTS FOR CARE OF CHILDREN | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0722-act-1925-0271` | Michigan Compiled Laws, Chapter 722 (CHILDREN): Act 271 of 1925, COMMITMENT OF CHILDREN TO STATE INSTITUTIONS | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0722-act-1982-0250` | Michigan Compiled Laws, Chapter 722 (CHILDREN): Act 250 of 1982, Child abuse and neglect prevention act | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0722-act-e-r-o-no-1992-0005` | Michigan Compiled Laws, Chapter 722 (CHILDREN): E.R.O. No. 1992-5, EXECUTIVE REORGANIZATION ORDER | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0722-act-1975-0238` | Michigan Compiled Laws, Chapter 722 (CHILDREN): Act 238 of 1975, Child protection law | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0722-act-1915-0031` | Michigan Compiled Laws, Chapter 722 (CHILDREN): Act 31 of 1915, Youth tobacco act | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0722-act-1978-0033` | Michigan Compiled Laws, Chapter 722 (CHILDREN): Act 33 of 1978, DISSEMINATING, EXHIBITING, OR DISPLAYING SEXUALLY EXPLICIT MATTER TO MINORS | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0722-act-1956-0205` | Michigan Compiled Laws, Chapter 722 (CHILDREN): Act 205 of 1956, The paternity act | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0722-act-1960-0041` | Michigan Compiled Laws, Chapter 722 (CHILDREN): Act 41 of 1960, CURFEW FOR CHILDREN | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0722-act-1965-0071` | Michigan Compiled Laws, Chapter 722 (CHILDREN): Act 71 of 1965, COUNTY REHABILITATION WORK CAMPS FOR JUVENILE OFFENDERS | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0722-act-1985-0176` | Michigan Compiled Laws, Chapter 722 (CHILDREN): Act 176 of 1985, Child identification and protection act | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0722-act-1988-0013` | Michigan Compiled Laws, Chapter 722 (CHILDREN): Act 13 of 1988, Juvenile diversion act | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0722-act-2008-0260` | Michigan Compiled Laws, Chapter 722 (CHILDREN): Act 260 of 2008, Guardianship assistance act | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0722-act-1990-0211` | Michigan Compiled Laws, Chapter 722 (CHILDREN): Act 211 of 1990, The parental rights restoration act | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0722-act-1994-0204` | Michigan Compiled Laws, Chapter 722 (CHILDREN): Act 204 of 1994, Office of the child advocate act | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0722-act-1994-0203` | Michigan Compiled Laws, Chapter 722 (CHILDREN): Act 203 of 1994, Foster care and adoption services act | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0722-act-2008-0215` | Michigan Compiled Laws, Chapter 722 (CHILDREN): Act 215 of 2008, Foster care independence act | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0722-act-e-r-o-no-2010-0009` | Michigan Compiled Laws, Chapter 722 (CHILDREN): E.R.O. No. 2010-9, EXECUTIVE REORGANIZATION ORDER | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0722-act-1996-0305` | Michigan Compiled Laws, Chapter 722 (CHILDREN): Act 305 of 1996, Acknowledgment of parentage act | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0722-act-2008-0525` | Michigan Compiled Laws, Chapter 722 (CHILDREN): Act 525 of 2008, Fostering futures scholarship trust fund act | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0722-act-2008-0544` | Michigan Compiled Laws, Chapter 722 (CHILDREN): Act 544 of 2008, Children's advocacy center act | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0722-act-2000-0219` | Michigan Compiled Laws, Chapter 722 (CHILDREN): Act 219 of 2000, Children's product safety act | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0722-act-2001-0195` | Michigan Compiled Laws, Chapter 722 (CHILDREN): Act 195 of 2001, Uniform child-custody jurisdiction and enforcement act | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0722-act-2012-0159` | Michigan Compiled Laws, Chapter 722 (CHILDREN): Act 159 of 2012, Revocation of parentage act | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0722-act-2014-0365` | Michigan Compiled Laws, Chapter 722 (CHILDREN): Act 365 of 2014, Genetic parentage act | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0722-act-2014-0366` | Michigan Compiled Laws, Chapter 722 (CHILDREN): Act 366 of 2014, Summary support and paternity act | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0722-act-2014-0460` | Michigan Compiled Laws, Chapter 722 (CHILDREN): Act 460 of 2014, Uniform child abduction prevention act | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0722-act-2018-0434` | Michigan Compiled Laws, Chapter 722 (CHILDREN): Act 434 of 2018, Safe families for children act | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0722-act-2022-0109` | Michigan Compiled Laws, Chapter 722 (CHILDREN): Act 109 of 2022, INFANT AND TODDLER CHILD CARE CONTRACTS | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0722-act-2022-0108` | Michigan Compiled Laws, Chapter 722 (CHILDREN): Act 108 of 2022, Family child care networks act | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0722-act-2024-0024` | Michigan Compiled Laws, Chapter 722 (CHILDREN): Act 24 of 2024, Assisted reproduction and surrogacy parentage act | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0722-act-2024-0124` | Michigan Compiled Laws, Chapter 722 (CHILDREN): Act 124 of 2024, Court-appointed special advocate act | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0725-act-1917-0221` | Michigan Compiled Laws, Chapter 725 (MUNICIPAL COURTS OF RECORD): Act 221 of 1917, COMPENSATION OF REPORTERS OR RECORDERS OF CERTAIN COURTS OF RECORD | 1 | 2026-01-26 to 2026-01-26 |
+| `mcl-0725-act-1867-0129` | Michigan Compiled Laws, Chapter 725 (MUNICIPAL COURTS OF RECORD): Act 129 of 1867, DISQUALIFICATION OF JURORS | 1 | 2026-01-26 to 2026-01-26 |
+| `mcl-0725-act-1953-0085` | Michigan Compiled Laws, Chapter 725 (MUNICIPAL COURTS OF RECORD): Act 85 of 1953, MUNICIPAL TRAFFIC VIOLATIONS BUREAU | 1 | 2026-01-26 to 2026-01-26 |
+| `mcl-0729-act-1953-0017` | Michigan Compiled Laws, Chapter 729 (POLICE COURTS): Act 17 of 1953, DRAWING OF JURIES | 1 | 2026-03-26 to 2026-03-26 |
+| `mcl-0730-act-1929-0288` | Michigan Compiled Laws, Chapter 730 (JUSTICE COURTS AND MUNICIPAL COURTS): Act 288 of 1929, JURY TRIALS IN JUSTICE COURTS | 1 | 2026-05-10 to 2026-05-10 |
+| `mcl-0730-act-1951-0179` | Michigan Compiled Laws, Chapter 730 (JUSTICE COURTS AND MUNICIPAL COURTS): Act 179 of 1951, DRAWING JURIES IN JUSTICE COURT | 1 | 2026-05-10 to 2026-05-10 |
+| `mcl-0730-act-1956-0005` | Michigan Compiled Laws, Chapter 730 (JUSTICE COURTS AND MUNICIPAL COURTS): Act 5 of 1956, Michigan uniform municipal court act | 1 | 2026-05-10 to 2026-05-10 |
+| `mcl-0730-act-1956-0184` | Michigan Compiled Laws, Chapter 730 (JUSTICE COURTS AND MUNICIPAL COURTS): Act 184 of 1956, MUNICIPAL COURTS | 1 | 2026-05-10 to 2026-05-10 |
+| `mcl-0730-act-1990-0217` | Michigan Compiled Laws, Chapter 730 (JUSTICE COURTS AND MUNICIPAL COURTS): Act 217 of 1990, REPEALER | 1 | 2026-05-10 to 2026-05-10 |
+| `mcl-0752-act-1980-0201` | Michigan Compiled Laws, Chapter 752 (CRIMES AND OFFENSES): Act 201 of 1980, INTERSTATE LAW ENFORCEMENT INTELLIGENCE ORGANIZATIONS | 1 | 2026-03-22 to 2026-03-22 |
+| `mcl-0752-act-1966-0158` | Michigan Compiled Laws, Chapter 752 (CRIMES AND OFFENSES): Act 158 of 1966, LAW ENFORCEMENT | 1 | 2026-03-22 to 2026-03-22 |
+| `mcl-0752-act-1937-0010` | Michigan Compiled Laws, Chapter 752 (CRIMES AND OFFENSES): Act 10 of 1937, USE OF TRAVEL AIDS BY BLIND PERSONS | 1 | 2026-03-22 to 2026-03-22 |
+| `mcl-0752-act-1981-0082` | Michigan Compiled Laws, Chapter 752 (CRIMES AND OFFENSES): Act 82 of 1981, COLLARS, HARNESSES, AND LEASHES ON DOGS IN PUBLIC PLACES | 1 | 2026-03-22 to 2026-03-22 |
+| `mcl-0752-act-r-s-of-1846` | Michigan Compiled Laws, Chapter 752 (CRIMES AND OFFENSES): R.S. of 1846, Revised Statutes of 1846 | 1 | 2026-03-22 to 2026-03-22 |
+| `mcl-0752-act-1945-0163` | Michigan Compiled Laws, Chapter 752 (CRIMES AND OFFENSES): Act 163 of 1945, SALE OF BABY CHICKS, RABBITS, DUCKLINGS, OR OTHER FOWL OR GAME | 1 | 2026-03-22 to 2026-03-22 |
+| `mcl-0752-act-1907-0124` | Michigan Compiled Laws, Chapter 752 (CRIMES AND OFFENSES): Act 124 of 1907, SAFETY DEVICES ON CORN HUSKERS | 1 | 2026-03-22 to 2026-03-22 |
+| `mcl-0752-act-1931-0231` | Michigan Compiled Laws, Chapter 752 (CRIMES AND OFFENSES): Act 231 of 1931, LIQUID FUELS, LUBRICATING OILS, OR SIMILAR PRODUCTS | 1 | 2026-03-22 to 2026-03-22 |
+| `mcl-0752-act-1967-0119` | Michigan Compiled Laws, Chapter 752 (CRIMES AND OFFENSES): Act 119 of 1967, CHEMICAL AGENTS | 1 | 2026-03-22 to 2026-03-22 |
+| `mcl-0752-act-1984-0343` | Michigan Compiled Laws, Chapter 752 (CRIMES AND OFFENSES): Act 343 of 1984, OBSCENE MATERIAL | 1 | 2026-03-22 to 2026-03-22 |
+| `mcl-0752-act-2025-0011` | Michigan Compiled Laws, Chapter 752 (CRIMES AND OFFENSES): Act 11 of 2025, Protection from intimate deep fakes act | 1 | 2026-03-22 to 2026-03-22 |
+| `mcl-0752-act-r-s-of-1846-2` | Michigan Compiled Laws, Chapter 752 (CRIMES AND OFFENSES): R.S. of 1846, Revised Statutes of 1846 | 1 | 2026-03-22 to 2026-03-22 |
+| `mcl-0752-act-r-s-of-1846-3` | Michigan Compiled Laws, Chapter 752 (CRIMES AND OFFENSES): R.S. of 1846, Revised Statutes of 1846 | 1 | 2026-03-22 to 2026-03-22 |
+| `mcl-0752-act-1968-0302` | Michigan Compiled Laws, Chapter 752 (CRIMES AND OFFENSES): Act 302 of 1968, RIOTS AND RELATED CRIMES | 1 | 2026-03-22 to 2026-03-22 |
+| `mcl-0752-act-1970-0026` | Michigan Compiled Laws, Chapter 752 (CRIMES AND OFFENSES): Act 26 of 1970, PROHIBITED CONDUCT AT INSTITUTIONS OF HIGHER EDUCATION | 1 | 2026-03-22 to 2026-03-22 |
+| `mcl-0752-act-1975-0274` | Michigan Compiled Laws, Chapter 752 (CRIMES AND OFFENSES): Act 274 of 1975, UNAUTHORIZED TRANSFER OF RECORDED SOUND | 1 | 2026-03-22 to 2026-03-22 |
+| `mcl-0752-act-1979-0053` | Michigan Compiled Laws, Chapter 752 (CRIMES AND OFFENSES): Act 53 of 1979, FRAUDULENT ACCESS TO COMPUTERS, COMPUTER SYSTEMS, AND COMPUTER NETWORKS | 1 | 2026-03-22 to 2026-03-22 |
+| `mcl-0752-act-1933-0148` | Michigan Compiled Laws, Chapter 752 (CRIMES AND OFFENSES): Act 148 of 1933, VENDING MACHINE SLUGS | 1 | 2026-03-22 to 2026-03-22 |
+| `mcl-0752-act-1970-0126` | Michigan Compiled Laws, Chapter 752 (CRIMES AND OFFENSES): Act 126 of 1970, COIN OPERATED DEVICES | 1 | 2026-03-22 to 2026-03-22 |
+| `mcl-0752-act-1951-0105` | Michigan Compiled Laws, Chapter 752 (CRIMES AND OFFENSES): Act 105 of 1951, ERECTION OF POSTERS, SIGNS, PLACARDS, OR OTHER NOTICES | 1 | 2026-03-22 to 2026-03-22 |
+| `mcl-0752-act-1952-0010` | Michigan Compiled Laws, Chapter 752 (CRIMES AND OFFENSES): Act 10 of 1952, DEATH OR INJURIES FROM FIREARMS | 1 | 2026-03-22 to 2026-03-22 |
+| `mcl-0752-act-1952-0045` | Michigan Compiled Laws, Chapter 752 (CRIMES AND OFFENSES): Act 45 of 1952, CARELESS, RECKLESS, OR NEGLIGENT USE OF FIREARMS | 1 | 2026-03-22 to 2026-03-22 |
+| `mcl-0752-act-1954-0081` | Michigan Compiled Laws, Chapter 752 (CRIMES AND OFFENSES): Act 81 of 1954, CARELESS, RECKLESS, OR NEGLIGENT USE OF BOW AND ARROW | 1 | 2026-03-22 to 2026-03-22 |
+| `mcl-0752-act-2013-0183` | Michigan Compiled Laws, Chapter 752 (CRIMES AND OFFENSES): Act 183 of 2013, Student safety act | 1 | 2026-03-22 to 2026-03-22 |
+| `mcl-0752-act-2014-0227` | Michigan Compiled Laws, Chapter 752 (CRIMES AND OFFENSES): Act 227 of 2014, Sexual assault kit evidence submission act | 1 | 2026-03-22 to 2026-03-22 |
+| `mcl-0752-act-2014-0319` | Michigan Compiled Laws, Chapter 752 (CRIMES AND OFFENSES): Act 319 of 2014, Sexual assault victim's access to justice act | 1 | 2026-03-22 to 2026-03-22 |
+| `mcl-0752-act-2014-0318` | Michigan Compiled Laws, Chapter 752 (CRIMES AND OFFENSES): Act 318 of 2014, SEXUAL ASSAULT EVIDENCE KIT TRACKING AND REPORTING | 1 | 2026-03-22 to 2026-03-22 |
+| `mcl-0752-act-2014-0325` | Michigan Compiled Laws, Chapter 752 (CRIMES AND OFFENSES): Act 325 of 2014, Human trafficking commission act | 1 | 2026-03-22 to 2026-03-22 |
+| `mcl-0752-act-2014-0339` | Michigan Compiled Laws, Chapter 752 (CRIMES AND OFFENSES): Act 339 of 2014, Human trafficking victims compensation act | 1 | 2026-03-22 to 2026-03-22 |
+| `mcl-0752-act-2014-0461` | Michigan Compiled Laws, Chapter 752 (CRIMES AND OFFENSES): Act 461 of 2014, Human trafficking health advisory board act | 1 | 2026-03-22 to 2026-03-22 |
+| `mcl-0752-act-1984-0323` | Michigan Compiled Laws, Chapter 752 (CRIMES AND OFFENSES): Act 323 of 1984, The health care false claim act | 1 | 2026-03-22 to 2026-03-22 |
+| `mcl-0752-act-1992-0270` | Michigan Compiled Laws, Chapter 752 (CRIMES AND OFFENSES): Act 270 of 1992, ASSISTANCE TO SUICIDE | 1 | 2026-03-22 to 2026-03-22 |
+| `mcl-0752-act-2016-0062` | Michigan Compiled Laws, Chapter 752 (CRIMES AND OFFENSES): Act 62 of 2016, Human trafficking notification act | 1 | 2026-03-22 to 2026-03-22 |
+| `mcl-0752-act-1994-0210` | Michigan Compiled Laws, Chapter 752 (CRIMES AND OFFENSES): Act 210 of 1994, UNAUTHORIZED RECORDINGS | 1 | 2026-03-22 to 2026-03-22 |
+| `mcl-0752-act-2004-0241` | Michigan Compiled Laws, Chapter 752 (CRIMES AND OFFENSES): Act 241 of 2004, MICHIGAN CHILDREN'S PROTECTION REGISTRY ACT | 1 | 2026-03-22 to 2026-03-22 |
+| `mcl-0752-act-2012-0455` | Michigan Compiled Laws, Chapter 752 (CRIMES AND OFFENSES): Act 455 of 2012, Organized retail crime act | 1 | 2026-03-22 to 2026-03-22 |
+| `mcl-0752-act-e-r-o-no-2014-0001` | Michigan Compiled Laws, Chapter 752 (CRIMES AND OFFENSES): E.R.O. No. 2014-1, EXECUTIVE REORGANIZATION ORDER | 1 | 2026-03-22 to 2026-03-22 |
+| `mcl-0760-act-1927-0175` | Michigan Compiled Laws, Chapter 760 (CODE OF CRIMINAL PROCEDURE): Act 175 of 1927, The code of criminal procedure | 1 | 2026-01-10 to 2026-01-10 |
+| `mcl-0780-act-1937-0144` | Michigan Compiled Laws, Chapter 780 (CRIMINAL PROCEDURE): Act 144 of 1937, Uniform criminal extradition act | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0780-act-1968-0281` | Michigan Compiled Laws, Chapter 780 (CRIMINAL PROCEDURE): Act 281 of 1968, Uniform rendition of accused persons act | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0780-act-1965-0191` | Michigan Compiled Laws, Chapter 780 (CRIMINAL PROCEDURE): Act 191 of 1965, JURISDICTION OVER GREAT LAKES WATERS | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0780-act-1966-0257` | Michigan Compiled Laws, Chapter 780 (CRIMINAL PROCEDURE): Act 257 of 1966, BAIL FOR TRAFFIC OFFENSES OR MISDEMEANORS | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0780-act-1937-0189` | Michigan Compiled Laws, Chapter 780 (CRIMINAL PROCEDURE): Act 189 of 1937, Uniform act on fresh pursuit | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0780-act-1967-0161` | Michigan Compiled Laws, Chapter 780 (CRIMINAL PROCEDURE): Act 161 of 1967, Uniform rendition of prisoners as witnesses in criminal proceedings act | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0780-act-1957-0177` | Michigan Compiled Laws, Chapter 780 (CRIMINAL PROCEDURE): Act 177 of 1957, DISPOSITION OF UNTRIED CHARGES AGAINST INMATES OF PENAL INSTITUTIONS | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0780-act-1952-0008` | Michigan Compiled Laws, Chapter 780 (CRIMINAL PROCEDURE): Act 8 of 1952, Revised uniform reciprocal enforcement of support act | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0780-act-1893-0134` | Michigan Compiled Laws, Chapter 780 (CRIMINAL PROCEDURE): Act 134 of 1893, APPEAL AFTER DENIAL OF NEW TRIAL; INCORPORATING RECORD OF PROCEEDINGS IN BILL OF EXCEPTIONS | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0780-act-1931-0196` | Michigan Compiled Laws, Chapter 780 (CRIMINAL PROCEDURE): Act 196 of 1931, PHOTOGRAPHING GRAND JURY PROCEEDINGS | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0780-act-2017-0085` | Michigan Compiled Laws, Chapter 780 (CRIMINAL PROCEDURE): Act 85 of 2017, Law enforcement body-worn camera privacy act | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0780-act-1935-0085` | Michigan Compiled Laws, Chapter 780 (CRIMINAL PROCEDURE): Act 85 of 1935, COERCION OF MARRIED WOMAN BY HUSBAND | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0780-act-1957-0276` | Michigan Compiled Laws, Chapter 780 (CRIMINAL PROCEDURE): Act 276 of 1957, RETURN OF PAROLE VIOLATORS | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0780-act-1961-0044` | Michigan Compiled Laws, Chapter 780 (CRIMINAL PROCEDURE): Act 44 of 1961, RELEASE OF MISDEMEANOR PRISONERS | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0780-act-1961-0141` | Michigan Compiled Laws, Chapter 780 (CRIMINAL PROCEDURE): Act 141 of 1961, INTERSTATE AGREEMENT ON DETAINERS | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0780-act-1965-0213` | Michigan Compiled Laws, Chapter 780 (CRIMINAL PROCEDURE): Act 213 of 1965, SETTING ASIDE CONVICTIONS | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0780-act-1966-0189` | Michigan Compiled Laws, Chapter 780 (CRIMINAL PROCEDURE): Act 189 of 1966, SEARCH WARRANTS | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0780-act-1968-0289` | Michigan Compiled Laws, Chapter 780 (CRIMINAL PROCEDURE): Act 289 of 1968, GRANTING IMMUNITY TO WITNESSES | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0780-act-1978-0620` | Michigan Compiled Laws, Chapter 780 (CRIMINAL PROCEDURE): Act 620 of 1978, Appellate defender act | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0780-act-1985-0087` | Michigan Compiled Laws, Chapter 780 (CRIMINAL PROCEDURE): Act 87 of 1985, William Van Regenmorter crime victim's rights act | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0780-act-2020-0301` | Michigan Compiled Laws, Chapter 780 (CRIMINAL PROCEDURE): Act 301 of 2020, Address confidentiality program act | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0780-act-1989-0196` | Michigan Compiled Laws, Chapter 780 (CRIMINAL PROCEDURE): Act 196 of 1989, CRIME VICTIMS RIGHTS SERVICES | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0780-act-e-r-o-no-1997-0009` | Michigan Compiled Laws, Chapter 780 (CRIMINAL PROCEDURE): E.R.O. No. 1997-9, EXECUTIVE REORGANIZATION ORDER | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0780-act-2014-0113` | Michigan Compiled Laws, Chapter 780 (CRIMINAL PROCEDURE): Act 113 of 2014, SECURITY ACT FOR NUCLEAR ENERGY | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0780-act-2006-0311` | Michigan Compiled Laws, Chapter 780 (CRIMINAL PROCEDURE): Act 311 of 2006, PRESUMPTION REGARDING SELF-DEFENSE | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0780-act-2006-0310` | Michigan Compiled Laws, Chapter 780 (CRIMINAL PROCEDURE): Act 310 of 2006, DEADLY FORCE | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0780-act-2006-0309` | Michigan Compiled Laws, Chapter 780 (CRIMINAL PROCEDURE): Act 309 of 2006, Self-defense act | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0780-act-2013-0093` | Michigan Compiled Laws, Chapter 780 (CRIMINAL PROCEDURE): Act 93 of 2013, Michigan indigent defense commission act | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0791-act-1953-0232` | Michigan Compiled Laws, Chapter 791 (DEPARTMENT OF CORRECTIONS): Act 232 of 1953, Corrections code of 1953 | 1 | 2026-03-20 to 2026-03-20 |
+| `mcl-0791-act-e-r-o-no-1991-0012` | Michigan Compiled Laws, Chapter 791 (DEPARTMENT OF CORRECTIONS): E.R.O. No. 1991-12, EXECUTIVE REORGANIZATION ORDER | 1 | 2026-03-20 to 2026-03-20 |
+| `mcl-0791-act-e-r-o-no-1992-0003` | Michigan Compiled Laws, Chapter 791 (DEPARTMENT OF CORRECTIONS): E.R.O. No. 1992-3, EXECUTIVE REORGANIZATION ORDER | 1 | 2026-03-20 to 2026-03-20 |
+| `mcl-0791-act-e-r-o-no-2009-0003` | Michigan Compiled Laws, Chapter 791 (DEPARTMENT OF CORRECTIONS): E.R.O. No. 2009-3, EXECUTIVE REORGANIZATION ORDER | 1 | 2026-03-20 to 2026-03-20 |
+| `mcl-0791-act-e-r-o-no-2011-0003` | Michigan Compiled Laws, Chapter 791 (DEPARTMENT OF CORRECTIONS): E.R.O. No. 2011-3, EXECUTIVE REORGANIZATION ORDER | 1 | 2026-03-20 to 2026-03-20 |
+| `mcl-0791-act-1988-0511` | Michigan Compiled Laws, Chapter 791 (DEPARTMENT OF CORRECTIONS): Act 511 of 1988, Community corrections act | 1 | 2026-03-20 to 2026-03-20 |
+| `mcl-0791-act-1982-0415` | Michigan Compiled Laws, Chapter 791 (DEPARTMENT OF CORRECTIONS): Act 415 of 1982, Correctional officers' training act of 1982 | 1 | 2026-03-20 to 2026-03-20 |
+| `mcl-0791-act-2003-0125` | Michigan Compiled Laws, Chapter 791 (DEPARTMENT OF CORRECTIONS): Act 125 of 2003, Local corrections officers training act | 1 | 2026-03-20 to 2026-03-20 |
+| `mcl-0791-act-e-r-o-no-1995-0014` | Michigan Compiled Laws, Chapter 791 (DEPARTMENT OF CORRECTIONS): E.R.O. No. 1995-14, EXECUTIVE REORGANIZATION ORDER | 1 | 2026-03-20 to 2026-03-20 |
 
-The build made 2103 commits:
+The build made 2355 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 2092 | first version of an act |
+| 2344 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -2287,7 +2565,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 2092 tags.
+- 2344 tags.
 
 ## Dates
 
@@ -2299,7 +2577,7 @@ When a law gives no date of its own, the default rule applies: No dated text his
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `469fa7304d1c6249776346d2e5e4438fe25229d62e436a77ab77ebd45251ae77` (71312708 bytes).
+- Corpus: sha256 `7a410277ade9aa888717d630303681133f0698ed0959c8fbb9088a9f4af90119` (81619828 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -2483,6 +2761,32 @@ No second build of this corpus has been compared yet.
 - MCL chapter 492: one act per Michigan Act in the chapter file, one unit per section, dated 2026-03-28, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
 - MCL chapter 493: one act per Michigan Act in the chapter file, one unit per section, dated 2026-03-23, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
 - MCL chapter 500: one act per Michigan Act in the chapter file, one unit per section, dated 2026-03-30, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
+- MCL chapter 550: one act per Michigan Act in the chapter file, one unit per section, dated 2026-03-21, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
+- MCL chapter 551: one act per Michigan Act in the chapter file, one unit per section, dated 2026-03-23, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
+- MCL chapter 552: one act per Michigan Act in the chapter file, one unit per section, dated 2026-03-23, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
+- MCL chapter 555: one act per Michigan Act in the chapter file, one unit per section, dated 2026-03-26, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
+- MCL chapter 556: one act per Michigan Act in the chapter file, one unit per section, dated 2026-03-22, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
+- MCL chapter 557: one act per Michigan Act in the chapter file, one unit per section, dated 2026-02-07, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
+- MCL chapter 558: one act per Michigan Act in the chapter file, one unit per section, dated 2026-03-25, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
+- MCL chapter 559: one act per Michigan Act in the chapter file, one unit per section, dated 2026-03-20, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
+- MCL chapter 560: one act per Michigan Act in the chapter file, one unit per section, dated 2026-01-26, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
+- MCL chapter 561: one act per Michigan Act in the chapter file, one unit per section, dated 2026-02-03, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
+- MCL chapter 566: one act per Michigan Act in the chapter file, one unit per section, dated 2026-03-24, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
+- MCL chapter 567: one act per Michigan Act in the chapter file, one unit per section, dated 2026-03-24, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
+- MCL chapter 570: one act per Michigan Act in the chapter file, one unit per section, dated 2026-03-25, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
+- MCL chapter 600: one act per Michigan Act in the chapter file, one unit per section, dated 2026-03-24, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
+- MCL chapter 691: one act per Michigan Act in the chapter file, one unit per section, dated 2026-03-20, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
+- MCL chapter 700: one act per Michigan Act in the chapter file, one unit per section, dated 2026-02-04, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
+- MCL chapter 701: one act per Michigan Act in the chapter file, one unit per section, dated 2025-05-06, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
+- MCL chapter 720: one act per Michigan Act in the chapter file, one unit per section, dated 2026-03-25, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
+- MCL chapter 722: one act per Michigan Act in the chapter file, one unit per section, dated 2026-03-23, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
+- MCL chapter 725: one act per Michigan Act in the chapter file, one unit per section, dated 2026-01-26, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
+- MCL chapter 729: one act per Michigan Act in the chapter file, one unit per section, dated 2026-03-26, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
+- MCL chapter 730: one act per Michigan Act in the chapter file, one unit per section, dated 2026-05-10, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
+- MCL chapter 752: one act per Michigan Act in the chapter file, one unit per section, dated 2026-03-22, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
+- MCL chapter 760: one act per Michigan Act in the chapter file, one unit per section, dated 2026-01-10, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
+- MCL chapter 780: one act per Michigan Act in the chapter file, one unit per section, dated 2026-03-21, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
+- MCL chapter 791: one act per Michigan Act in the chapter file, one unit per section, dated 2026-03-20, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
 
 ## What AI did and did not do
 
@@ -2494,6 +2798,32 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
 - Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
 - Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
 - Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.

@@ -4,7 +4,7 @@ Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git h
 
 The law of Michigan as a git history: one file per provision, with `git blame` and `git log` working line by line. It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
 
-**What is in it now (not complete)**: 173 chapters of the Michigan Compiled Laws, 2092 Acts, 37073 sections. Each Act is a folder; MCL chapter 1 is the Constitution of 1963.
+**What is in it now (not complete)**: 199 chapters of the Michigan Compiled Laws, 2344 Acts, 43439 sections. Each Act is a folder; MCL chapter 1 is the Constitution of 1963.
 
 | MCL chapter | Chapter title | Acts | Sections | Text as of | Folders |
 | ---: | --- | ---: | ---: | --- | --- |
@@ -178,9 +178,35 @@ The law of Michigan as a git history: one file per provision, with `git blame` a
 | 492 | Installment sales of motor vehicles | 3 | 49 | 2026-03-28 | `mcl-0492-act-2009-0229/` .. `mcl-0492-act-1969-0217/` |
 | 493 | Regulatory loans | 4 | 122 | 2026-03-23 | `mcl-0493-act-1939-0021/` .. `mcl-0493-act-1984-0379/` |
 | 500 | Insurance code of 1956 | 1 | 1843 | 2026-03-30 | `mcl-0500-act-1956-0218/` |
+| 550 | General insurance laws | 22 | 372 | 2026-03-21 | `mcl-0550-act-1933-0066/` .. `mcl-0550-act-2000-0499/` |
+| 551 | Marriage | 7 | 48 | 2026-03-23 | `mcl-0551-act-r-s-of-1846/` .. `mcl-0551-act-1964-0155/` |
+| 552 | Divorce | 11 | 286 | 2026-03-23 | `mcl-0552-act-r-s-of-1846/` .. `mcl-0552-act-2015-0255/` |
 | 554 | Real and personal property | 24 | 260 | 2025-03-11 | `mcl-act-r-s-of-1846-3/` .. `mcl-act-2022-0115/` |
+| 555 | Uses and trusts | 5 | 89 | 2026-03-26 | `mcl-0555-act-r-s-of-1846/` .. `mcl-0555-act-2004-0159/` |
+| 556 | Powers of appointment | 2 | 73 | 2026-03-22 | `mcl-0556-act-1967-0224/` .. `mcl-0556-act-2023-0187/` |
+| 557 | Property of husband and wife | 9 | 51 | 2026-02-07 | `mcl-0557-act-1981-0216/` .. `mcl-0557-act-1975-0289/` |
+| 558 | Estates in dower | 4 | 27 | 2026-03-25 | `mcl-0558-act-r-s-of-1846/` .. `mcl-0558-act-1939-0105/` |
+| 559 | Condominiums | 2 | 142 | 2026-03-20 | `mcl-0559-act-1978-0059/` .. `mcl-0559-act-2024-0068/` |
+| 560 | Subdivision control act of 1967 | 1 | 132 | 2026-01-26 | `mcl-0560-act-1967-0288/` |
+| 561 | Loss or destruction of public records | 1 | 15 | 2026-02-03 | `mcl-0561-act-1944-0052/` |
 | 565 | Conveyances of real property | 39 | 201 | 2025-03-11 | `mcl-act-r-s-of-1846-5/` .. `mcl-act-2022-0006/` |
+| 566 | Fraudulent conveyances and contracts | 8 | 46 | 2026-03-24 | `mcl-0566-act-1941-0238/` .. `mcl-0566-act-1937-0331/` |
+| 567 | Escheats | 1 | 54 | 2026-03-24 | `mcl-0567-act-1995-0029/` |
+| 570 | Liens | 13 | 188 | 2026-03-25 | `mcl-0570-act-1905-0187/` .. `mcl-0570-act-1980-0497/` |
+| 600 | Revised judicature act of 1961 | 2 | 1786 | 2026-03-24 | `mcl-0600-act-1961-0236/` .. `mcl-0600-act-2024-0047/` |
+| 691 | Judiciary | 28 | 247 | 2026-03-20 | `mcl-0691-act-1963-0227/` .. `mcl-0691-act-2025-0052/` |
+| 700 | Estates and protected individuals code | 3 | 563 | 2026-02-04 | `mcl-0700-act-2016-0059/` .. `mcl-0700-act-1998-0386/` |
+| 701 | Probate code | 1 | 179 | 2025-05-06 | `mcl-0701-act-1939-0288/` |
+| 720 | Probate | 5 | 45 | 2026-03-25 | `mcl-0720-act-1947-0194/` .. `mcl-0720-act-1963-0214/` |
+| 722 | Children | 43 | 525 | 2026-03-23 | `mcl-0722-act-1968-0293/` .. `mcl-0722-act-2024-0124/` |
+| 725 | Municipal courts of record | 3 | 4 | 2026-01-26 | `mcl-0725-act-1917-0221/` .. `mcl-0725-act-1953-0085/` |
+| 729 | Police courts | 1 | 17 | 2026-03-26 | `mcl-0729-act-1953-0017/` |
+| 730 | Justice courts and municipal courts | 5 | 79 | 2026-05-10 | `mcl-0730-act-1929-0288/` .. `mcl-0730-act-1990-0217/` |
 | 750 | Michigan penal code | 1 | 900 | 2025-03-11 | `mcl-act-1931-0328/` |
+| 752 | Crimes and offenses | 37 | 202 | 2026-03-22 | `mcl-0752-act-1980-0201/` .. `mcl-0752-act-e-r-o-no-2014-0001/` |
+| 760 | Code of criminal procedure | 1 | 672 | 2026-01-10 | `mcl-0760-act-1927-0175/` |
+| 780 | Criminal procedure | 28 | 343 | 2026-03-21 | `mcl-0780-act-1937-0144/` .. `mcl-0780-act-2013-0093/` |
+| 791 | Department of corrections | 9 | 181 | 2026-03-20 | `mcl-0791-act-1953-0232/` .. `mcl-0791-act-e-r-o-no-1995-0014/` |
 
 **Source.** The Michigan Compiled Laws chapter files (XML) published by the [Michigan Legislature](https://www.legislature.mi.gov/), read from Internet Archive captures of those files. English. Only the section number, catch line, body text (including tables and paragraph headings) and the section's History line are taken; the Editor's notes and Commentary (case annotations) are not.
 
