@@ -12782,6 +12782,482 @@
      "sha256": "87a71bacdd8112f0cda2cea1ecd652aa7b6bf913bbcd23e1bd5610b6aa372556"
     }
    ]
+  },
+  {
+   "slug": "mcl-0206-act-1967-0281",
+   "short": "MCL ch. 206, Act 281 of 1967",
+   "title": "Michigan Compiled Laws, Chapter 206 (INCOME TAX ACT OF 1967): Act 281 of 1967, Income tax act of 1967",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20206.xml",
+   "versions": [
+    {
+     "from": "2026-02-07",
+     "units": 227,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20206.xml",
+     "sha256": "c27ca5c90177ce5ba8be60048d7f4b4f47fb79db27e510afbeea6f3330018ac0"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0206-act-2006-0513",
+   "short": "MCL ch. 206, Act 513 of 2006",
+   "title": "Michigan Compiled Laws, Chapter 206 (INCOME TAX ACT OF 1967): Act 513 of 2006, Individual or family development account program act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20206.xml",
+   "versions": [
+    {
+     "from": "2026-02-07",
+     "units": 10,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20206.xml",
+     "sha256": "c27ca5c90177ce5ba8be60048d7f4b4f47fb79db27e510afbeea6f3330018ac0"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0206-act-2010-0347",
+   "short": "MCL ch. 206, Act 347 of 2010",
+   "title": "Michigan Compiled Laws, Chapter 206 (INCOME TAX ACT OF 1967): Act 347 of 2010, Girl scouts of Michigan fund act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20206.xml",
+   "versions": [
+    {
+     "from": "2026-02-07",
+     "units": 6,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20206.xml",
+     "sha256": "c27ca5c90177ce5ba8be60048d7f4b4f47fb79db27e510afbeea6f3330018ac0"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0206-act-2013-0089",
+   "short": "MCL ch. 206, Act 89 of 2013",
+   "title": "Michigan Compiled Laws, Chapter 206 (INCOME TAX ACT OF 1967): Act 89 of 2013, ALS of Michigan (\"Lou Gehrig's disease\") fund act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20206.xml",
+   "versions": [
+    {
+     "from": "2026-02-07",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20206.xml",
+     "sha256": "c27ca5c90177ce5ba8be60048d7f4b4f47fb79db27e510afbeea6f3330018ac0"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0206-act-2012-0155",
+   "short": "MCL ch. 206, Act 155 of 2012",
+   "title": "Michigan Compiled Laws, Chapter 206 (INCOME TAX ACT OF 1967): Act 155 of 2012, Special Olympics Michigan fund act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20206.xml",
+   "versions": [
+    {
+     "from": "2026-02-07",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20206.xml",
+     "sha256": "c27ca5c90177ce5ba8be60048d7f4b4f47fb79db27e510afbeea6f3330018ac0"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0206-act-2013-0088",
+   "short": "MCL ch. 206, Act 88 of 2013",
+   "title": "Michigan Compiled Laws, Chapter 206 (INCOME TAX ACT OF 1967): Act 88 of 2013, Michigan alzheimer's association fund act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20206.xml",
+   "versions": [
+    {
+     "from": "2026-02-07",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20206.xml",
+     "sha256": "c27ca5c90177ce5ba8be60048d7f4b4f47fb79db27e510afbeea6f3330018ac0"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0206-act-2015-0160",
+   "short": "MCL ch. 206, Act 160 of 2015",
+   "title": "Michigan Compiled Laws, Chapter 206 (INCOME TAX ACT OF 1967): Act 160 of 2015, Michigan achieving a better life experience (able) program act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20206.xml",
+   "versions": [
+    {
+     "from": "2026-02-07",
+     "units": 17,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20206.xml",
+     "sha256": "c27ca5c90177ce5ba8be60048d7f4b4f47fb79db27e510afbeea6f3330018ac0"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0206-act-2016-0181",
+   "short": "MCL ch. 206, Act 181 of 2016",
+   "title": "Michigan Compiled Laws, Chapter 206 (INCOME TAX ACT OF 1967): Act 181 of 2016, Michigan junior achievement fund act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20206.xml",
+   "versions": [
+    {
+     "from": "2026-02-07",
+     "units": 6,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20206.xml",
+     "sha256": "c27ca5c90177ce5ba8be60048d7f4b4f47fb79db27e510afbeea6f3330018ac0"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0206-act-2016-0183",
+   "short": "MCL ch. 206, Act 183 of 2016",
+   "title": "Michigan Compiled Laws, Chapter 206 (INCOME TAX ACT OF 1967): Act 183 of 2016, American Red Cross Michigan fund act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20206.xml",
+   "versions": [
+    {
+     "from": "2026-02-07",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20206.xml",
+     "sha256": "c27ca5c90177ce5ba8be60048d7f4b4f47fb79db27e510afbeea6f3330018ac0"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0206-act-2018-0255",
+   "short": "MCL ch. 206, Act 255 of 2018",
+   "title": "Michigan Compiled Laws, Chapter 206 (INCOME TAX ACT OF 1967): Act 255 of 2018, Lions of Michigan Foundation fund act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20206.xml",
+   "versions": [
+    {
+     "from": "2026-02-07",
+     "units": 6,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20206.xml",
+     "sha256": "c27ca5c90177ce5ba8be60048d7f4b4f47fb79db27e510afbeea6f3330018ac0"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0206-act-2018-0259",
+   "short": "MCL ch. 206, Act 259 of 2018",
+   "title": "Michigan Compiled Laws, Chapter 206 (INCOME TAX ACT OF 1967): Act 259 of 2018, Kiwanis fund act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20206.xml",
+   "versions": [
+    {
+     "from": "2026-02-07",
+     "units": 6,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20206.xml",
+     "sha256": "c27ca5c90177ce5ba8be60048d7f4b4f47fb79db27e510afbeea6f3330018ac0"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0206-act-2018-0257",
+   "short": "MCL ch. 206, Act 257 of 2018",
+   "title": "Michigan Compiled Laws, Chapter 206 (INCOME TAX ACT OF 1967): Act 257 of 2018, Michigan World War II Legacy Memorial fund act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20206.xml",
+   "versions": [
+    {
+     "from": "2026-02-07",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20206.xml",
+     "sha256": "c27ca5c90177ce5ba8be60048d7f4b4f47fb79db27e510afbeea6f3330018ac0"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0207-act-1905-0282",
+   "short": "MCL ch. 207, Act 282 of 1905",
+   "title": "Michigan Compiled Laws, Chapter 207 (TAXATION): Act 282 of 1905, STATE BOARD OF ASSESSORS; ASSESSMENT OF PROPERTY OF CERTAIN PUBLIC UTILITIES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20207.xml",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 25,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20207.xml",
+     "sha256": "670fadd2108e131371f8d3954594b422cffe5f0caf5c33c23079caae49be97fb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0207-act-1980-0119",
+   "short": "MCL ch. 207, Act 119 of 1980",
+   "title": "Michigan Compiled Laws, Chapter 207 (TAXATION): Act 119 of 1980, Motor carrier fuel tax act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20207.xml",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 24,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20207.xml",
+     "sha256": "670fadd2108e131371f8d3954594b422cffe5f0caf5c33c23079caae49be97fb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0207-act-1963-0068",
+   "short": "MCL ch. 207, Act 68 of 1963",
+   "title": "Michigan Compiled Laws, Chapter 207 (TAXATION): Act 68 of 1963, IRON ORE TAX",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20207.xml",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 9,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20207.xml",
+     "sha256": "670fadd2108e131371f8d3954594b422cffe5f0caf5c33c23079caae49be97fb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0207-act-1987-0248",
+   "short": "MCL ch. 207, Act 248 of 1987",
+   "title": "Michigan Compiled Laws, Chapter 207 (TAXATION): Act 248 of 1987, Airport parking tax act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20207.xml",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 14,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20207.xml",
+     "sha256": "670fadd2108e131371f8d3954594b422cffe5f0caf5c33c23079caae49be97fb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0207-act-r-s-of-1846",
+   "short": "MCL ch. 207, R.S. of 1846",
+   "title": "Michigan Compiled Laws, Chapter 207 (TAXATION): R.S. of 1846, Revised Statutes of 1846",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20207.xml",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20207.xml",
+     "sha256": "670fadd2108e131371f8d3954594b422cffe5f0caf5c33c23079caae49be97fb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0207-act-1966-0134",
+   "short": "MCL ch. 207, Act 134 of 1966",
+   "title": "Michigan Compiled Laws, Chapter 207 (TAXATION): Act 134 of 1966, REAL ESTATE TRANSFER TAX",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20207.xml",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 13,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20207.xml",
+     "sha256": "670fadd2108e131371f8d3954594b422cffe5f0caf5c33c23079caae49be97fb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0207-act-1993-0330",
+   "short": "MCL ch. 207, Act 330 of 1993",
+   "title": "Michigan Compiled Laws, Chapter 207 (TAXATION): Act 330 of 1993, State real estate transfer tax act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20207.xml",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 17,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20207.xml",
+     "sha256": "670fadd2108e131371f8d3954594b422cffe5f0caf5c33c23079caae49be97fb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0207-act-1974-0198",
+   "short": "MCL ch. 207, Act 198 of 1974",
+   "title": "Michigan Compiled Laws, Chapter 207 (TAXATION): Act 198 of 1974, PLANT REHABILITATION AND INDUSTRIAL DEVELOPMENT DISTRICTS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20207.xml",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 27,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20207.xml",
+     "sha256": "670fadd2108e131371f8d3954594b422cffe5f0caf5c33c23079caae49be97fb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0207-act-1976-0438",
+   "short": "MCL ch. 207, Act 438 of 1976",
+   "title": "Michigan Compiled Laws, Chapter 207 (TAXATION): Act 438 of 1976, COMMERCIAL HOUSING FACILITIES EXEMPTION CERTIFICATES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20207.xml",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 15,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20207.xml",
+     "sha256": "670fadd2108e131371f8d3954594b422cffe5f0caf5c33c23079caae49be97fb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0207-act-1985-0106",
+   "short": "MCL ch. 207, Act 106 of 1985",
+   "title": "Michigan Compiled Laws, Chapter 207 (TAXATION): Act 106 of 1985, State convention facility development act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20207.xml",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 19,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20207.xml",
+     "sha256": "670fadd2108e131371f8d3954594b422cffe5f0caf5c33c23079caae49be97fb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0207-act-1978-0255",
+   "short": "MCL ch. 207, Act 255 of 1978",
+   "title": "Michigan Compiled Laws, Chapter 207 (TAXATION): Act 255 of 1978, Commercial redevelopment act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20207.xml",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 19,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20207.xml",
+     "sha256": "670fadd2108e131371f8d3954594b422cffe5f0caf5c33c23079caae49be97fb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0207-act-1984-0385",
+   "short": "MCL ch. 207, Act 385 of 1984",
+   "title": "Michigan Compiled Laws, Chapter 207 (TAXATION): Act 385 of 1984, Technology park development act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20207.xml",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 20,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20207.xml",
+     "sha256": "670fadd2108e131371f8d3954594b422cffe5f0caf5c33c23079caae49be97fb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0207-act-1991-0180",
+   "short": "MCL ch. 207, Act 180 of 1991",
+   "title": "Michigan Compiled Laws, Chapter 207 (TAXATION): Act 180 of 1991, STADIA OR CONVENTION FACILITY DEVELOPMENT",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20207.xml",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 10,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20207.xml",
+     "sha256": "670fadd2108e131371f8d3954594b422cffe5f0caf5c33c23079caae49be97fb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0207-act-1992-0147",
+   "short": "MCL ch. 207, Act 147 of 1992",
+   "title": "Michigan Compiled Laws, Chapter 207 (TAXATION): Act 147 of 1992, Neighborhood enterprise zone act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20207.xml",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 18,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20207.xml",
+     "sha256": "670fadd2108e131371f8d3954594b422cffe5f0caf5c33c23079caae49be97fb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0207-act-1995-0024",
+   "short": "MCL ch. 207, Act 24 of 1995",
+   "title": "Michigan Compiled Laws, Chapter 207 (TAXATION): Act 24 of 1995, Michigan economic growth authority act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20207.xml",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 11,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20207.xml",
+     "sha256": "670fadd2108e131371f8d3954594b422cffe5f0caf5c33c23079caae49be97fb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0207-act-2002-0593",
+   "short": "MCL ch. 207, Act 593 of 2002",
+   "title": "Michigan Compiled Laws, Chapter 207 (TAXATION): Act 593 of 2002, Michigan next energy authority act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20207.xml",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 7,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20207.xml",
+     "sha256": "670fadd2108e131371f8d3954594b422cffe5f0caf5c33c23079caae49be97fb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0207-act-2005-0210",
+   "short": "MCL ch. 207, Act 210 of 2005",
+   "title": "Michigan Compiled Laws, Chapter 207 (TAXATION): Act 210 of 2005, Commercial rehabilitation act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20207.xml",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 16,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20207.xml",
+     "sha256": "670fadd2108e131371f8d3954594b422cffe5f0caf5c33c23079caae49be97fb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0207-act-2022-0236",
+   "short": "MCL ch. 207, Act 236 of 2022",
+   "title": "Michigan Compiled Laws, Chapter 207 (TAXATION): Act 236 of 2022, Attainable housing facilities act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20207.xml",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 16,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20207.xml",
+     "sha256": "670fadd2108e131371f8d3954594b422cffe5f0caf5c33c23079caae49be97fb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0207-act-2022-0237",
+   "short": "MCL ch. 207, Act 237 of 2022",
+   "title": "Michigan Compiled Laws, Chapter 207 (TAXATION): Act 237 of 2022, Residential housing facilities act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20207.xml",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 16,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20207.xml",
+     "sha256": "670fadd2108e131371f8d3954594b422cffe5f0caf5c33c23079caae49be97fb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0207-act-2000-0403",
+   "short": "MCL ch. 207, Act 403 of 2000",
+   "title": "Michigan Compiled Laws, Chapter 207 (TAXATION): Act 403 of 2000, Motor fuel tax act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20207.xml",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 127,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20207.xml",
+     "sha256": "670fadd2108e131371f8d3954594b422cffe5f0caf5c33c23079caae49be97fb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0208-act-2006-0325",
+   "short": "MCL ch. 208, Act 325 of 2006",
+   "title": "Michigan Compiled Laws, Chapter 208 (BUSINESS TAX): Act 325 of 2006, BUSINESS TAX REPEAL",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20208.xml",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 4,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20208.xml",
+     "sha256": "819365b8e536f0c07a8a2577b9a330c6f9f221253e51589b7a28e0f982ce6e9c"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0208-act-2007-0036",
+   "short": "MCL ch. 208, Act 36 of 2007",
+   "title": "Michigan Compiled Laws, Chapter 208 (BUSINESS TAX): Act 36 of 2007, Michigan business tax act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20208.xml",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 95,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20208.xml",
+     "sha256": "819365b8e536f0c07a8a2577b9a330c6f9f221253e51589b7a28e0f982ce6e9c"
+    }
+   ]
   }
  ]
 }

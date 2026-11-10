@@ -4,7 +4,7 @@ Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git h
 
 The law of Michigan as a git history: one file per provision, with `git blame` and `git log` working line by line. It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
 
-**What is in it now (not complete)**: 66 chapters of the Michigan Compiled Laws, 913 Acts, 13548 sections. Each Act is a folder; MCL chapter 1 is the Constitution of 1963.
+**What is in it now (not complete)**: 69 chapters of the Michigan Compiled Laws, 947 Acts, 14374 sections. Each Act is a folder; MCL chapter 1 is the Constitution of 1963.
 
 | MCL chapter | Chapter title | Acts | Sections | Text as of | Folders |
 | ---: | --- | ---: | ---: | --- | --- |
@@ -69,6 +69,9 @@ The law of Michigan as a git history: one file per provision, with `git blame` a
 | 200 | Miscellaneous election acts | 2 | 9 | 2026-03-23 | `mcl-0200-act-1921-0144/` .. `mcl-0200-act-1954-0043/` |
 | 201 | Vacancies in office | 4 | 24 | 2026-03-28 | `mcl-0201-act-r-s-of-1846/` .. `mcl-0201-act-1879-0190/` |
 | 205 | Taxation | 14 | 386 | 2026-03-26 | `mcl-0205-act-1941-0122/` .. `mcl-0205-act-2025-0023/` |
+| 206 | Income tax act of 1967 | 12 | 303 | 2026-02-07 | `mcl-0206-act-1967-0281/` .. `mcl-0206-act-2018-0257/` |
+| 207 | Taxation | 20 | 424 | 2026-01-23 | `mcl-0207-act-1905-0282/` .. `mcl-0207-act-2000-0403/` |
+| 208 | Business tax | 2 | 99 | 2026-01-15 | `mcl-0208-act-2006-0325/` .. `mcl-0208-act-2007-0036/` |
 | 440 | Uniform commercial code | 1 | 638 | 2025-03-11 | `mcl-act-1962-0174/` |
 | 450 | Corporations | 18 | 845 | 2025-03-11 | `mcl-act-1931-0327/` .. `mcl-act-1993-0023/` |
 | 554 | Real and personal property | 24 | 260 | 2025-03-11 | `mcl-act-r-s-of-1846-3/` .. `mcl-act-2022-0115/` |

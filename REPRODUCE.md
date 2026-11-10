@@ -68,6 +68,9 @@ This file is written by the build on 2026-11-10, the day the source data was ret
 | Michigan Compiled Laws chapter 200 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20200.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
 | Michigan Compiled Laws chapter 201 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20201.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
 | Michigan Compiled Laws chapter 205 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20205.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
+| Michigan Compiled Laws chapter 206 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20206.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
+| Michigan Compiled Laws chapter 207 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20207.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
+| Michigan Compiled Laws chapter 208 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20208.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -988,12 +991,46 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `mcl-0205-act-e-r-o-no-1991-0015` | Michigan Compiled Laws, Chapter 205 (TAXATION): E.R.O. No. 1991-15, EXECUTIVE REORGANIZATION ORDER | 1 | 2026-03-26 to 2026-03-26 |
 | `mcl-0205-act-2004-0174` | Michigan Compiled Laws, Chapter 205 (TAXATION): Act 174 of 2004, Streamlined sales and use tax administration act | 1 | 2026-03-26 to 2026-03-26 |
 | `mcl-0205-act-2025-0023` | Michigan Compiled Laws, Chapter 205 (TAXATION): Act 23 of 2025, Comprehensive road funding tax act | 1 | 2026-03-26 to 2026-03-26 |
+| `mcl-0206-act-1967-0281` | Michigan Compiled Laws, Chapter 206 (INCOME TAX ACT OF 1967): Act 281 of 1967, Income tax act of 1967 | 1 | 2026-02-07 to 2026-02-07 |
+| `mcl-0206-act-2006-0513` | Michigan Compiled Laws, Chapter 206 (INCOME TAX ACT OF 1967): Act 513 of 2006, Individual or family development account program act | 1 | 2026-02-07 to 2026-02-07 |
+| `mcl-0206-act-2010-0347` | Michigan Compiled Laws, Chapter 206 (INCOME TAX ACT OF 1967): Act 347 of 2010, Girl scouts of Michigan fund act | 1 | 2026-02-07 to 2026-02-07 |
+| `mcl-0206-act-2013-0089` | Michigan Compiled Laws, Chapter 206 (INCOME TAX ACT OF 1967): Act 89 of 2013, ALS of Michigan ("Lou Gehrig's disease") fund act | 1 | 2026-02-07 to 2026-02-07 |
+| `mcl-0206-act-2012-0155` | Michigan Compiled Laws, Chapter 206 (INCOME TAX ACT OF 1967): Act 155 of 2012, Special Olympics Michigan fund act | 1 | 2026-02-07 to 2026-02-07 |
+| `mcl-0206-act-2013-0088` | Michigan Compiled Laws, Chapter 206 (INCOME TAX ACT OF 1967): Act 88 of 2013, Michigan alzheimer's association fund act | 1 | 2026-02-07 to 2026-02-07 |
+| `mcl-0206-act-2015-0160` | Michigan Compiled Laws, Chapter 206 (INCOME TAX ACT OF 1967): Act 160 of 2015, Michigan achieving a better life experience (able) program act | 1 | 2026-02-07 to 2026-02-07 |
+| `mcl-0206-act-2016-0181` | Michigan Compiled Laws, Chapter 206 (INCOME TAX ACT OF 1967): Act 181 of 2016, Michigan junior achievement fund act | 1 | 2026-02-07 to 2026-02-07 |
+| `mcl-0206-act-2016-0183` | Michigan Compiled Laws, Chapter 206 (INCOME TAX ACT OF 1967): Act 183 of 2016, American Red Cross Michigan fund act | 1 | 2026-02-07 to 2026-02-07 |
+| `mcl-0206-act-2018-0255` | Michigan Compiled Laws, Chapter 206 (INCOME TAX ACT OF 1967): Act 255 of 2018, Lions of Michigan Foundation fund act | 1 | 2026-02-07 to 2026-02-07 |
+| `mcl-0206-act-2018-0259` | Michigan Compiled Laws, Chapter 206 (INCOME TAX ACT OF 1967): Act 259 of 2018, Kiwanis fund act | 1 | 2026-02-07 to 2026-02-07 |
+| `mcl-0206-act-2018-0257` | Michigan Compiled Laws, Chapter 206 (INCOME TAX ACT OF 1967): Act 257 of 2018, Michigan World War II Legacy Memorial fund act | 1 | 2026-02-07 to 2026-02-07 |
+| `mcl-0207-act-1905-0282` | Michigan Compiled Laws, Chapter 207 (TAXATION): Act 282 of 1905, STATE BOARD OF ASSESSORS; ASSESSMENT OF PROPERTY OF CERTAIN PUBLIC UTILITIES | 1 | 2026-01-23 to 2026-01-23 |
+| `mcl-0207-act-1980-0119` | Michigan Compiled Laws, Chapter 207 (TAXATION): Act 119 of 1980, Motor carrier fuel tax act | 1 | 2026-01-23 to 2026-01-23 |
+| `mcl-0207-act-1963-0068` | Michigan Compiled Laws, Chapter 207 (TAXATION): Act 68 of 1963, IRON ORE TAX | 1 | 2026-01-23 to 2026-01-23 |
+| `mcl-0207-act-1987-0248` | Michigan Compiled Laws, Chapter 207 (TAXATION): Act 248 of 1987, Airport parking tax act | 1 | 2026-01-23 to 2026-01-23 |
+| `mcl-0207-act-r-s-of-1846` | Michigan Compiled Laws, Chapter 207 (TAXATION): R.S. of 1846, Revised Statutes of 1846 | 1 | 2026-01-23 to 2026-01-23 |
+| `mcl-0207-act-1966-0134` | Michigan Compiled Laws, Chapter 207 (TAXATION): Act 134 of 1966, REAL ESTATE TRANSFER TAX | 1 | 2026-01-23 to 2026-01-23 |
+| `mcl-0207-act-1993-0330` | Michigan Compiled Laws, Chapter 207 (TAXATION): Act 330 of 1993, State real estate transfer tax act | 1 | 2026-01-23 to 2026-01-23 |
+| `mcl-0207-act-1974-0198` | Michigan Compiled Laws, Chapter 207 (TAXATION): Act 198 of 1974, PLANT REHABILITATION AND INDUSTRIAL DEVELOPMENT DISTRICTS | 1 | 2026-01-23 to 2026-01-23 |
+| `mcl-0207-act-1976-0438` | Michigan Compiled Laws, Chapter 207 (TAXATION): Act 438 of 1976, COMMERCIAL HOUSING FACILITIES EXEMPTION CERTIFICATES | 1 | 2026-01-23 to 2026-01-23 |
+| `mcl-0207-act-1985-0106` | Michigan Compiled Laws, Chapter 207 (TAXATION): Act 106 of 1985, State convention facility development act | 1 | 2026-01-23 to 2026-01-23 |
+| `mcl-0207-act-1978-0255` | Michigan Compiled Laws, Chapter 207 (TAXATION): Act 255 of 1978, Commercial redevelopment act | 1 | 2026-01-23 to 2026-01-23 |
+| `mcl-0207-act-1984-0385` | Michigan Compiled Laws, Chapter 207 (TAXATION): Act 385 of 1984, Technology park development act | 1 | 2026-01-23 to 2026-01-23 |
+| `mcl-0207-act-1991-0180` | Michigan Compiled Laws, Chapter 207 (TAXATION): Act 180 of 1991, STADIA OR CONVENTION FACILITY DEVELOPMENT | 1 | 2026-01-23 to 2026-01-23 |
+| `mcl-0207-act-1992-0147` | Michigan Compiled Laws, Chapter 207 (TAXATION): Act 147 of 1992, Neighborhood enterprise zone act | 1 | 2026-01-23 to 2026-01-23 |
+| `mcl-0207-act-1995-0024` | Michigan Compiled Laws, Chapter 207 (TAXATION): Act 24 of 1995, Michigan economic growth authority act | 1 | 2026-01-23 to 2026-01-23 |
+| `mcl-0207-act-2002-0593` | Michigan Compiled Laws, Chapter 207 (TAXATION): Act 593 of 2002, Michigan next energy authority act | 1 | 2026-01-23 to 2026-01-23 |
+| `mcl-0207-act-2005-0210` | Michigan Compiled Laws, Chapter 207 (TAXATION): Act 210 of 2005, Commercial rehabilitation act | 1 | 2026-01-23 to 2026-01-23 |
+| `mcl-0207-act-2022-0236` | Michigan Compiled Laws, Chapter 207 (TAXATION): Act 236 of 2022, Attainable housing facilities act | 1 | 2026-01-23 to 2026-01-23 |
+| `mcl-0207-act-2022-0237` | Michigan Compiled Laws, Chapter 207 (TAXATION): Act 237 of 2022, Residential housing facilities act | 1 | 2026-01-23 to 2026-01-23 |
+| `mcl-0207-act-2000-0403` | Michigan Compiled Laws, Chapter 207 (TAXATION): Act 403 of 2000, Motor fuel tax act | 1 | 2026-01-23 to 2026-01-23 |
+| `mcl-0208-act-2006-0325` | Michigan Compiled Laws, Chapter 208 (BUSINESS TAX): Act 325 of 2006, BUSINESS TAX REPEAL | 1 | 2026-01-15 to 2026-01-15 |
+| `mcl-0208-act-2007-0036` | Michigan Compiled Laws, Chapter 208 (BUSINESS TAX): Act 36 of 2007, Michigan business tax act | 1 | 2026-01-15 to 2026-01-15 |
 
-The build made 924 commits:
+The build made 958 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 913 | first version of an act |
+| 947 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -1001,7 +1038,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 913 tags.
+- 947 tags.
 
 ## Dates
 
@@ -1013,7 +1050,7 @@ When a law gives no date of its own, the default rule applies: No dated text his
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `8313347450c2538cfdddee9c35930f5104816947d453ff700d4229a7166fe394` (24942368 bytes).
+- Corpus: sha256 `3aff0777a79e6638f5e33ab1a8dd12fd650693ca3318ddb28c2558e115d4f690` (26968343 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -1090,6 +1127,9 @@ No second build of this corpus has been compared yet.
 - MCL chapter 200: one act per Michigan Act in the chapter file, one unit per section, dated 2026-03-23, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
 - MCL chapter 201: one act per Michigan Act in the chapter file, one unit per section, dated 2026-03-28, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
 - MCL chapter 205: one act per Michigan Act in the chapter file, one unit per section, dated 2026-03-26, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
+- MCL chapter 206: one act per Michigan Act in the chapter file, one unit per section, dated 2026-02-07, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
+- MCL chapter 207: one act per Michigan Act in the chapter file, one unit per section, dated 2026-01-23, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
+- MCL chapter 208: one act per Michigan Act in the chapter file, one unit per section, dated 2026-01-15, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
 
 ## What AI did and did not do
 
@@ -1101,6 +1141,9 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
 - Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
 - Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
 - Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
