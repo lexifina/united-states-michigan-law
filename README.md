@@ -4,7 +4,7 @@ Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git h
 
 The law of Michigan as a git history: one file per provision, with `git blame` and `git log` working line by line. It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
 
-**What is in it now (not complete)**: 49 chapters of the Michigan Compiled Laws, 633 Acts, 8305 sections. Each Act is a folder; MCL chapter 1 is the Constitution of 1963.
+**What is in it now (not complete)**: 66 chapters of the Michigan Compiled Laws, 913 Acts, 13548 sections. Each Act is a folder; MCL chapter 1 is the Constitution of 1963.
 
 | MCL chapter | Chapter title | Acts | Sections | Text as of | Folders |
 | ---: | --- | ---: | ---: | --- | --- |
@@ -52,6 +52,23 @@ The law of Michigan as a git history: one file per provision, with `git blame` a
 | 54 | Surveyors | 9 | 79 | 2026-01-22 | `mcl-0054-act-r-s-of-1846/` .. `mcl-0054-act-2022-0081/` |
 | 55 | Notaries public | 2 | 38 | 2026-01-25 | `mcl-0055-act-r-s-of-1846/` .. `mcl-0055-act-2003-0238/` |
 | 61 | Villages | 1 | 247 | 2026-03-30 | `mcl-0061-act-1895-0003/` |
+| 78 | Villages | 1 | 41 | 2026-03-20 | `mcl-0078-act-1909-0278/` |
+| 79 | Villages | 2 | 3 | 2026-03-26 | `mcl-0079-act-1913-0127/` .. `mcl-0079-act-1925-0180/` |
+| 81 | Fourth class cities | 1 | 363 | 2026-01-13 | `mcl-0081-act-1895-0215/` |
+| 117 | Home rule cities | 1 | 89 | 2026-03-20 | `mcl-0117-act-1909-0279/` |
+| 119 | Metropolitan districts | 2 | 35 | 2026-03-20 | `mcl-0119-act-1929-0312/` .. `mcl-0119-act-1939-0147/` |
+| 120 | Port districts | 4 | 82 | 2025-05-06 | `mcl-0120-act-1925-0234/` .. `mcl-0120-act-2022-0159/` |
+| 123 | Local government | 69 | 476 | 2026-03-23 | `mcl-0123-act-1883-0038/` .. `mcl-0123-act-2018-0493/` |
+| 124 | Municipalities | 19 | 279 | 2026-03-25 | `mcl-0124-act-1951-0035/` .. `mcl-0124-act-e-r-o-no-2014-0003/` |
+| 125 | Planning, housing, and zoning | 77 | 1423 | 2026-03-20 | `mcl-0125-act-1945-0281/` .. `mcl-0125-act-2018-0057/` |
+| 128 | Cemeteries | 12 | 65 | 2026-03-26 | `mcl-0128-act-1937-0215/` .. `mcl-0128-act-1909-0272/` |
+| 129 | Public funds | 20 | 120 | 2026-03-20 | `mcl-0129-act-1932-0040/` .. `mcl-0129-act-2012-0517/` |
+| 141 | Municipal financing | 49 | 636 | 2026-01-13 | `mcl-0141-act-1913-0042/` .. `mcl-0141-act-2001-0034/` |
+| 168 | Michigan election law | 1 | 1130 | 2025-05-06 | `mcl-0168-act-1954-0116/` |
+| 169 | Campaign financing and advertising | 2 | 82 | 2026-01-13 | `mcl-0169-act-1976-0388/` .. `mcl-0169-act-2023-0282/` |
+| 200 | Miscellaneous election acts | 2 | 9 | 2026-03-23 | `mcl-0200-act-1921-0144/` .. `mcl-0200-act-1954-0043/` |
+| 201 | Vacancies in office | 4 | 24 | 2026-03-28 | `mcl-0201-act-r-s-of-1846/` .. `mcl-0201-act-1879-0190/` |
+| 205 | Taxation | 14 | 386 | 2026-03-26 | `mcl-0205-act-1941-0122/` .. `mcl-0205-act-2025-0023/` |
 | 440 | Uniform commercial code | 1 | 638 | 2025-03-11 | `mcl-act-1962-0174/` |
 | 450 | Corporations | 18 | 845 | 2025-03-11 | `mcl-act-1931-0327/` .. `mcl-act-1993-0023/` |
 | 554 | Real and personal property | 24 | 260 | 2025-03-11 | `mcl-act-r-s-of-1846-3/` .. `mcl-act-2022-0115/` |

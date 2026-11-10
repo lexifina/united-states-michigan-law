@@ -1,0 +1,61 @@
+# Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 230 of 1972, Stille-derossett-hale single state construction code act
+
+MCL ch. 125, Act 230 of 1972 · 1 versions, from 2026-03-20 (latest in force: 2026-03-20) · <https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| MCL 125.1501 | [sec-0125-1501.md](sec-0125-1501.md) | 0 |  |
+| MCL 125.1502 | [sec-0125-1502.md](sec-0125-1502.md) | 0 |  |
+| MCL 125.1502a | [sec-0125-1502a.md](sec-0125-1502a.md) | 0 |  |
+| MCL 125.1503 | [sec-0125-1503.md](sec-0125-1503.md) | 0 |  |
+| MCL 125.1503a | [sec-0125-1503a.md](sec-0125-1503a.md) | 0 |  |
+| MCL 125.1504 | [sec-0125-1504.md](sec-0125-1504.md) | 0 |  |
+| MCL 125.1504a | [sec-0125-1504a.md](sec-0125-1504a.md) | 0 |  |
+| MCL 125.1504b | [sec-0125-1504b.md](sec-0125-1504b.md) | 0 |  |
+| MCL 125.1504c | [sec-0125-1504c.md](sec-0125-1504c.md) | 0 |  |
+| MCL 125.1504d | [sec-0125-1504d.md](sec-0125-1504d.md) | 0 |  |
+| MCL 125.1504f | [sec-0125-1504f.md](sec-0125-1504f.md) | 0 |  |
+| MCL 125.1504h | [sec-0125-1504h.md](sec-0125-1504h.md) | 0 |  |
+| MCL 125.1504i.added | [sec-0125-1504i-added.md](sec-0125-1504i-added.md) | 0 |  |
+| MCL 125.1505 | [sec-0125-1505.md](sec-0125-1505.md) | 0 |  |
+| MCL 125.1506 | [sec-0125-1506.md](sec-0125-1506.md) | 0 |  |
+| MCL 125.1507 | [sec-0125-1507.md](sec-0125-1507.md) | 0 |  |
+| MCL 125.1508 | [sec-0125-1508.md](sec-0125-1508.md) | 0 |  |
+| MCL 125.1508a | [sec-0125-1508a.md](sec-0125-1508a.md) | 0 |  |
+| MCL 125.1508b | [sec-0125-1508b.md](sec-0125-1508b.md) | 0 |  |
+| MCL 125.1509 | [sec-0125-1509.md](sec-0125-1509.md) | 0 |  |
+| MCL 125.1509a | [sec-0125-1509a.md](sec-0125-1509a.md) | 0 |  |
+| MCL 125.1509b | [sec-0125-1509b.md](sec-0125-1509b.md) | 0 |  |
+| MCL 125.1509c | [sec-0125-1509c.md](sec-0125-1509c.md) | 0 |  |
+| MCL 125.1510 | [sec-0125-1510.md](sec-0125-1510.md) | 0 |  |
+| MCL 125.1511 | [sec-0125-1511.md](sec-0125-1511.md) | 0 |  |
+| MCL 125.1512 | [sec-0125-1512.md](sec-0125-1512.md) | 0 |  |
+| MCL 125.1513 | [sec-0125-1513.md](sec-0125-1513.md) | 0 |  |
+| MCL 125.1513a | [sec-0125-1513a.md](sec-0125-1513a.md) | 0 |  |
+| MCL 125.1513b | [sec-0125-1513b.md](sec-0125-1513b.md) | 0 |  |
+| MCL 125.1513c | [sec-0125-1513c.md](sec-0125-1513c.md) | 0 |  |
+| MCL 125.1513d | [sec-0125-1513d.md](sec-0125-1513d.md) | 0 |  |
+| MCL 125.1513e | [sec-0125-1513e.md](sec-0125-1513e.md) | 0 |  |
+| MCL 125.1513f | [sec-0125-1513f.md](sec-0125-1513f.md) | 0 |  |
+| MCL 125.1513g | [sec-0125-1513g.md](sec-0125-1513g.md) | 0 |  |
+| MCL 125.1514 | [sec-0125-1514.md](sec-0125-1514.md) | 0 |  |
+| MCL 125.1515 | [sec-0125-1515.md](sec-0125-1515.md) | 0 |  |
+| MCL 125.1516 | [sec-0125-1516.md](sec-0125-1516.md) | 0 |  |
+| MCL 125.1517 | [sec-0125-1517.md](sec-0125-1517.md) | 0 |  |
+| MCL 125.1518 | [sec-0125-1518.md](sec-0125-1518.md) | 0 |  |
+| MCL 125.1519 | [sec-0125-1519.md](sec-0125-1519.md) | 0 |  |
+| MCL 125.1520 | [sec-0125-1520.md](sec-0125-1520.md) | 0 |  |
+| MCL 125.1521 | [sec-0125-1521.md](sec-0125-1521.md) | 0 |  |
+| MCL 125.1521a | [sec-0125-1521a.md](sec-0125-1521a.md) | 0 |  |
+| MCL 125.1522 | [sec-0125-1522.md](sec-0125-1522.md) | 0 |  |
+| MCL 125.1523 | [sec-0125-1523.md](sec-0125-1523.md) | 0 |  |
+| MCL 125.1523a | [sec-0125-1523a.md](sec-0125-1523a.md) | 0 |  |
+| MCL 125.1524 | [sec-0125-1524.md](sec-0125-1524.md) | 0 |  |
+| MCL 125.1525 | [sec-0125-1525.md](sec-0125-1525.md) | 0 |  |
+| MCL 125.1526 | [sec-0125-1526.md](sec-0125-1526.md) | 0 |  |
+| MCL 125.1528 | [sec-0125-1528.md](sec-0125-1528.md) | 0 |  |
+| MCL 125.1528.amended | [sec-0125-1528-amended.md](sec-0125-1528-amended.md) | 0 |  |
+| MCL 125.1528a | [sec-0125-1528a.md](sec-0125-1528a.md) | 0 |  |
+| MCL 125.1529 | [sec-0125-1529.md](sec-0125-1529.md) | 0 |  |
+| MCL 125.1530 | [sec-0125-1530.md](sec-0125-1530.md) | 0 |  |
+| MCL 125.1531 | [sec-0125-1531.md](sec-0125-1531.md) | 0 |  |

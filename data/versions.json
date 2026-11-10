@@ -8862,6 +8862,3926 @@
      "sha256": "94e6e438decaa6a1f2136e39bd5eda519bc8b3e5f32b205dfebcb69e8cab2c86"
     }
    ]
+  },
+  {
+   "slug": "mcl-0078-act-1909-0278",
+   "short": "MCL ch. 78, Act 278 of 1909",
+   "title": "Michigan Compiled Laws, Chapter 78 (VILLAGES): Act 278 of 1909, The home rule village act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%2078.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 41,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%2078.xml",
+     "sha256": "e0c010d0f77f0e974bccdd58fa97f295842cb392251af60ceb96ff5b3f0e94bf"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0079-act-1913-0127",
+   "short": "MCL ch. 79, Act 127 of 1913",
+   "title": "Michigan Compiled Laws, Chapter 79 (VILLAGES): Act 127 of 1913, VALIDATION OF ORDINANCES AND FRANCHISE GRANTS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%2079.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%2079.xml",
+     "sha256": "835f345e13628dafa65b71d514c396004eed1bf3f9ac15027ddfb2916350598c"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0079-act-1925-0180",
+   "short": "MCL ch. 79, Act 180 of 1925",
+   "title": "Michigan Compiled Laws, Chapter 79 (VILLAGES): Act 180 of 1925, SPRINKLING FUND",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%2079.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 2,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%2079.xml",
+     "sha256": "835f345e13628dafa65b71d514c396004eed1bf3f9ac15027ddfb2916350598c"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0081-act-1895-0215",
+   "short": "MCL ch. 81, Act 215 of 1895",
+   "title": "Michigan Compiled Laws, Chapter 81 (FOURTH CLASS CITIES): Act 215 of 1895, The fourth class city act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%2081.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 363,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%2081.xml",
+     "sha256": "5f4435504e16473cc1d5c2b8cfa3c3b5826f5706fe6bfdf9ae4bf358258b4057"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0117-act-1909-0279",
+   "short": "MCL ch. 117, Act 279 of 1909",
+   "title": "Michigan Compiled Laws, Chapter 117 (HOME RULE CITIES): Act 279 of 1909, The home rule city act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20117.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 89,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20117.xml",
+     "sha256": "6a176e9665bdf9649bc5e71f803d01059802ea0c16e337dc6e19536716901a3a"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0119-act-1929-0312",
+   "short": "MCL ch. 119, Act 312 of 1929",
+   "title": "Michigan Compiled Laws, Chapter 119 (METROPOLITAN DISTRICTS): Act 312 of 1929, The metropolitan district act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20119.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 23,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20119.xml",
+     "sha256": "636e0ff59e227f81ffc1f46b9cec7734a1580688e89f32b772f2bac534a27c52"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0119-act-1939-0147",
+   "short": "MCL ch. 119, Act 147 of 1939",
+   "title": "Michigan Compiled Laws, Chapter 119 (METROPOLITAN DISTRICTS): Act 147 of 1939, HURON-CLINTON METROPOLITAN AUTHORITY",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20119.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 12,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20119.xml",
+     "sha256": "636e0ff59e227f81ffc1f46b9cec7734a1580688e89f32b772f2bac534a27c52"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0120-act-1925-0234",
+   "short": "MCL ch. 120, Act 234 of 1925",
+   "title": "Michigan Compiled Laws, Chapter 120 (PORT DISTRICTS): Act 234 of 1925, PORT DISTRICTS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20120.xml",
+   "versions": [
+    {
+     "from": "2025-05-06",
+     "units": 41,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20120.xml",
+     "sha256": "e2f036f2462476244c366a0ac47cc93881774720ed45838cc18d251da2f9bdb6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0120-act-1966-0251",
+   "short": "MCL ch. 120, Act 251 of 1966",
+   "title": "Michigan Compiled Laws, Chapter 120 (PORT DISTRICTS): Act 251 of 1966, PORT DISTRICTS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20120.xml",
+   "versions": [
+    {
+     "from": "2025-05-06",
+     "units": 6,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20120.xml",
+     "sha256": "e2f036f2462476244c366a0ac47cc93881774720ed45838cc18d251da2f9bdb6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0120-act-1978-0639",
+   "short": "MCL ch. 120, Act 639 of 1978",
+   "title": "Michigan Compiled Laws, Chapter 120 (PORT DISTRICTS): Act 639 of 1978, Hertel-Law-T. Stopczynski port authority act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20120.xml",
+   "versions": [
+    {
+     "from": "2025-05-06",
+     "units": 31,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20120.xml",
+     "sha256": "e2f036f2462476244c366a0ac47cc93881774720ed45838cc18d251da2f9bdb6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0120-act-2022-0159",
+   "short": "MCL ch. 120, Act 159 of 2022",
+   "title": "Michigan Compiled Laws, Chapter 120 (PORT DISTRICTS): Act 159 of 2022, Maritime and port facility assistance grant program act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20120.xml",
+   "versions": [
+    {
+     "from": "2025-05-06",
+     "units": 4,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20120.xml",
+     "sha256": "e2f036f2462476244c366a0ac47cc93881774720ed45838cc18d251da2f9bdb6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1883-0038",
+   "short": "MCL ch. 123, Act 38 of 1883",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 38 of 1883, DIVISION OF TERRITORY",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 11,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1949-0123",
+   "short": "MCL ch. 123, Act 123 of 1949",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 123 of 1949, DISCONNECTION OF LAND FROM CITIES AND VILLAGES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 6,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1929-0199",
+   "short": "MCL ch. 123, Act 199 of 1929",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 199 of 1929, COMMUNITY CENTER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 7,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1917-0156",
+   "short": "MCL ch. 123, Act 156 of 1917",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 156 of 1917, RECREATION AND PLAYGROUNDS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 4,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1913-0090",
+   "short": "MCL ch. 123, Act 90 of 1913",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 90 of 1913, PARKS, ZOOLOGICAL GARDENS, AND AIRPORTS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 9,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1925-0081",
+   "short": "MCL ch. 123, Act 81 of 1925",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 81 of 1925, JOINT PUBLIC IMPROVEMENTS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 3,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1925-0261",
+   "short": "MCL ch. 123, Act 261 of 1925",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 261 of 1925, DISPOSAL OF LIGHTING PLANTS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 2,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1891-0186",
+   "short": "MCL ch. 123, Act 186 of 1891",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 186 of 1891, LIGHTING OF PUBLIC PLACES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 4,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1895-0041",
+   "short": "MCL ch. 123, Act 41 of 1895",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 41 of 1895, ELECTRICITY FURNISHED INHABITANTS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1935-0028",
+   "short": "MCL ch. 123, Act 28 of 1935",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 28 of 1935, PUBLIC UTILITY FRANCHISES; VALIDATION",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 2,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1917-0034",
+   "short": "MCL ch. 123, Act 34 of 1917",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 34 of 1917, WATER FURNISHED OUTSIDE TERRITORIAL LIMITS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 4,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1945-0130",
+   "short": "MCL ch. 123, Act 130 of 1945",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 130 of 1945, WATER SUPPLY; JOINT SOURCE",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1939-0178",
+   "short": "MCL ch. 123, Act 178 of 1939",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 178 of 1939, MUNICIPAL WATER LIENS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 7,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1915-0285",
+   "short": "MCL ch. 123, Act 285 of 1915",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 285 of 1915, CONVENIENCE STATIONS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 2,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1882-0023",
+   "short": "MCL ch. 123, Act 23 of 1882 (Ex. Sess.)",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 23 of 1882 (Ex. Sess.), SEWERS IN PRIVATE PROPERTY",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1943-0129",
+   "short": "MCL ch. 123, Act 129 of 1943",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 129 of 1943, SEWERS AND SEWAGE DISPOSAL",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 6,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1917-0298",
+   "short": "MCL ch. 123, Act 298 of 1917",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 298 of 1917, GARBAGE DISPOSAL PLANTS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1927-0261",
+   "short": "MCL ch. 123, Act 261 of 1927",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 261 of 1927, DISPOSAL PLANTS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 6,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1947-0179",
+   "short": "MCL ch. 123, Act 179 of 1947",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 179 of 1947, JOINT GARBAGE AND RUBBISH DISPOSAL",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 11,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1976-0152",
+   "short": "MCL ch. 123, Act 152 of 1976",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 152 of 1976, ACCESS TO DISPOSAL FACILITIES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 3,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1947-0235",
+   "short": "MCL ch. 123, Act 235 of 1947",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 235 of 1947, JOINT WATER AND SEWAGE DISPOSAL SYSTEM",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 17,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1955-0082",
+   "short": "MCL ch. 123, Act 82 of 1955",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 82 of 1955, JOINT WATER AND SEWAGE DISPOSAL SYSTEM",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 6,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1951-0266",
+   "short": "MCL ch. 123, Act 266 of 1951",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 266 of 1951, The garbage disposal act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 14,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1965-0076",
+   "short": "MCL ch. 123, Act 76 of 1965",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 76 of 1965, JOINT WATER SUPPLY AND WASTE DISPOSAL SYSTEMS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 4,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1969-0301",
+   "short": "MCL ch. 123, Act 301 of 1969",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 301 of 1969, GIFTS FROM MUNICIPAL UTILITIES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1931-0203",
+   "short": "MCL ch. 123, Act 203 of 1931",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 203 of 1931, INJURIES TO PERSONS DRAFTED FOR MUNICIPAL SERVICE",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 3,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1988-0226",
+   "short": "MCL ch. 123, Act 226 of 1988",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 226 of 1988, LEASING OF PRIVATE RESIDENTIAL PROPERTY",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1931-0306",
+   "short": "MCL ch. 123, Act 306 of 1931",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 306 of 1931, FREE EMPLOYMENT BUREAU",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1967-0179",
+   "short": "MCL ch. 123, Act 179 of 1967",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 179 of 1967, YOUTH CENTERS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 2,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1933-0170",
+   "short": "MCL ch. 123, Act 170 of 1933",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 170 of 1933, BIDDERS ON PUBLIC WORKS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 8,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1955-0004",
+   "short": "MCL ch. 123, Act 4 of 1955",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 4 of 1955, ANNEXATION OF SUBMERGED LANDS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 3,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1957-0068",
+   "short": "MCL ch. 123, Act 68 of 1957",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 68 of 1957, REGULATION OF HOUSEBOATS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 3,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1961-0037",
+   "short": "MCL ch. 123, Act 37 of 1961",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 37 of 1961, CONTRACTS FOR ASSESSING SERVICES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1957-0200",
+   "short": "MCL ch. 123, Act 200 of 1957",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 200 of 1957, INTERMUNICIPALITY COMMITTEES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 7,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1957-0217",
+   "short": "MCL ch. 123, Act 217 of 1957",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 217 of 1957, INTERCOUNTY COMMITTEES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1955-0070",
+   "short": "MCL ch. 123, Act 70 of 1955",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 70 of 1955, CITY EXHIBITION AREAS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1956-0185",
+   "short": "MCL ch. 123, Act 185 of 1956",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 185 of 1956, The market authority act of 1956",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 10,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-2017-0135",
+   "short": "MCL ch. 123, Act 135 of 2017",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 135 of 2017, TAX ON MANUFACTURE, DISTRIBUTION, OR SALE OF FOOD",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 2,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1933-0099",
+   "short": "MCL ch. 123, Act 99 of 1933",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 99 of 1933, PURCHASE OF LANDS AND PROPERTY FOR PUBLIC PURPOSES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 4,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1957-0185",
+   "short": "MCL ch. 123, Act 185 of 1957",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 185 of 1957, COUNTY DEPARTMENT AND BOARD OF PUBLIC WORKS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 47,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1913-0178",
+   "short": "MCL ch. 123, Act 178 of 1913",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 178 of 1913, POLICE DEPARTMENT LEAVES AND FURLOUGHS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1967-0236",
+   "short": "MCL ch. 123, Act 236 of 1967",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 236 of 1967, MUTUAL POLICE ASSISTANCE AGREEMENTS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 4,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1941-0157",
+   "short": "MCL ch. 123, Act 157 of 1941",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 157 of 1941, MINIMUM SALARIES FOR POLICEMEN",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 4,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1965-0327",
+   "short": "MCL ch. 123, Act 327 of 1965",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 327 of 1965, MINIMUM STANDARDS FOR FIRE DEPARTMENTS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 2,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1925-0125",
+   "short": "MCL ch. 123, Act 125 of 1925",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 125 of 1925, FIRE DEPARTMENT HOURS OF LABOR",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 3,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1905-0110",
+   "short": "MCL ch. 123, Act 110 of 1905",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 110 of 1905, ARMISTICE, INDEPENDENCE, AND MEMORIAL DAY",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 2,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1923-0230",
+   "short": "MCL ch. 123, Act 230 of 1923",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 230 of 1923, BAND",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 4,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1913-0380",
+   "short": "MCL ch. 123, Act 380 of 1913",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 380 of 1913, GIFTS OF PROPERTY",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 4,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1925-0359",
+   "short": "MCL ch. 123, Act 359 of 1925",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 359 of 1925, SPECIAL TAX FOR ADVERTISING",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-2017-0038",
+   "short": "MCL ch. 123, Act 38 of 2017",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 38 of 2017, Michigan community foundation act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 4,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1923-0150",
+   "short": "MCL ch. 123, Act 150 of 1923",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 150 of 1923, JOINT PUBLIC BUILDINGS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1994-0053",
+   "short": "MCL ch. 123, Act 53 of 1994",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 53 of 1994, POOLED INVESTMENTS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1948-0031",
+   "short": "MCL ch. 123, Act 31 of 1948 (1st Ex. Sess.)",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 31 of 1948 (1st Ex. Sess.), BUILDING AUTHORITIES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 33,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1957-0093",
+   "short": "MCL ch. 123, Act 93 of 1957",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 93 of 1957, ANNEXATION OF STATE-OWNED LAND",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 3,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1968-0285",
+   "short": "MCL ch. 123, Act 285 of 1968",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 285 of 1968, REAPPORTIONMENT OF WARDS OR DISTRICTS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1968-0191",
+   "short": "MCL ch. 123, Act 191 of 1968",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 191 of 1968, STATE BOUNDARY COMMISSION",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 27,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-2017-0098",
+   "short": "MCL ch. 123, Act 98 of 2017",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 98 of 2017, Educational instruction access act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 4,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1994-0425",
+   "short": "MCL ch. 123, Act 425 of 1994",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 425 of 1994, COMMUNITY SWIMMING POOL AUTHORITY",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 9,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-1990-0319",
+   "short": "MCL ch. 123, Act 319 of 1990",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 319 of 1990, FIREARMS AND AMMUNITION",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-2006-0152",
+   "short": "MCL ch. 123, Act 152 of 2006",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 152 of 2006, DEMONSTRATIONS AT FUNERAL SERVICES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-2000-0321",
+   "short": "MCL ch. 123, Act 321 of 2000",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 321 of 2000, Recreational authorities act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 15,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-2008-0049",
+   "short": "MCL ch. 123, Act 49 of 2008",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 49 of 2008, Zoological authorities act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 15,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-2008-0084",
+   "short": "MCL ch. 123, Act 84 of 2008",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 84 of 2008, Local government filming location access act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 3,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-2010-0296",
+   "short": "MCL ch. 123, Act 296 of 2010",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 296 of 2010, Art institute authorities act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 15,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-2012-0392",
+   "short": "MCL ch. 123, Act 392 of 2012",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 392 of 2012, Municipal lighting authority act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 19,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-2014-0086",
+   "short": "MCL ch. 123, Act 86 of 2014",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 86 of 2014, Local community stabilization authority act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 19,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-2015-0105",
+   "short": "MCL ch. 123, Act 105 of 2015",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 105 of 2015, Local government labor regulatory limitation act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 16,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-2018-0327",
+   "short": "MCL ch. 123, Act 327 of 2018",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 327 of 2018, MOTOR VEHICLE STORAGE FACILITIES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0123-act-2018-0493",
+   "short": "MCL ch. 123, Act 493 of 2018",
+   "title": "Michigan Compiled Laws, Chapter 123 (LOCAL GOVERNMENT): Act 493 of 2018, Local government occupational licensing act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 4,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20123.xml",
+     "sha256": "8df0dfa60acc8dd9969a8b00d3feb51bb1d2e8c7b3f30b6f69418eccae7989f6"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0124-act-1951-0035",
+   "short": "MCL ch. 124, Act 35 of 1951",
+   "title": "Michigan Compiled Laws, Chapter 124 (MUNICIPALITIES): Act 35 of 1951, INTERGOVERNMENTAL CONTRACTS BETWEEN MUNICIPAL CORPORATIONS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20124.xml",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 17,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20124.xml",
+     "sha256": "5106d670622a7d860dd5d8806c1aa3f1c0832fe8b8fad8b358b42f9cd8e7e3a5"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0124-act-1984-0425",
+   "short": "MCL ch. 124, Act 425 of 1984",
+   "title": "Michigan Compiled Laws, Chapter 124 (MUNICIPALITIES): Act 425 of 1984, INTERGOVERNMENTAL CONDITIONAL TRANSFER OF PROPERTY BY CONTRACT",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20124.xml",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 11,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20124.xml",
+     "sha256": "5106d670622a7d860dd5d8806c1aa3f1c0832fe8b8fad8b358b42f9cd8e7e3a5"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0124-act-1962-0179",
+   "short": "MCL ch. 124, Act 179 of 1962",
+   "title": "Michigan Compiled Laws, Chapter 124 (MUNICIPALITIES): Act 179 of 1962, MUNICIPAL RENTAL FACILITIES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20124.xml",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20124.xml",
+     "sha256": "5106d670622a7d860dd5d8806c1aa3f1c0832fe8b8fad8b358b42f9cd8e7e3a5"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0124-act-2007-0106",
+   "short": "MCL ch. 124, Act 106 of 2007",
+   "title": "Michigan Compiled Laws, Chapter 124 (MUNICIPALITIES): Act 106 of 2007, Public employees health benefit act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20124.xml",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 8,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20124.xml",
+     "sha256": "5106d670622a7d860dd5d8806c1aa3f1c0832fe8b8fad8b358b42f9cd8e7e3a5"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0124-act-2011-0258",
+   "short": "MCL ch. 124, Act 258 of 2011",
+   "title": "Michigan Compiled Laws, Chapter 124 (MUNICIPALITIES): Act 258 of 2011, Municipal partnership act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20124.xml",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 13,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20124.xml",
+     "sha256": "5106d670622a7d860dd5d8806c1aa3f1c0832fe8b8fad8b358b42f9cd8e7e3a5"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0124-act-1962-0032",
+   "short": "MCL ch. 124, Act 32 of 1962",
+   "title": "Michigan Compiled Laws, Chapter 124 (MUNICIPALITIES): Act 32 of 1962, FEMALE BOX ELDER TREES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20124.xml",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20124.xml",
+     "sha256": "5106d670622a7d860dd5d8806c1aa3f1c0832fe8b8fad8b358b42f9cd8e7e3a5"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0124-act-1952-0196",
+   "short": "MCL ch. 124, Act 196 of 1952",
+   "title": "Michigan Compiled Laws, Chapter 124 (MUNICIPALITIES): Act 196 of 1952, MUNICIPAL WATER SUPPLY SYSTEMS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20124.xml",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 12,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20124.xml",
+     "sha256": "5106d670622a7d860dd5d8806c1aa3f1c0832fe8b8fad8b358b42f9cd8e7e3a5"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0124-act-1955-0233",
+   "short": "MCL ch. 124, Act 233 of 1955",
+   "title": "Michigan Compiled Laws, Chapter 124 (MUNICIPALITIES): Act 233 of 1955, MUNICIPAL SEWAGE AND WATER SUPPLY SYSTEMS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20124.xml",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 23,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20124.xml",
+     "sha256": "5106d670622a7d860dd5d8806c1aa3f1c0832fe8b8fad8b358b42f9cd8e7e3a5"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0124-act-2002-0738",
+   "short": "MCL ch. 124, Act 738 of 2002",
+   "title": "Michigan Compiled Laws, Chapter 124 (MUNICIPALITIES): Act 738 of 2002, ELECTRONIC TRANSACTIONS OF PUBLIC FUNDS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20124.xml",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20124.xml",
+     "sha256": "5106d670622a7d860dd5d8806c1aa3f1c0832fe8b8fad8b358b42f9cd8e7e3a5"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0124-act-1963-0055",
+   "short": "MCL ch. 124, Act 55 of 1963",
+   "title": "Michigan Compiled Laws, Chapter 124 (MUNICIPALITIES): Act 55 of 1963, MASS TRANSPORTATION SYSTEM AUTHORITIES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20124.xml",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 12,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20124.xml",
+     "sha256": "5106d670622a7d860dd5d8806c1aa3f1c0832fe8b8fad8b358b42f9cd8e7e3a5"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0124-act-1967-0204",
+   "short": "MCL ch. 124, Act 204 of 1967",
+   "title": "Michigan Compiled Laws, Chapter 124 (MUNICIPALITIES): Act 204 of 1967, Metropolitan transportation authorities act of 1967",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20124.xml",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 31,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20124.xml",
+     "sha256": "5106d670622a7d860dd5d8806c1aa3f1c0832fe8b8fad8b358b42f9cd8e7e3a5"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0124-act-1986-0196",
+   "short": "MCL ch. 124, Act 196 of 1986",
+   "title": "Michigan Compiled Laws, Chapter 124 (MUNICIPALITIES): Act 196 of 1986, Public transportation authority act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20124.xml",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 29,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20124.xml",
+     "sha256": "5106d670622a7d860dd5d8806c1aa3f1c0832fe8b8fad8b358b42f9cd8e7e3a5"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0124-act-1967-0007",
+   "short": "MCL ch. 124, Act 7 of 1967 (Ex. Sess.)",
+   "title": "Michigan Compiled Laws, Chapter 124 (MUNICIPALITIES): Act 7 of 1967 (Ex. Sess.), Urban cooperation act of 1967",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20124.xml",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 15,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20124.xml",
+     "sha256": "5106d670622a7d860dd5d8806c1aa3f1c0832fe8b8fad8b358b42f9cd8e7e3a5"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0124-act-1967-0008",
+   "short": "MCL ch. 124, Act 8 of 1967 (Ex. Sess.)",
+   "title": "Michigan Compiled Laws, Chapter 124 (MUNICIPALITIES): Act 8 of 1967 (Ex. Sess.), INTERGOVERNMENTAL TRANSFERS OF FUNCTIONS AND RESPONSIBILITIES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20124.xml",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 6,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20124.xml",
+     "sha256": "5106d670622a7d860dd5d8806c1aa3f1c0832fe8b8fad8b358b42f9cd8e7e3a5"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0124-act-2012-0387",
+   "short": "MCL ch. 124, Act 387 of 2012",
+   "title": "Michigan Compiled Laws, Chapter 124 (MUNICIPALITIES): Act 387 of 2012, Regional transit authority act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20124.xml",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 19,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20124.xml",
+     "sha256": "5106d670622a7d860dd5d8806c1aa3f1c0832fe8b8fad8b358b42f9cd8e7e3a5"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0124-act-1988-0057",
+   "short": "MCL ch. 124, Act 57 of 1988",
+   "title": "Michigan Compiled Laws, Chapter 124 (MUNICIPALITIES): Act 57 of 1988, EMERGENCY SERVICES TO MUNICIPALITIES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20124.xml",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 16,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20124.xml",
+     "sha256": "5106d670622a7d860dd5d8806c1aa3f1c0832fe8b8fad8b358b42f9cd8e7e3a5"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0124-act-1989-0292",
+   "short": "MCL ch. 124, Act 292 of 1989",
+   "title": "Michigan Compiled Laws, Chapter 124 (MUNICIPALITIES): Act 292 of 1989, Metropolitan councils act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20124.xml",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 35,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20124.xml",
+     "sha256": "5106d670622a7d860dd5d8806c1aa3f1c0832fe8b8fad8b358b42f9cd8e7e3a5"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0124-act-2003-0258",
+   "short": "MCL ch. 124, Act 258 of 2003",
+   "title": "Michigan Compiled Laws, Chapter 124 (MUNICIPALITIES): Act 258 of 2003, Land bank fast track act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20124.xml",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 24,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20124.xml",
+     "sha256": "5106d670622a7d860dd5d8806c1aa3f1c0832fe8b8fad8b358b42f9cd8e7e3a5"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0124-act-e-r-o-no-2014-0003",
+   "short": "MCL ch. 124, E.R.O. No. 2014-3",
+   "title": "Michigan Compiled Laws, Chapter 124 (MUNICIPALITIES): E.R.O. No. 2014-3, EXECUTIVE REORGANIZATION ORDER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20124.xml",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20124.xml",
+     "sha256": "5106d670622a7d860dd5d8806c1aa3f1c0832fe8b8fad8b358b42f9cd8e7e3a5"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1945-0281",
+   "short": "MCL ch. 125, Act 281 of 1945",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 281 of 1945, REGIONAL PLANNING",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 15,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1943-0222",
+   "short": "MCL ch. 125, Act 222 of 1943",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 222 of 1943, CERTIFICATION OF CITY AND VILLAGE PLATS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1945-0344",
+   "short": "MCL ch. 125, Act 344 of 1945",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 344 of 1945, BLIGHTED AREA REHABILITATION",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 19,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-2003-0226",
+   "short": "MCL ch. 125, Act 226 of 2003",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 226 of 2003, Joint municipal planning act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 7,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-e-r-o-no-1973-0007",
+   "short": "MCL ch. 125, E.R.O. No. 1973-7",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): E.R.O. No. 1973-7, EXECUTIVE REORGANIZATION ORDER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1958-0171",
+   "short": "MCL ch. 125, Act 171 of 1958",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 171 of 1958, ZONING REGULATIONS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1917-0167",
+   "short": "MCL ch. 125, Act 167 of 1917",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 167 of 1917, Housing law of michigan",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 73,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1929-0319",
+   "short": "MCL ch. 125, Act 319 of 1929",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 319 of 1929, FUEL OIL",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 25,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1937-0293",
+   "short": "MCL ch. 125, Act 293 of 1937",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 293 of 1937, Housing cooperation law",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 9,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1933-0018",
+   "short": "MCL ch. 125, Act 18 of 1933 (Ex. Sess.)",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 18 of 1933 (Ex. Sess.), HOUSING FACILITIES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 53,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1953-0162",
+   "short": "MCL ch. 125, Act 162 of 1953",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 162 of 1953, HOUSING PROJECTS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 2,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1974-0133",
+   "short": "MCL ch. 125, Act 133 of 1974",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 133 of 1974, FIRE PROTECTION IN MOBILE HOMES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 4,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1952-0075",
+   "short": "MCL ch. 125, Act 75 of 1952",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 75 of 1952, REGISTRATION OF PERSONS IN ACCOMMODATIONS FOR TRANSIENTS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 4,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1980-0056",
+   "short": "MCL ch. 125, Act 56 of 1980",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 56 of 1980, NEIGHBORHOOD ASSISTANCE AND PARTICIPATION ACT",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 14,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1941-0250",
+   "short": "MCL ch. 125, Act 250 of 1941",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 250 of 1941, Urban redevelopment corporations law",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 25,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1949-0208",
+   "short": "MCL ch. 125, Act 208 of 1949",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 208 of 1949, NEIGHBORHOOD AREA IMPROVEMENTS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 16,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1966-0323",
+   "short": "MCL ch. 125, Act 323 of 1966",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 323 of 1966, HOUSING FOR PERSONS DISPLACED BY URBAN RENEWAL",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 3,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1952-0167",
+   "short": "MCL ch. 125, Act 167 of 1952",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 167 of 1952, ISSUANCE OF BONDS FOR SLUM CLEARANCE AND REDEVELOPMENT",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1961-0120",
+   "short": "MCL ch. 125, Act 120 of 1961",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 120 of 1961, PRINCIPAL SHOPPING DISTRICTS AND BUSINESS IMPROVEMENT DISTRICTS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 22,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1974-0288",
+   "short": "MCL ch. 125, Act 288 of 1974",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 288 of 1974, Uniform mobile homes warranty act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 6,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1959-0243",
+   "short": "MCL ch. 125, Act 243 of 1959",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 243 of 1959, TRAILER COACH PARKS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 7,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1963-0116",
+   "short": "MCL ch. 125, Act 116 of 1963",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 116 of 1963, ECONOMIC EXPANSION",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 8,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-e-r-o-no-1972-0001",
+   "short": "MCL ch. 125, E.R.O. No. 1972-1",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): E.R.O. No. 1972-1, EXECUTIVE REORGANIZATION ORDER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1975-0165",
+   "short": "MCL ch. 125, Act 165 of 1975",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 165 of 1975, DIVISION OF MINORITY BUSINESS ENTERPRISE",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1966-0046",
+   "short": "MCL ch. 125, Act 46 of 1966",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 46 of 1966, COUNTY OR REGIONAL ECONOMIC DEVELOPMENT COMMISSION",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 7,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1963-0062",
+   "short": "MCL ch. 125, Act 62 of 1963",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 62 of 1963, Industrial development revenue bond act of 1963",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 19,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1965-0122",
+   "short": "MCL ch. 125, Act 122 of 1965",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 122 of 1965, FEDERAL FUNDS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-2010-0153",
+   "short": "MCL ch. 125, Act 153 of 2010",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 153 of 2010, FEDERAL BOND LIMITATIONS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1966-0001",
+   "short": "MCL ch. 125, Act 1 of 1966",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 1 of 1966, UTILIZATION OF PUBLIC FACILITIES BY PHYSICALLY LIMITED",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 7,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1973-0008",
+   "short": "MCL ch. 125, Act 8 of 1973",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 8 of 1973, SIDEWALKS; PERSONS WITH DISABILITIES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1972-0311",
+   "short": "MCL ch. 125, Act 311 of 1972",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 311 of 1972, SAFETY GLAZING MATERIALS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 9,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-e-r-o-no-1989-0002",
+   "short": "MCL ch. 125, E.R.O. No. 1989-2",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): E.R.O. No. 1989-2, EXECUTIVE REORGANIZATION ORDER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-e-r-o-no-2009-0024",
+   "short": "MCL ch. 125, E.R.O. No. 2009-24",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): E.R.O. No. 2009-24, EXECUTIVE REORGANIZATION ORDER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-e-r-o-no-2013-0003",
+   "short": "MCL ch. 125, E.R.O. No. 2013-3",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): E.R.O. No. 2013-3, EXECUTIVE REORGANIZATION ORDER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1966-0346",
+   "short": "MCL ch. 125, Act 346 of 1966",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 346 of 1966, State housing development authority act of 1966",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 153,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1972-0230",
+   "short": "MCL ch. 125, Act 230 of 1972",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 230 of 1972, Stille-derossett-hale single state construction code act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 55,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1979-0220",
+   "short": "MCL ch. 125, Act 220 of 1979",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 220 of 1979, INDIAN HOUSING AUTHORITY",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1980-0524",
+   "short": "MCL ch. 125, Act 524 of 1980",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 524 of 1980, CONSTRUCTION CONTRACTS WITH CERTAIN PUBLIC AGENCIES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 6,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1984-0198",
+   "short": "MCL ch. 125, Act 198 of 1984",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 198 of 1984, Michigan business incubation act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 16,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1998-0057",
+   "short": "MCL ch. 125, Act 57 of 1998",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 57 of 1998, CONTRACTS FOR IMPROVEMENT TO REAL PROPERTY",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 6,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1974-0338",
+   "short": "MCL ch. 125, Act 338 of 1974",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 338 of 1974, Economic development corporations act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 41,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-2008-0398",
+   "short": "MCL ch. 125, Act 398 of 2008",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 398 of 2008, Commission for logistics and supply chain collaboration act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 4,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1982-0175",
+   "short": "MCL ch. 125, Act 175 of 1982",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 175 of 1982, STATE RESEARCH FUND",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 6,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-2006-0317",
+   "short": "MCL ch. 125, Act 317 of 2006",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 317 of 2006, MICHIGAN STRATEGIC FUND CENTERS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 2,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-e-r-o-no-2006-0001",
+   "short": "MCL ch. 125, E.R.O. No. 2006-1",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): E.R.O. No. 2006-1, EXECUTIVE REORGANIZATION ORDER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-e-r-o-2010-0003",
+   "short": "MCL ch. 125, E.R.O. 2010-3",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): E.R.O. 2010-3, EXECUTIVE REORGANIZATION ORDER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-e-r-o-no-2010-0004",
+   "short": "MCL ch. 125, E.R.O. No. 2010-4",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): E.R.O. No. 2010-4, EXECUTIVE REORGANIZATION ORDER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-e-r-o-no-2012-0004",
+   "short": "MCL ch. 125, E.R.O. No. 2012-4",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): E.R.O. No. 2012-4, EXECUTIVE REORGANIZATION ORDER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-e-r-o-no-2014-0006",
+   "short": "MCL ch. 125, E.R.O. No. 2014-6",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): E.R.O. No. 2014-6, EXECUTIVE REORGANIZATION ORDER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-e-r-o-no-2016-0006",
+   "short": "MCL ch. 125, E.R.O. No. 2016-6",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): E.R.O. No. 2016-6, EXECUTIVE REORGANIZATION ORDER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-e-r-o-no-2018-0004",
+   "short": "MCL ch. 125, E.R.O. No. 2018-4",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): E.R.O. No. 2018-4, EXECUTIVE REORGANIZATION ORDER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-e-r-o-no-2019-0003",
+   "short": "MCL ch. 125, E.R.O. No. 2019-3",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): E.R.O. No. 2019-3, EXECUTIVE REORGANIZATION ORDER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-e-r-o-no-2023-0001",
+   "short": "MCL ch. 125, E.R.O. No. 2023-1",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): E.R.O. No. 2023-1, EXECUTIVE REORGANIZATION ORDER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1984-0270",
+   "short": "MCL ch. 125, Act 270 of 1984",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 270 of 1984, Michigan strategic fund act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 133,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1985-0224",
+   "short": "MCL ch. 125, Act 224 of 1985",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 224 of 1985, Enterprise zone act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 30,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-2014-0393",
+   "short": "MCL ch. 125, Act 393 of 2014",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 393 of 2014, Entrepreneur-in-residence act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 7,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1986-0059",
+   "short": "MCL ch. 125, Act 59 of 1986",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 59 of 1986, Resort district rehabilitation act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 19,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-2003-0296",
+   "short": "MCL ch. 125, Act 296 of 2003",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 296 of 2003, Michigan early stage venture investment act of 2003",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 18,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-e-r-o-no-2010-0005",
+   "short": "MCL ch. 125, E.R.O. No. 2010-5",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): E.R.O. No. 2010-5, EXECUTIVE REORGANIZATION ORDER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1987-0096",
+   "short": "MCL ch. 125, Act 96 of 1987",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 96 of 1987, The mobile home commission act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 59,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1992-0173",
+   "short": "MCL ch. 125, Act 173 of 1992",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 173 of 1992, Land reclamation and improvement authority act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 38,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1994-0129",
+   "short": "MCL ch. 125, Act 129 of 1994",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 129 of 1994, Heating cable safety act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 8,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1995-0075",
+   "short": "MCL ch. 125, Act 75 of 1995",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 75 of 1995, Empowerment zone development corporation act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 16,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1995-0123",
+   "short": "MCL ch. 125, Act 123 of 1995",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 123 of 1995, Enterprise community development corporation act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 16,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1996-0381",
+   "short": "MCL ch. 125, Act 381 of 1996",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 381 of 1996, Brownfield redevelopment financing act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 29,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1996-0376",
+   "short": "MCL ch. 125, Act 376 of 1996",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 376 of 1996, Michigan renaissance zone act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 24,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1999-0127",
+   "short": "MCL ch. 125, Act 127 of 1999",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 127 of 1999, Urban homestead act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 9,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1999-0084",
+   "short": "MCL ch. 125, Act 84 of 1999",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 84 of 1999, Urban homesteading in multifamily public housing act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 14,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1999-0129",
+   "short": "MCL ch. 125, Act 129 of 1999",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 129 of 1999, Urban homesteading on vacant land act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 8,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-1999-0128",
+   "short": "MCL ch. 125, Act 128 of 1999",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 128 of 1999, Urban homesteading in single-family public housing act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 10,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-2000-0146",
+   "short": "MCL ch. 125, Act 146 of 2000",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 146 of 2000, Obsolete property rehabilitation act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 17,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-2006-0182",
+   "short": "MCL ch. 125, Act 182 of 2006",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 182 of 2006, Inclusive home design act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 4,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-2010-0275",
+   "short": "MCL ch. 125, Act 275 of 2010",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 275 of 2010, Next Michigan development act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 9,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-2006-0110",
+   "short": "MCL ch. 125, Act 110 of 2006",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 110 of 2006, Michigan zoning enabling act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 51,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-2008-0033",
+   "short": "MCL ch. 125, Act 33 of 2008",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 33 of 2008, Michigan planning enabling act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 32,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-2010-0342",
+   "short": "MCL ch. 125, Act 342 of 2010",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 342 of 2010, Signs advertising sexually oriented businesses",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 4,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0125-act-2018-0057",
+   "short": "MCL ch. 125, Act 57 of 2018",
+   "title": "Michigan Compiled Laws, Chapter 125 (PLANNING, HOUSING, AND ZONING): Act 57 of 2018, Recodified tax increment financing act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 186,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20125.xml",
+     "sha256": "7d371e1e5134840a1565cc1c442ff62a161a8e1f924f4290f25d33cefa4a57c2"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0128-act-1937-0215",
+   "short": "MCL ch. 128, Act 215 of 1937",
+   "title": "Michigan Compiled Laws, Chapter 128 (CEMETERIES): Act 215 of 1937, CEMETERY OR BURIAL GROUNDS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20128.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 4,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20128.xml",
+     "sha256": "aba7797f51ddaa7e77d48f91bca0522118a5ee50b300100ddff410fc36f1ce71"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0128-act-1931-0046",
+   "short": "MCL ch. 128, Act 46 of 1931",
+   "title": "Michigan Compiled Laws, Chapter 128 (CEMETERIES): Act 46 of 1931, PUBLIC CEMETERIES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20128.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 6,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20128.xml",
+     "sha256": "aba7797f51ddaa7e77d48f91bca0522118a5ee50b300100ddff410fc36f1ce71"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0128-act-1895-0049",
+   "short": "MCL ch. 128, Act 49 of 1895",
+   "title": "Michigan Compiled Laws, Chapter 128 (CEMETERIES): Act 49 of 1895, VACATING CEMETERY IN TOWNSHIP",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20128.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 6,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20128.xml",
+     "sha256": "aba7797f51ddaa7e77d48f91bca0522118a5ee50b300100ddff410fc36f1ce71"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0128-act-1871-0164",
+   "short": "MCL ch. 128, Act 164 of 1871",
+   "title": "Michigan Compiled Laws, Chapter 128 (CEMETERIES): Act 164 of 1871, VACATING CEMETERY IN CITY OR VILLAGE",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20128.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20128.xml",
+     "sha256": "aba7797f51ddaa7e77d48f91bca0522118a5ee50b300100ddff410fc36f1ce71"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0128-act-1929-0297",
+   "short": "MCL ch. 128, Act 297 of 1929",
+   "title": "Michigan Compiled Laws, Chapter 128 (CEMETERIES): Act 297 of 1929, VACATING CEMETERY IN CITY OR VILLAGE",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20128.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 7,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20128.xml",
+     "sha256": "aba7797f51ddaa7e77d48f91bca0522118a5ee50b300100ddff410fc36f1ce71"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0128-act-1915-0113",
+   "short": "MCL ch. 128, Act 113 of 1915",
+   "title": "Michigan Compiled Laws, Chapter 128 (CEMETERIES): Act 113 of 1915, CARE OF CEMETERIES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20128.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 2,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20128.xml",
+     "sha256": "aba7797f51ddaa7e77d48f91bca0522118a5ee50b300100ddff410fc36f1ce71"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0128-act-1909-0095",
+   "short": "MCL ch. 128, Act 95 of 1909",
+   "title": "Michigan Compiled Laws, Chapter 128 (CEMETERIES): Act 95 of 1909, TRUST FUND FOR CARE OF CEMETERIES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20128.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 4,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20128.xml",
+     "sha256": "aba7797f51ddaa7e77d48f91bca0522118a5ee50b300100ddff410fc36f1ce71"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0128-act-1903-0081",
+   "short": "MCL ch. 128, Act 81 of 1903",
+   "title": "Michigan Compiled Laws, Chapter 128 (CEMETERIES): Act 81 of 1903, CARE AND PRESERVATION OF CEMETERY LOTS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20128.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 11,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20128.xml",
+     "sha256": "aba7797f51ddaa7e77d48f91bca0522118a5ee50b300100ddff410fc36f1ce71"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0128-act-1911-0211",
+   "short": "MCL ch. 128, Act 211 of 1911",
+   "title": "Michigan Compiled Laws, Chapter 128 (CEMETERIES): Act 211 of 1911, FENCING OF PRIVATE CEMETERIES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20128.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 3,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20128.xml",
+     "sha256": "aba7797f51ddaa7e77d48f91bca0522118a5ee50b300100ddff410fc36f1ce71"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0128-act-1875-0088",
+   "short": "MCL ch. 128, Act 88 of 1875",
+   "title": "Michigan Compiled Laws, Chapter 128 (CEMETERIES): Act 88 of 1875, EXEMPTION OF PRIVATE BURIAL GROUNDS FROM TAXATION OR ATTACHMENT",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20128.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 2,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20128.xml",
+     "sha256": "aba7797f51ddaa7e77d48f91bca0522118a5ee50b300100ddff410fc36f1ce71"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0128-act-1905-0022",
+   "short": "MCL ch. 128, Act 22 of 1905",
+   "title": "Michigan Compiled Laws, Chapter 128 (CEMETERIES): Act 22 of 1905, MEMORY DAYS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20128.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20128.xml",
+     "sha256": "aba7797f51ddaa7e77d48f91bca0522118a5ee50b300100ddff410fc36f1ce71"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0128-act-1909-0272",
+   "short": "MCL ch. 128, Act 272 of 1909",
+   "title": "Michigan Compiled Laws, Chapter 128 (CEMETERIES): Act 272 of 1909, ENLARGEMENT OF TOWNSHIP BURIAL GROUNDS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20128.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 14,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20128.xml",
+     "sha256": "aba7797f51ddaa7e77d48f91bca0522118a5ee50b300100ddff410fc36f1ce71"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0129-act-1932-0040",
+   "short": "MCL ch. 129, Act 40 of 1932 (1st Ex. Sess.)",
+   "title": "Michigan Compiled Laws, Chapter 129 (PUBLIC FUNDS): Act 40 of 1932 (1st Ex. Sess.), DEPOSITORIES FOR PUBLIC MONEYS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20129.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 6,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20129.xml",
+     "sha256": "31bdbdb674fc48a6f5ba419b5dd8cd6a39998489dc72c1f02b80eb71afbb5480"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0129-act-1935-0095",
+   "short": "MCL ch. 129, Act 95 of 1935",
+   "title": "Michigan Compiled Laws, Chapter 129 (PUBLIC FUNDS): Act 95 of 1935, RELIEF FROM LIABILITY FOR FUNDS IN DESIGNATED DEPOSITORY",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20129.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 3,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20129.xml",
+     "sha256": "31bdbdb674fc48a6f5ba419b5dd8cd6a39998489dc72c1f02b80eb71afbb5480"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0129-act-1909-0321",
+   "short": "MCL ch. 129, Act 321 of 1909",
+   "title": "Michigan Compiled Laws, Chapter 129 (PUBLIC FUNDS): Act 321 of 1909, DEPOSIT AND SAFEGUARDING OF PUBLIC MONEYS OF VILLAGE",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20129.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20129.xml",
+     "sha256": "31bdbdb674fc48a6f5ba419b5dd8cd6a39998489dc72c1f02b80eb71afbb5480"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0129-act-1934-0019",
+   "short": "MCL ch. 129, Act 19 of 1934 (1st Ex. Sess.)",
+   "title": "Michigan Compiled Laws, Chapter 129 (PUBLIC FUNDS): Act 19 of 1934 (1st Ex. Sess.), BONDS OF PUBLIC OFFICIALS; LIABILITY OF SURETIES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20129.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20129.xml",
+     "sha256": "31bdbdb674fc48a6f5ba419b5dd8cd6a39998489dc72c1f02b80eb71afbb5480"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0129-act-1929-0094",
+   "short": "MCL ch. 129, Act 94 of 1929",
+   "title": "Michigan Compiled Laws, Chapter 129 (PUBLIC FUNDS): Act 94 of 1929, MISAPPROPRIATION OF PUBLIC FUNDS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20129.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20129.xml",
+     "sha256": "31bdbdb674fc48a6f5ba419b5dd8cd6a39998489dc72c1f02b80eb71afbb5480"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0129-act-1933-0070",
+   "short": "MCL ch. 129, Act 70 of 1933",
+   "title": "Michigan Compiled Laws, Chapter 129 (PUBLIC FUNDS): Act 70 of 1933, INVESTMENT OF PUBLIC MONEYS IN U.S. SECURITIES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20129.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20129.xml",
+     "sha256": "31bdbdb674fc48a6f5ba419b5dd8cd6a39998489dc72c1f02b80eb71afbb5480"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0129-act-1934-0023",
+   "short": "MCL ch. 129, Act 23 of 1934 (1st Ex. Sess.)",
+   "title": "Michigan Compiled Laws, Chapter 129 (PUBLIC FUNDS): Act 23 of 1934 (1st Ex. Sess.), INVESTMENT IN BONDS OF HOME OWNERS' LOAN CORPORATION AND OF FEDERAL HOME LOAN BANKS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20129.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 3,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20129.xml",
+     "sha256": "31bdbdb674fc48a6f5ba419b5dd8cd6a39998489dc72c1f02b80eb71afbb5480"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0129-act-1943-0020",
+   "short": "MCL ch. 129, Act 20 of 1943",
+   "title": "Michigan Compiled Laws, Chapter 129 (PUBLIC FUNDS): Act 20 of 1943, INVESTMENT OF SURPLUS FUNDS OF POLITICAL SUBDIVISIONS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20129.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 8,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20129.xml",
+     "sha256": "31bdbdb674fc48a6f5ba419b5dd8cd6a39998489dc72c1f02b80eb71afbb5480"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0129-act-1956-0032",
+   "short": "MCL ch. 129, Act 32 of 1956",
+   "title": "Michigan Compiled Laws, Chapter 129 (PUBLIC FUNDS): Act 32 of 1956, FACSIMILE SIGNATURES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20129.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20129.xml",
+     "sha256": "31bdbdb674fc48a6f5ba419b5dd8cd6a39998489dc72c1f02b80eb71afbb5480"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0129-act-1982-0367",
+   "short": "MCL ch. 129, Act 367 of 1982",
+   "title": "Michigan Compiled Laws, Chapter 129 (PUBLIC FUNDS): Act 367 of 1982, Surplus funds investment pool act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20129.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 8,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20129.xml",
+     "sha256": "31bdbdb674fc48a6f5ba419b5dd8cd6a39998489dc72c1f02b80eb71afbb5480"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0129-act-1962-0056",
+   "short": "MCL ch. 129, Act 56 of 1962",
+   "title": "Michigan Compiled Laws, Chapter 129 (PUBLIC FUNDS): Act 56 of 1962, Bond cremation act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20129.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20129.xml",
+     "sha256": "31bdbdb674fc48a6f5ba419b5dd8cd6a39998489dc72c1f02b80eb71afbb5480"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0129-act-1972-0354",
+   "short": "MCL ch. 129, Act 354 of 1972",
+   "title": "Michigan Compiled Laws, Chapter 129 (PUBLIC FUNDS): Act 354 of 1972, REPLACING OR PAYING OBLIGATIONS OF PUBLIC CORPORATION",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20129.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20129.xml",
+     "sha256": "31bdbdb674fc48a6f5ba419b5dd8cd6a39998489dc72c1f02b80eb71afbb5480"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0129-act-1985-0121",
+   "short": "MCL ch. 129, Act 121 of 1985",
+   "title": "Michigan Compiled Laws, Chapter 129 (PUBLIC FUNDS): Act 121 of 1985, Local government investment pool act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20129.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 10,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20129.xml",
+     "sha256": "31bdbdb674fc48a6f5ba419b5dd8cd6a39998489dc72c1f02b80eb71afbb5480"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0129-act-2002-0470",
+   "short": "MCL ch. 129, Act 470 of 2002",
+   "title": "Michigan Compiled Laws, Chapter 129 (PUBLIC FUNDS): Act 470 of 2002, Agency financing reporting act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20129.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 4,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20129.xml",
+     "sha256": "31bdbdb674fc48a6f5ba419b5dd8cd6a39998489dc72c1f02b80eb71afbb5480"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0129-act-1963-0213",
+   "short": "MCL ch. 129, Act 213 of 1963",
+   "title": "Michigan Compiled Laws, Chapter 129 (PUBLIC FUNDS): Act 213 of 1963, CONTRACTOR'S BOND FOR PUBLIC BUILDINGS OR WORKS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20129.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 12,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20129.xml",
+     "sha256": "31bdbdb674fc48a6f5ba419b5dd8cd6a39998489dc72c1f02b80eb71afbb5480"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0129-act-1995-0280",
+   "short": "MCL ch. 129, Act 280 of 1995",
+   "title": "Michigan Compiled Laws, Chapter 129 (PUBLIC FUNDS): Act 280 of 1995, FINANCIAL TRANSACTION DEVICE PAYMENTS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20129.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 4,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20129.xml",
+     "sha256": "31bdbdb674fc48a6f5ba419b5dd8cd6a39998489dc72c1f02b80eb71afbb5480"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0129-act-1995-0266",
+   "short": "MCL ch. 129, Act 266 of 1995",
+   "title": "Michigan Compiled Laws, Chapter 129 (PUBLIC FUNDS): Act 266 of 1995, CREDIT CARD TRANSACTIONS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20129.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 7,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20129.xml",
+     "sha256": "31bdbdb674fc48a6f5ba419b5dd8cd6a39998489dc72c1f02b80eb71afbb5480"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0129-act-2005-0226",
+   "short": "MCL ch. 129, Act 226 of 2005",
+   "title": "Michigan Compiled Laws, Chapter 129 (PUBLIC FUNDS): Act 226 of 2005, Michigan tobacco settlement finance authority act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20129.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 19,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20129.xml",
+     "sha256": "31bdbdb674fc48a6f5ba419b5dd8cd6a39998489dc72c1f02b80eb71afbb5480"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0129-act-2008-0234",
+   "short": "MCL ch. 129, Act 234 of 2008",
+   "title": "Michigan Compiled Laws, Chapter 129 (PUBLIC FUNDS): Act 234 of 2008, Divestment from terror act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20129.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 11,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20129.xml",
+     "sha256": "31bdbdb674fc48a6f5ba419b5dd8cd6a39998489dc72c1f02b80eb71afbb5480"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0129-act-2012-0517",
+   "short": "MCL ch. 129, Act 517 of 2012",
+   "title": "Michigan Compiled Laws, Chapter 129 (PUBLIC FUNDS): Act 517 of 2012, Iran economic sanctions act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20129.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 6,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20129.xml",
+     "sha256": "31bdbdb674fc48a6f5ba419b5dd8cd6a39998489dc72c1f02b80eb71afbb5480"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-1913-0042",
+   "short": "MCL ch. 141, Act 42 of 1913",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): Act 42 of 1913, COUNTY SINKING FUND COMMISSION",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 10,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-1923-0161",
+   "short": "MCL ch. 141, Act 161 of 1923",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): Act 161 of 1923, BOARD OF SINKING FUND COMMISSIONERS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 10,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-1926-0014",
+   "short": "MCL ch. 141, Act 14 of 1926 (Ex. Sess.)",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): Act 14 of 1926 (Ex. Sess.), SINKING FUND FOR PUBLIC BUILDINGS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-1923-0118",
+   "short": "MCL ch. 141, Act 118 of 1923",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): Act 118 of 1923, PERMANENT IMPROVEMENTS BY COUNTIES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 7,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-1911-0028",
+   "short": "MCL ch. 141, Act 28 of 1911",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): Act 28 of 1911, PUBLIC BUILDINGS AND BRIDGES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 4,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-1964-0243",
+   "short": "MCL ch. 141, Act 243 of 1964",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): Act 243 of 1964, PROHIBITED TAXES BY CITIES AND VILLAGES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-1933-0094",
+   "short": "MCL ch. 141, Act 94 of 1933",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): Act 94 of 1933, The revenue bond act of 1933",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 51,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-1969-0342",
+   "short": "MCL ch. 141, Act 342 of 1969",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): Act 342 of 1969, INTEREST RATES FOR PUBLIC CORPORATIONS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 3,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-1979-0189",
+   "short": "MCL ch. 141, Act 189 of 1979",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): Act 189 of 1979, The unlimited tax election act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 8,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-1952-0219",
+   "short": "MCL ch. 141, Act 219 of 1952",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): Act 219 of 1952, TOWNSHIP PARKING FACILITIES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 3,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-1933-0204",
+   "short": "MCL ch. 141, Act 204 of 1933",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): Act 204 of 1933, DEFAULTED MUNICIPAL BONDS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 4,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-1937-0079",
+   "short": "MCL ch. 141, Act 79 of 1937",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): Act 79 of 1937, MUNICIPAL BORROWING",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 6,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-1943-0143",
+   "short": "MCL ch. 141, Act 143 of 1943",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): Act 143 of 1943, BORROWING FOR ROAD PURPOSES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 4,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-1943-0177",
+   "short": "MCL ch. 141, Act 177 of 1943",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): Act 177 of 1943, PUBLIC IMPROVEMENT FUNDS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-1956-0011",
+   "short": "MCL ch. 141, Act 11 of 1956 (Ex. Sess.)",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): Act 11 of 1956 (Ex. Sess.), ELECTRIC PLANT; VALIDATION OF PROCEEDINGS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 2,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-1996-0153",
+   "short": "MCL ch. 141, Act 153 of 1996",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): Act 153 of 1996, ACQUISITION OF PARKS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 4,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-1949-0007",
+   "short": "MCL ch. 141, Act 7 of 1949",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): Act 7 of 1949, TRANSFER OF UNEXPENDED BALANCES TO COUNTY",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 2,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-1957-0057",
+   "short": "MCL ch. 141, Act 57 of 1957",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): Act 57 of 1957, LOCAL IMPROVEMENT REVOLVING FUND",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-1969-0121",
+   "short": "MCL ch. 141, Act 121 of 1969",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): Act 121 of 1969, BONDS OR NOTES FOR CAPITAL IMPROVEMENTS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 3,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-1959-0060",
+   "short": "MCL ch. 141, Act 60 of 1959",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): Act 60 of 1959, VALIDATION OF METROPOLITAN DISTRICT BONDS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-1963-0043",
+   "short": "MCL ch. 141, Act 43 of 1963 (2nd Ex. Sess.)",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): Act 43 of 1963 (2nd Ex. Sess.), BUDGET HEARINGS OF LOCAL GOVERNMENTS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-1968-0002",
+   "short": "MCL ch. 141, Act 2 of 1968",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): Act 2 of 1968, Uniform budgeting and accounting act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 29,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-1978-0030",
+   "short": "MCL ch. 141, Act 30 of 1978",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): Act 30 of 1978, BUDGET STABILIZATION FUND",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-1964-0205",
+   "short": "MCL ch. 141, Act 205 of 1964",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): Act 205 of 1964, PURCHASE OF FIRE FIGHTING EQUIPMENT",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-1987-0264",
+   "short": "MCL ch. 141, Act 264 of 1987",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): Act 264 of 1987, Health and safety fund act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 9,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-1964-0284",
+   "short": "MCL ch. 141, Act 284 of 1964",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): Act 284 of 1964, City income tax act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 101,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-1974-0263",
+   "short": "MCL ch. 141, Act 263 of 1974",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): Act 263 of 1974, EXCISE TAX ON BUSINESS OF PROVIDING ACCOMMODATIONS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 8,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-1980-0395",
+   "short": "MCL ch. 141, Act 395 of 1980",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): Act 395 of 1980, Community convention or tourism marketing act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 14,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-1980-0383",
+   "short": "MCL ch. 141, Act 383 of 1980",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): Act 383 of 1980, Convention and tourism marketing act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 12,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-1989-0244",
+   "short": "MCL ch. 141, Act 244 of 1989",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): Act 244 of 1989, Regional tourism marketing act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 13,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-1971-0140",
+   "short": "MCL ch. 141, Act 140 of 1971",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): Act 140 of 1971, Glenn steil state revenue sharing act of 1971",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 26,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-1980-0243",
+   "short": "MCL ch. 141, Act 243 of 1980",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): Act 243 of 1980, Emergency municipal loan act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 14,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-1977-0289",
+   "short": "MCL ch. 141, Act 289 of 1977",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): Act 289 of 1977, FIRE PROTECTION SERVICES FOR STATE FACILITIES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 6,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-e-r-o-no-1993-0006",
+   "short": "MCL ch. 141, E.R.O. No. 1993-6",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): E.R.O. No. 1993-6, EXECUTIVE REORGANIZATION ORDER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-1981-0080",
+   "short": "MCL ch. 141, Act 80 of 1981",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): Act 80 of 1981, Fiscal stabilization act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 11,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-1985-0227",
+   "short": "MCL ch. 141, Act 227 of 1985",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): Act 227 of 1985, Shared credit rating act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 33,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-1990-0100",
+   "short": "MCL ch. 141, Act 100 of 1990",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): Act 100 of 1990, City utility users tax act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 27,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-1990-0182",
+   "short": "MCL ch. 141, Act 182 of 1990",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): Act 182 of 1990, COUNTY REDISTRIBUTION OF FEDERAL PAYMENTS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 4,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-2007-0025",
+   "short": "MCL ch. 141, Act 25 of 2007",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): Act 25 of 2007, Convention and tourism promotion act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 11,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-2008-0554",
+   "short": "MCL ch. 141, Act 554 of 2008",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): Act 554 of 2008, Regional convention facility authority act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 15,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-1999-0203",
+   "short": "MCL ch. 141, Act 203 of 1999",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): Act 203 of 1999, The convention facility authority act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 14,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-2010-0254",
+   "short": "MCL ch. 141, Act 254 of 2010",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): Act 254 of 2010, Regional convention and tourism promotion act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 10,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-2020-0340",
+   "short": "MCL ch. 141, Act 340 of 2020",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): Act 340 of 2020, Regional event center financing act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-2000-0147",
+   "short": "MCL ch. 141, Act 147 of 2000",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): Act 147 of 2000, Safe drinking water financial assistance act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-2011-0004",
+   "short": "MCL ch. 141, Act 4 of 2011",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): Act 4 of 2011, .",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-2012-0436",
+   "short": "MCL ch. 141, Act 436 of 2012",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): Act 436 of 2012, Local financial stability and choice act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 36,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-2014-0187",
+   "short": "MCL ch. 141, Act 187 of 2014",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): Act 187 of 2014, Michigan settlement administration authority act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 11,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-2014-0181",
+   "short": "MCL ch. 141, Act 181 of 2014",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): Act 181 of 2014, Michigan financial review commission act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 12,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0141-act-2001-0034",
+   "short": "MCL ch. 141, Act 34 of 2001",
+   "title": "Michigan Compiled Laws, Chapter 141 (MUNICIPAL FINANCING): Act 34 of 2001, Revised municipal finance act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 59,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20141.xml",
+     "sha256": "018f6d5529d236191e5c99f0ae1e177d3c1e97850feb95eb2051bb9a78059a00"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0168-act-1954-0116",
+   "short": "MCL ch. 168, Act 116 of 1954",
+   "title": "Michigan Compiled Laws, Chapter 168 (MICHIGAN ELECTION LAW): Act 116 of 1954, Michigan election law",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20168.xml",
+   "versions": [
+    {
+     "from": "2025-05-06",
+     "units": 1130,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20168.xml",
+     "sha256": "49dcd9a49af54b3760427443aa7b544aac6730797f22b3500b2b013f7abfb24d"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0169-act-1976-0388",
+   "short": "MCL ch. 169, Act 388 of 1976",
+   "title": "Michigan Compiled Laws, Chapter 169 (CAMPAIGN FINANCING AND ADVERTISING): Act 388 of 1976, Michigan campaign finance act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20169.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 73,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20169.xml",
+     "sha256": "a1b95e8824695dc37627f881447e3a9ebdddbe3b377e1233787728eb82584af3"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0169-act-2023-0282",
+   "short": "MCL ch. 169, Act 282 of 2023",
+   "title": "Michigan Compiled Laws, Chapter 169 (CAMPAIGN FINANCING AND ADVERTISING): Act 282 of 2023, Candidate for office financial disclosure act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20169.xml",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 9,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20169.xml",
+     "sha256": "a1b95e8824695dc37627f881447e3a9ebdddbe3b377e1233787728eb82584af3"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0200-act-1921-0144",
+   "short": "MCL ch. 200, Act 144 of 1921",
+   "title": "Michigan Compiled Laws, Chapter 200 (MISCELLANEOUS ELECTION ACTS): Act 144 of 1921, PRIMARY ELECTION FOR NOMINATION OF VILLAGE OFFICERS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20200.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 6,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20200.xml",
+     "sha256": "784c74ab3738b8ed7110b75803b798fc268a27b37c6a6436110754b199d09b24"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0200-act-1954-0043",
+   "short": "MCL ch. 200, Act 43 of 1954",
+   "title": "Michigan Compiled Laws, Chapter 200 (MISCELLANEOUS ELECTION ACTS): Act 43 of 1954, CONSOLIDATION OF ELECTION PRECINCTS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20200.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 3,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20200.xml",
+     "sha256": "784c74ab3738b8ed7110b75803b798fc268a27b37c6a6436110754b199d09b24"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0201-act-r-s-of-1846",
+   "short": "MCL ch. 201, R.S. of 1846",
+   "title": "Michigan Compiled Laws, Chapter 201 (VACANCIES IN OFFICE): R.S. of 1846, Revised Statutes of 1846",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20201.xml",
+   "versions": [
+    {
+     "from": "2026-03-28",
+     "units": 16,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20201.xml",
+     "sha256": "78c1b7415f5925fc2103f6250e17eeda077e7af5c9856fc023cb181ce02e9dfe"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0201-act-1923-0199",
+   "short": "MCL ch. 201, Act 199 of 1923",
+   "title": "Michigan Compiled Laws, Chapter 201 (VACANCIES IN OFFICE): Act 199 of 1923, FILLING OF VACANCIES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20201.xml",
+   "versions": [
+    {
+     "from": "2026-03-28",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20201.xml",
+     "sha256": "78c1b7415f5925fc2103f6250e17eeda077e7af5c9856fc023cb181ce02e9dfe"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0201-act-1917-0076",
+   "short": "MCL ch. 201, Act 76 of 1917",
+   "title": "Michigan Compiled Laws, Chapter 201 (VACANCIES IN OFFICE): Act 76 of 1917, VACANCIES IN OFFICE OF JUSTICE OF PEACE",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20201.xml",
+   "versions": [
+    {
+     "from": "2026-03-28",
+     "units": 2,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20201.xml",
+     "sha256": "78c1b7415f5925fc2103f6250e17eeda077e7af5c9856fc023cb181ce02e9dfe"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0201-act-1879-0190",
+   "short": "MCL ch. 201, Act 190 of 1879",
+   "title": "Michigan Compiled Laws, Chapter 201 (VACANCIES IN OFFICE): Act 190 of 1879, NOTICE OF VACANCY IN PUBLIC OFFICE",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20201.xml",
+   "versions": [
+    {
+     "from": "2026-03-28",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20201.xml",
+     "sha256": "78c1b7415f5925fc2103f6250e17eeda077e7af5c9856fc023cb181ce02e9dfe"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0205-act-1941-0122",
+   "short": "MCL ch. 205, Act 122 of 1941",
+   "title": "Michigan Compiled Laws, Chapter 205 (TAXATION): Act 122 of 1941, REVENUE DIVISION OF DEPARTMENT OF TREASURY",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20205.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 41,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20205.xml",
+     "sha256": "87a71bacdd8112f0cda2cea1ecd652aa7b6bf913bbcd23e1bd5610b6aa372556"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0205-act-e-r-o-no-1991-0016",
+   "short": "MCL ch. 205, E.R.O. No. 1991-16",
+   "title": "Michigan Compiled Laws, Chapter 205 (TAXATION): E.R.O. No. 1991-16, EXECUTIVE REORGANIZATION ORDER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20205.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20205.xml",
+     "sha256": "87a71bacdd8112f0cda2cea1ecd652aa7b6bf913bbcd23e1bd5610b6aa372556"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0205-act-1959-0015",
+   "short": "MCL ch. 205, Act 15 of 1959",
+   "title": "Michigan Compiled Laws, Chapter 205 (TAXATION): Act 15 of 1959, COLLECTION OF MOTOR FUEL TAXES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20205.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 7,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20205.xml",
+     "sha256": "87a71bacdd8112f0cda2cea1ecd652aa7b6bf913bbcd23e1bd5610b6aa372556"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0205-act-1933-0167",
+   "short": "MCL ch. 205, Act 167 of 1933",
+   "title": "Michigan Compiled Laws, Chapter 205 (TAXATION): Act 167 of 1933, General sales tax act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20205.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 72,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20205.xml",
+     "sha256": "87a71bacdd8112f0cda2cea1ecd652aa7b6bf913bbcd23e1bd5610b6aa372556"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0205-act-1937-0094",
+   "short": "MCL ch. 205, Act 94 of 1937",
+   "title": "Michigan Compiled Laws, Chapter 205 (TAXATION): Act 94 of 1937, Use tax act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20205.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 72,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20205.xml",
+     "sha256": "87a71bacdd8112f0cda2cea1ecd652aa7b6bf913bbcd23e1bd5610b6aa372556"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0205-act-2004-0175",
+   "short": "MCL ch. 205, Act 175 of 2004",
+   "title": "Michigan Compiled Laws, Chapter 205 (TAXATION): Act 175 of 2004, Streamlined sales and use tax revenue equalization act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20205.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 13,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20205.xml",
+     "sha256": "87a71bacdd8112f0cda2cea1ecd652aa7b6bf913bbcd23e1bd5610b6aa372556"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0205-act-1899-0188",
+   "short": "MCL ch. 205, Act 188 of 1899",
+   "title": "Michigan Compiled Laws, Chapter 205 (TAXATION): Act 188 of 1899, Michigan estate tax act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20205.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 63,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20205.xml",
+     "sha256": "87a71bacdd8112f0cda2cea1ecd652aa7b6bf913bbcd23e1bd5610b6aa372556"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0205-act-1929-0048",
+   "short": "MCL ch. 205, Act 48 of 1929",
+   "title": "Michigan Compiled Laws, Chapter 205 (TAXATION): Act 48 of 1929, SEVERANCE TAX ON OIL OR GAS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20205.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 16,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20205.xml",
+     "sha256": "87a71bacdd8112f0cda2cea1ecd652aa7b6bf913bbcd23e1bd5610b6aa372556"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0205-act-1993-0327",
+   "short": "MCL ch. 205, Act 327 of 1993",
+   "title": "Michigan Compiled Laws, Chapter 205 (TAXATION): Act 327 of 1993, Tobacco products tax act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20205.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 27,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20205.xml",
+     "sha256": "87a71bacdd8112f0cda2cea1ecd652aa7b6bf913bbcd23e1bd5610b6aa372556"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0205-act-1956-0173",
+   "short": "MCL ch. 205, Act 173 of 1956",
+   "title": "Michigan Compiled Laws, Chapter 205 (TAXATION): Act 173 of 1956, DOMICILE OF DECEDENTS FOR DEATH TAX PURPOSES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20205.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 7,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20205.xml",
+     "sha256": "87a71bacdd8112f0cda2cea1ecd652aa7b6bf913bbcd23e1bd5610b6aa372556"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0205-act-1973-0186",
+   "short": "MCL ch. 205, Act 186 of 1973",
+   "title": "Michigan Compiled Laws, Chapter 205 (TAXATION): Act 186 of 1973, Tax tribunal act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20205.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 42,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20205.xml",
+     "sha256": "87a71bacdd8112f0cda2cea1ecd652aa7b6bf913bbcd23e1bd5610b6aa372556"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0205-act-e-r-o-no-1991-0015",
+   "short": "MCL ch. 205, E.R.O. No. 1991-15",
+   "title": "Michigan Compiled Laws, Chapter 205 (TAXATION): E.R.O. No. 1991-15, EXECUTIVE REORGANIZATION ORDER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20205.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20205.xml",
+     "sha256": "87a71bacdd8112f0cda2cea1ecd652aa7b6bf913bbcd23e1bd5610b6aa372556"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0205-act-2004-0174",
+   "short": "MCL ch. 205, Act 174 of 2004",
+   "title": "Michigan Compiled Laws, Chapter 205 (TAXATION): Act 174 of 2004, Streamlined sales and use tax administration act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20205.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 17,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20205.xml",
+     "sha256": "87a71bacdd8112f0cda2cea1ecd652aa7b6bf913bbcd23e1bd5610b6aa372556"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0205-act-2025-0023",
+   "short": "MCL ch. 205, Act 23 of 2025",
+   "title": "Michigan Compiled Laws, Chapter 205 (TAXATION): Act 23 of 2025, Comprehensive road funding tax act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20205.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 7,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20205.xml",
+     "sha256": "87a71bacdd8112f0cda2cea1ecd652aa7b6bf913bbcd23e1bd5610b6aa372556"
+    }
+   ]
   }
  ]
 }
