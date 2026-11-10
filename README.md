@@ -4,7 +4,7 @@ Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git h
 
 The law of Michigan as a git history: one file per provision, with `git blame` and `git log` working line by line. It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
 
-**What is in it now (not complete)**: 199 chapters of the Michigan Compiled Laws, 2344 Acts, 43439 sections. Each Act is a folder; MCL chapter 1 is the Constitution of 1963.
+**What is in it now (not complete)**: 204 chapters of the Michigan Compiled Laws, 2372 Acts, 43685 sections. Each Act is a folder; MCL chapter 1 is the Constitution of 1963.
 
 | MCL chapter | Chapter title | Acts | Sections | Text as of | Folders |
 | ---: | --- | ---: | ---: | --- | --- |
@@ -207,6 +207,11 @@ The law of Michigan as a git history: one file per provision, with `git blame` a
 | 760 | Code of criminal procedure | 1 | 672 | 2026-01-10 | `mcl-0760-act-1927-0175/` |
 | 780 | Criminal procedure | 28 | 343 | 2026-03-21 | `mcl-0780-act-1937-0144/` .. `mcl-0780-act-2013-0093/` |
 | 791 | Department of corrections | 9 | 181 | 2026-03-20 | `mcl-0791-act-1953-0232/` .. `mcl-0791-act-e-r-o-no-1995-0014/` |
+| 798 | Corrections | 4 | 20 | 2026-10-04 | `mcl-0798-act-1988-0287/` .. `mcl-0798-act-1974-0386/` |
+| 800 | Prisons | 10 | 65 | 2026-03-21 | `mcl-0800-act-1893-0118/` .. `mcl-0800-act-e-r-o-no-1993-0004/` |
+| 801 | Jails and workhouses | 10 | 117 | 2026-03-23 | `mcl-0801-act-r-s-of-1846/` .. `mcl-0801-act-2006-0088/` |
+| 803 | Youth training and rehabilitation | 2 | 21 | 2026-01-23 | `mcl-0803-act-1988-0073/` .. `mcl-0803-act-1974-0150/` |
+| 830 | State building programs | 2 | 23 | 2026-03-21 | `mcl-0830-act-1951-0004/` .. `mcl-0830-act-1964-0183/` |
 
 **Source.** The Michigan Compiled Laws chapter files (XML) published by the [Michigan Legislature](https://www.legislature.mi.gov/), read from Internet Archive captures of those files. English. Only the section number, catch line, body text (including tables and paragraph headings) and the section's History line are taken; the Editor's notes and Commentary (case annotations) are not.
 

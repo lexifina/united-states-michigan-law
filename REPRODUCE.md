@@ -201,6 +201,11 @@ This file is written by the build on 2026-11-10, the day the source data was ret
 | Michigan Compiled Laws chapter 760 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20760.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
 | Michigan Compiled Laws chapter 780 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20780.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
 | Michigan Compiled Laws chapter 791 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20791.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
+| Michigan Compiled Laws chapter 798 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20798.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
+| Michigan Compiled Laws chapter 800 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20800.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
+| Michigan Compiled Laws chapter 801 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20801.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
+| Michigan Compiled Laws chapter 803 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20803.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
+| Michigan Compiled Laws chapter 830 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20830.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -2552,12 +2557,40 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `mcl-0791-act-1982-0415` | Michigan Compiled Laws, Chapter 791 (DEPARTMENT OF CORRECTIONS): Act 415 of 1982, Correctional officers' training act of 1982 | 1 | 2026-03-20 to 2026-03-20 |
 | `mcl-0791-act-2003-0125` | Michigan Compiled Laws, Chapter 791 (DEPARTMENT OF CORRECTIONS): Act 125 of 2003, Local corrections officers training act | 1 | 2026-03-20 to 2026-03-20 |
 | `mcl-0791-act-e-r-o-no-1995-0014` | Michigan Compiled Laws, Chapter 791 (DEPARTMENT OF CORRECTIONS): E.R.O. No. 1995-14, EXECUTIVE REORGANIZATION ORDER | 1 | 2026-03-20 to 2026-03-20 |
+| `mcl-0798-act-1988-0287` | Michigan Compiled Laws, Chapter 798 (CORRECTIONS): Act 287 of 1988, Special alternative incarceration act | 1 | 2026-10-04 to 2026-10-04 |
+| `mcl-0798-act-2017-0005` | Michigan Compiled Laws, Chapter 798 (CORRECTIONS): Act 5 of 2017, EVIDENCE-BASED PRACTICES FOR PROBATION AND PAROLE SUPERVISION | 1 | 2026-10-04 to 2026-10-04 |
+| `mcl-0798-act-1935-0089` | Michigan Compiled Laws, Chapter 798 (CORRECTIONS): Act 89 of 1935, INTERSTATE COMPACT; PROBATION, PAROLE, PREVENTION OF CRIME, AND ENFORCEMENT OF PENAL LAWS | 1 | 2026-10-04 to 2026-10-04 |
+| `mcl-0798-act-1974-0386` | Michigan Compiled Laws, Chapter 798 (CORRECTIONS): Act 386 of 1974, SALE OF WATER TO LOCAL INDUSTRY | 1 | 2026-10-04 to 2026-10-04 |
+| `mcl-0800-act-1893-0118` | Michigan Compiled Laws, Chapter 800 (PRISONS): Act 118 of 1893, PRISON CODE | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0800-act-1911-0181` | Michigan Compiled Laws, Chapter 800 (PRISONS): Act 181 of 1911, EMPLOYMENT OF CONVICTS FOR PUBLIC PROJECTS | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0800-act-1909-0017` | Michigan Compiled Laws, Chapter 800 (PRISONS): Act 17 of 1909, LIQUOR, NARCOTICS, AND WEAPONS PROHIBITED IN PRISONS | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0800-act-1859-0185` | Michigan Compiled Laws, Chapter 800 (PRISONS): Act 185 of 1859, ADMISSION OF CLERGYMEN TO VISIT PRISONERS | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0800-act-1968-0015` | Michigan Compiled Laws, Chapter 800 (PRISONS): Act 15 of 1968, Correctional industries act | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0800-act-e-r-o-no-1993-0008` | Michigan Compiled Laws, Chapter 800 (PRISONS): E.R.O. No. 1993-8, EXECUTIVE REORGANIZATION ORDER | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0800-act-e-r-o-no-2001-0003` | Michigan Compiled Laws, Chapter 800 (PRISONS): E.R.O. No. 2001-3, EXECUTIVE REORGANIZATION ORDER | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0800-act-1935-0253` | Michigan Compiled Laws, Chapter 800 (PRISONS): Act 253 of 1935, The state correctional facility reimbursement act | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0800-act-1978-0016` | Michigan Compiled Laws, Chapter 800 (PRISONS): Act 16 of 1978, REIMBURSEMENT TO COUNTIES FOR CERTAIN EXPENSES | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0800-act-e-r-o-no-1993-0004` | Michigan Compiled Laws, Chapter 800 (PRISONS): E.R.O. No. 1993-4, EXECUTIVE REORGANIZATION ORDER | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0801-act-r-s-of-1846` | Michigan Compiled Laws, Chapter 801 (JAILS AND WORKHOUSES): R.S. of 1846, Revised Statutes of 1846 | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0801-act-1982-0325` | Michigan Compiled Laws, Chapter 801 (JAILS AND WORKHOUSES): Act 325 of 1982, COUNTY JAIL OVERCROWDING STATE OF EMERGENCY | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0801-act-e-r-o-no-1994-0006` | Michigan Compiled Laws, Chapter 801 (JAILS AND WORKHOUSES): E.R.O. No. 1994-6, EXECUTIVE REORGANIZATION ORDER | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0801-act-1984-0118` | Michigan Compiled Laws, Chapter 801 (JAILS AND WORKHOUSES): Act 118 of 1984, The prisoner reimbursement to the county act | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0801-act-r-s-of-1846-2` | Michigan Compiled Laws, Chapter 801 (JAILS AND WORKHOUSES): R.S. of 1846, Revised Statutes of 1846 | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0801-act-1917-0078` | Michigan Compiled Laws, Chapter 801 (JAILS AND WORKHOUSES): Act 78 of 1917, WORK FARMS, FACTORIES, AND SHOPS | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0801-act-1962-0060` | Michigan Compiled Laws, Chapter 801 (JAILS AND WORKHOUSES): Act 60 of 1962, DAY PAROLE OF PRISONERS | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0801-act-1981-0007` | Michigan Compiled Laws, Chapter 801 (JAILS AND WORKHOUSES): Act 7 of 1981, ALCOHOLIC LIQUOR, CONTROLLED SUBSTANCES, AND WEAPONS | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0801-act-1982-0014` | Michigan Compiled Laws, Chapter 801 (JAILS AND WORKHOUSES): Act 14 of 1982, REIMBURSEMENT OF CITIES FOR MEDICAL SUPPLIES OR CARE OF PRISONERS | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0801-act-2006-0088` | Michigan Compiled Laws, Chapter 801 (JAILS AND WORKHOUSES): Act 88 of 2006, Inmate reimbursement to municipalities act | 1 | 2026-03-23 to 2026-03-23 |
+| `mcl-0803-act-1988-0073` | Michigan Compiled Laws, Chapter 803 (YOUTH TRAINING AND REHABILITATION): Act 73 of 1988, The juvenile facilities act | 1 | 2026-01-23 to 2026-01-23 |
+| `mcl-0803-act-1974-0150` | Michigan Compiled Laws, Chapter 803 (YOUTH TRAINING AND REHABILITATION): Act 150 of 1974, Youth rehabilitation services act | 1 | 2026-01-23 to 2026-01-23 |
+| `mcl-0830-act-1951-0004` | Michigan Compiled Laws, Chapter 830 (STATE BUILDING PROGRAMS): Act 4 of 1951 (1st Ex. Sess.), STATE OFFICE BUILDING | 1 | 2026-03-21 to 2026-03-21 |
+| `mcl-0830-act-1964-0183` | Michigan Compiled Laws, Chapter 830 (STATE BUILDING PROGRAMS): Act 183 of 1964, STATE BUILDING AUTHORITY | 1 | 2026-03-21 to 2026-03-21 |
 
-The build made 2355 commits:
+The build made 2383 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 2344 | first version of an act |
+| 2372 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -2565,7 +2598,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 2344 tags.
+- 2372 tags.
 
 ## Dates
 
@@ -2577,7 +2610,7 @@ When a law gives no date of its own, the default rule applies: No dated text his
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `7a410277ade9aa888717d630303681133f0698ed0959c8fbb9088a9f4af90119` (81619828 bytes).
+- Corpus: sha256 `57c8f7b389d318e2c1e4ee72e66d2c3a84c05b09a212722eeba3e55a31863612` (82000437 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -2787,6 +2820,11 @@ No second build of this corpus has been compared yet.
 - MCL chapter 760: one act per Michigan Act in the chapter file, one unit per section, dated 2026-01-10, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
 - MCL chapter 780: one act per Michigan Act in the chapter file, one unit per section, dated 2026-03-21, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
 - MCL chapter 791: one act per Michigan Act in the chapter file, one unit per section, dated 2026-03-20, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
+- MCL chapter 798: one act per Michigan Act in the chapter file, one unit per section, dated 2026-10-04, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
+- MCL chapter 800: one act per Michigan Act in the chapter file, one unit per section, dated 2026-03-21, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
+- MCL chapter 801: one act per Michigan Act in the chapter file, one unit per section, dated 2026-03-23, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
+- MCL chapter 803: one act per Michigan Act in the chapter file, one unit per section, dated 2026-01-23, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
+- MCL chapter 830: one act per Michigan Act in the chapter file, one unit per section, dated 2026-03-21, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
 
 ## What AI did and did not do
 
@@ -2798,6 +2836,11 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
 - Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
 - Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
 - Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.

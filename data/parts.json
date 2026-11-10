@@ -3230,6 +3230,59 @@
     "mcl-0791-act-e-r-o-no-2011-0003"
    ],
    "sha256": "9c4add948dd6a1734ec932a826569336e98331b0f28b285116b604d03ab5e2ba"
+  },
+  "mcl-chapter-0798.json": {
+   "acts": [
+    "mcl-0798-act-1935-0089",
+    "mcl-0798-act-1974-0386",
+    "mcl-0798-act-1988-0287",
+    "mcl-0798-act-2017-0005"
+   ],
+   "sha256": "5ae31eafa16be2d2cfa96f7d6419544836e23578fd8ec2ed340fa0b88c8004bb"
+  },
+  "mcl-chapter-0800.json": {
+   "acts": [
+    "mcl-0800-act-1859-0185",
+    "mcl-0800-act-1893-0118",
+    "mcl-0800-act-1909-0017",
+    "mcl-0800-act-1911-0181",
+    "mcl-0800-act-1935-0253",
+    "mcl-0800-act-1968-0015",
+    "mcl-0800-act-1978-0016",
+    "mcl-0800-act-e-r-o-no-1993-0004",
+    "mcl-0800-act-e-r-o-no-1993-0008",
+    "mcl-0800-act-e-r-o-no-2001-0003"
+   ],
+   "sha256": "cfd1e575f90c23b5d02d59d27e362be0feb69d145cc7ca408b22bf8f54b21e15"
+  },
+  "mcl-chapter-0801.json": {
+   "acts": [
+    "mcl-0801-act-1917-0078",
+    "mcl-0801-act-1962-0060",
+    "mcl-0801-act-1981-0007",
+    "mcl-0801-act-1982-0014",
+    "mcl-0801-act-1982-0325",
+    "mcl-0801-act-1984-0118",
+    "mcl-0801-act-2006-0088",
+    "mcl-0801-act-e-r-o-no-1994-0006",
+    "mcl-0801-act-r-s-of-1846",
+    "mcl-0801-act-r-s-of-1846-2"
+   ],
+   "sha256": "f1e7a22cca9a5f43b2ef1685bd00d83dd7abea05f7ff99d824258af937184318"
+  },
+  "mcl-chapter-0803.json": {
+   "acts": [
+    "mcl-0803-act-1974-0150",
+    "mcl-0803-act-1988-0073"
+   ],
+   "sha256": "cf82d86fd07224e3b20889ab79ae7e1ac5eb1766aa560ca42be62cadbe43a0fd"
+  },
+  "mcl-chapter-0830.json": {
+   "acts": [
+    "mcl-0830-act-1951-0004",
+    "mcl-0830-act-1964-0183"
+   ],
+   "sha256": "343640a49b4b252e4ecf4ac43799b3bb1453818859092223e4de9032a52fb091"
   }
  },
  "schema": 1
