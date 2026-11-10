@@ -1,0 +1,66 @@
+# Michigan Compiled Laws, Chapter 46 (COUNTY BOARDS OF COMMISSIONERS): Act 156 of 1851, COUNTY BOARDS OF COMMISSIONERS
+
+MCL ch. 46, Act 156 of 1851 · 1 versions, from 2026-02-01 (latest in force: 2026-02-01) · <https://www.legislature.mi.gov/documents/mcl/Chapter%2046.xml>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| MCL 46.1 | [sec-0046-0001.md](sec-0046-0001.md) | 0 |  |
+| MCL 46.1a | [sec-0046-0001a.md](sec-0046-0001a.md) | 0 |  |
+| MCL 46.2 | [sec-0046-0002.md](sec-0046-0002.md) | 0 |  |
+| MCL 46.3 | [sec-0046-0003.md](sec-0046-0003.md) | 0 |  |
+| MCL 46.3a | [sec-0046-0003a.md](sec-0046-0003a.md) | 0 |  |
+| MCL 46.4 | [sec-0046-0004.md](sec-0046-0004.md) | 0 |  |
+| MCL 46.5 | [sec-0046-0005.md](sec-0046-0005.md) | 0 |  |
+| MCL 46.6 | [sec-0046-0006.md](sec-0046-0006.md) | 0 |  |
+| MCL 46.7 | [sec-0046-0007.md](sec-0046-0007.md) | 0 |  |
+| MCL 46.8 | [sec-0046-0008.md](sec-0046-0008.md) | 0 |  |
+| MCL 46.9 | [sec-0046-0009.md](sec-0046-0009.md) | 0 |  |
+| MCL 46.10 | [sec-0046-0010.md](sec-0046-0010.md) | 0 |  |
+| MCL 46.10b | [sec-0046-0010b.md](sec-0046-0010b.md) | 0 |  |
+| MCL 46.10c | [sec-0046-0010c.md](sec-0046-0010c.md) | 0 |  |
+| MCL 46.11 | [sec-0046-0011.md](sec-0046-0011.md) | 0 |  |
+| MCL 46.11a | [sec-0046-0011a.md](sec-0046-0011a.md) | 0 |  |
+| MCL 46.11b | [sec-0046-0011b.md](sec-0046-0011b.md) | 0 |  |
+| MCL 46.11c | [sec-0046-0011c.md](sec-0046-0011c.md) | 0 |  |
+| MCL 46.11d | [sec-0046-0011d.md](sec-0046-0011d.md) | 0 |  |
+| MCL 46.11e | [sec-0046-0011e.md](sec-0046-0011e.md) | 0 |  |
+| MCL 46.12 | [sec-0046-0012.md](sec-0046-0012.md) | 0 |  |
+| MCL 46.12a | [sec-0046-0012a.md](sec-0046-0012a.md) | 0 |  |
+| MCL 46.12b | [sec-0046-0012b.md](sec-0046-0012b.md) | 0 |  |
+| MCL 46.12c | [sec-0046-0012c.md](sec-0046-0012c.md) | 0 |  |
+| MCL 46.12d | [sec-0046-0012d.md](sec-0046-0012d.md) | 0 |  |
+| MCL 46.12e | [sec-0046-0012e.md](sec-0046-0012e.md) | 0 |  |
+| MCL 46.13 | [sec-0046-0013.md](sec-0046-0013.md) | 0 |  |
+| MCL 46.13a | [sec-0046-0013a.md](sec-0046-0013a.md) | 0 |  |
+| MCL 46.13b | [sec-0046-0013b.md](sec-0046-0013b.md) | 0 |  |
+| MCL 46.14 | [sec-0046-0014.md](sec-0046-0014.md) | 0 |  |
+| MCL 46.15 | [sec-0046-0015.md](sec-0046-0015.md) | 0 |  |
+| MCL 46.16 | [sec-0046-0016.md](sec-0046-0016.md) | 0 |  |
+| MCL 46.16a | [sec-0046-0016a.md](sec-0046-0016a.md) | 0 |  |
+| MCL 46.16b | [sec-0046-0016b.md](sec-0046-0016b.md) | 0 |  |
+| MCL 46.16c | [sec-0046-0016c.md](sec-0046-0016c.md) | 0 |  |
+| MCL 46.16d | [sec-0046-0016d.md](sec-0046-0016d.md) | 0 |  |
+| MCL 46.16e | [sec-0046-0016e.md](sec-0046-0016e.md) | 0 |  |
+| MCL 46.16f | [sec-0046-0016f.md](sec-0046-0016f.md) | 0 |  |
+| MCL 46.16g | [sec-0046-0016g.md](sec-0046-0016g.md) | 0 |  |
+| MCL 46.16h | [sec-0046-0016h.md](sec-0046-0016h.md) | 0 |  |
+| MCL 46.16i | [sec-0046-0016i.md](sec-0046-0016i.md) | 0 |  |
+| MCL 46.16j | [sec-0046-0016j.md](sec-0046-0016j.md) | 0 |  |
+| MCL 46.17 | [sec-0046-0017.md](sec-0046-0017.md) | 0 |  |
+| MCL 46.18 | [sec-0046-0018.md](sec-0046-0018.md) | 0 |  |
+| MCL 46.20 | [sec-0046-0020.md](sec-0046-0020.md) | 0 |  |
+| MCL 46.21 | [sec-0046-0021.md](sec-0046-0021.md) | 0 |  |
+| MCL 46.22 | [sec-0046-0022.md](sec-0046-0022.md) | 0 |  |
+| MCL 46.23 | [sec-0046-0023.md](sec-0046-0023.md) | 0 |  |
+| MCL 46.23a | [sec-0046-0023a.md](sec-0046-0023a.md) | 0 |  |
+| MCL 46.24 | [sec-0046-0024.md](sec-0046-0024.md) | 0 |  |
+| MCL 46.25 | [sec-0046-0025.md](sec-0046-0025.md) | 0 |  |
+| MCL 46.26 | [sec-0046-0026.md](sec-0046-0026.md) | 0 |  |
+| MCL 46.27 | [sec-0046-0027.md](sec-0046-0027.md) | 0 |  |
+| MCL 46.28 | [sec-0046-0028.md](sec-0046-0028.md) | 0 |  |
+| MCL 46.29 | [sec-0046-0029.md](sec-0046-0029.md) | 0 |  |
+| MCL 46.30 | [sec-0046-0030.md](sec-0046-0030.md) | 0 |  |
+| MCL 46.30a | [sec-0046-0030a.md](sec-0046-0030a.md) | 0 |  |
+| MCL 46.30b | [sec-0046-0030b.md](sec-0046-0030b.md) | 0 |  |
+| MCL 46.31 | [sec-0046-0031.md](sec-0046-0031.md) | 0 |  |
+| MCL 46.32 | [sec-0046-0032.md](sec-0046-0032.md) | 0 |  |

@@ -4,108 +4,74 @@ Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git h
 
 The law of Michigan as a git history: one file per provision, with `git blame` and `git log` working line by line. It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
 
-**What is in it now (a first build, not complete)**
+**What is in it now (not complete)**: 49 chapters of the Michigan Compiled Laws, 633 Acts, 8305 sections. Each Act is a folder; MCL chapter 1 is the Constitution of 1963.
 
-| Folder | Act | Versions | History |
-| --- | --- | ---: | --- |
-| `mcl-act-1931-0328/` | Michigan Compiled Laws, Chapter 750 (MICHIGAN PENAL CODE): Act 328 of 1931, The Michigan penal code | 1 | 900 sections, text as of 2025-03-11 |
-| `mcl-act-1931-0327/` | Michigan Compiled Laws, Chapter 450 (CORPORATIONS): Act 327 of 1931, MICHIGAN GENERAL CORPORATION STATUTE | 1 | 85 sections, text as of 2025-03-11 |
-| `mcl-act-e-r-o-no-1972-0004/` | Michigan Compiled Laws, Chapter 450 (CORPORATIONS): E.R.O. No. 1972-4, EXECUTIVE REORGANIZATION ORDER | 1 | 1 sections, text as of 2025-03-11 |
-| `mcl-act-1965-0169/` | Michigan Compiled Laws, Chapter 450 (CORPORATIONS): Act 169 of 1965, Dissolution of charitable purpose corporations act | 1 | 5 sections, text as of 2025-03-11 |
-| `mcl-act-1978-0392/` | Michigan Compiled Laws, Chapter 450 (CORPORATIONS): Act 392 of 1978, VALIDATION OF AUDITS | 1 | 1 sections, text as of 2025-03-11 |
-| `mcl-act-1963-0026/` | Michigan Compiled Laws, Chapter 450 (CORPORATIONS): Act 26 of 1963 (2nd Ex. Sess.), TERM OF EXISTENCE OF DOMESTIC CORPORATIONS | 1 | 2 sections, text as of 2025-03-11 |
-| `mcl-act-1945-0002/` | Michigan Compiled Laws, Chapter 450 (CORPORATIONS): Act 2 of 1945, REVIVAL OF NONPROFIT CORPORATIONS | 1 | 2 sections, text as of 2025-03-11 |
-| `mcl-act-1941-0138/` | Michigan Compiled Laws, Chapter 450 (CORPORATIONS): Act 138 of 1941, REINSTATEMENT OF CEMETERY ASSOCIATIONS | 1 | 3 sections, text as of 2025-03-11 |
-| `mcl-act-r-s-of-1846/` | Michigan Compiled Laws, Chapter 450 (CORPORATIONS): R.S. of 1846, Revised Statutes of 1846 | 1 | 9 sections, text as of 2025-03-11 |
-| `mcl-act-1917-0354/` | Michigan Compiled Laws, Chapter 450 (CORPORATIONS): Act 354 of 1917, PRACTICE OF LAW BY CORPORATIONS AND VOLUNTARY ASSOCIATIONS | 1 | 1 sections, text as of 2025-03-11 |
-| `mcl-act-r-s-of-1846-2/` | Michigan Compiled Laws, Chapter 450 (CORPORATIONS): R.S. of 1846, Revised Statutes of 1846 | 1 | 6 sections, text as of 2025-03-11 |
-| `mcl-act-1955-0156/` | Michigan Compiled Laws, Chapter 450 (CORPORATIONS): Act 156 of 1955, ATTORNEY IN FACT FOR SERVICE OF PROCESS | 1 | 4 sections, text as of 2025-03-11 |
-| `mcl-act-1985-0152/` | Michigan Compiled Laws, Chapter 450 (CORPORATIONS): Act 152 of 1985, The employee-owned corporation act | 1 | 8 sections, text as of 2025-03-11 |
-| `mcl-act-1980-0428/` | Michigan Compiled Laws, Chapter 450 (CORPORATIONS): Act 428 of 1980, STATE PROCUREMENTS FOR MINORITY OWNED AND WOMAN OWNED BUSINESSES | 1 | 6 sections, text as of 2025-03-11 |
-| `mcl-act-1988-0112/` | Michigan Compiled Laws, Chapter 450 (CORPORATIONS): Act 112 of 1988, The business opportunity act for persons with disabilities | 1 | 5 sections, text as of 2025-03-11 |
-| `mcl-act-2000-0305/` | Michigan Compiled Laws, Chapter 450 (CORPORATIONS): Act 305 of 2000, Uniform electronic transactions act | 1 | 20 sections, text as of 2025-03-11 |
-| `mcl-act-1972-0284/` | Michigan Compiled Laws, Chapter 450 (CORPORATIONS): Act 284 of 1972, Business corporation act | 1 | 294 sections, text as of 2025-03-11 |
-| `mcl-act-1982-0162/` | Michigan Compiled Laws, Chapter 450 (CORPORATIONS): Act 162 of 1982, Nonprofit corporation act | 1 | 291 sections, text as of 2025-03-11 |
-| `mcl-act-1993-0023/` | Michigan Compiled Laws, Chapter 450 (CORPORATIONS): Act 23 of 1993, Michigan limited liability company act | 1 | 102 sections, text as of 2025-03-11 |
-| `mcl-act-r-s-of-1846-3/` | Michigan Compiled Laws, Chapter 554 (REAL AND PERSONAL PROPERTY): R.S. of 1846, Revised Statutes of 1846 | 1 | 38 sections, text as of 2025-03-11 |
-| `mcl-act-1949-0038/` | Michigan Compiled Laws, Chapter 554 (REAL AND PERSONAL PROPERTY): Act 38 of 1949, RULE AGAINST PERPETUITIES | 1 | 3 sections, text as of 2025-03-11 |
-| `mcl-act-1968-0013/` | Michigan Compiled Laws, Chapter 554 (REAL AND PERSONAL PROPERTY): Act 13 of 1968, POSSIBILITIES OF REVERTER AND RIGHTS OF ENTRY | 1 | 5 sections, text as of 2025-03-11 |
-| `mcl-act-1988-0418/` | Michigan Compiled Laws, Chapter 554 (REAL AND PERSONAL PROPERTY): Act 418 of 1988, Uniform statutory rule against perpetuities | 1 | 8 sections, text as of 2025-03-11 |
-| `mcl-act-2008-0148/` | Michigan Compiled Laws, Chapter 554 (REAL AND PERSONAL PROPERTY): Act 148 of 2008, Personal property trust perpetuities act | 1 | 4 sections, text as of 2025-03-11 |
-| `mcl-act-1931-0211/` | Michigan Compiled Laws, Chapter 554 (REAL AND PERSONAL PROPERTY): Act 211 of 1931, DEVOLUTION OF EXPECTANT ESTATES | 1 | 1 sections, text as of 2025-03-11 |
-| `mcl-act-1931-0219/` | Michigan Compiled Laws, Chapter 554 (REAL AND PERSONAL PROPERTY): Act 219 of 1931, REVERSIONARY INTEREST IN LANDS | 1 | 1 sections, text as of 2025-03-11 |
-| `mcl-act-r-s-of-1846-4/` | Michigan Compiled Laws, Chapter 554 (REAL AND PERSONAL PROPERTY): R.S. of 1846, Revised Statutes of 1846 | 1 | 9 sections, text as of 2025-03-11 |
-| `mcl-act-1917-0042/` | Michigan Compiled Laws, Chapter 554 (REAL AND PERSONAL PROPERTY): Act 42 of 1917, UNTENANTABLE BUILDINGS | 1 | 1 sections, text as of 2025-03-11 |
-| `mcl-act-1921-0314/` | Michigan Compiled Laws, Chapter 554 (REAL AND PERSONAL PROPERTY): Act 314 of 1921, LATERAL AND SUBJACENT SUPPORT TO ADJOINING LAND | 1 | 4 sections, text as of 2025-03-11 |
-| `mcl-act-1929-0081/` | Michigan Compiled Laws, Chapter 554 (REAL AND PERSONAL PROPERTY): Act 81 of 1929, OIL, GAS, OR MINERAL LEASES | 1 | 2 sections, text as of 2025-03-11 |
-| `mcl-act-1963-0042/` | Michigan Compiled Laws, Chapter 554 (REAL AND PERSONAL PROPERTY): Act 42 of 1963, TERMINATION OF OIL OR GAS INTERESTS IN LAND | 1 | 4 sections, text as of 2025-03-11 |
-| `mcl-act-1929-0235/` | Michigan Compiled Laws, Chapter 554 (REAL AND PERSONAL PROPERTY): Act 235 of 1929, NOTICE OF FORFEITURE OF LAND CONTRACT | 1 | 2 sections, text as of 2025-03-11 |
-| `mcl-act-1915-0280/` | Michigan Compiled Laws, Chapter 554 (REAL AND PERSONAL PROPERTY): Act 280 of 1915, GIFTS, GRANTS, BEQUESTS, AND DEVISES | 1 | 3 sections, text as of 2025-03-11 |
-| `mcl-act-1925-0373/` | Michigan Compiled Laws, Chapter 554 (REAL AND PERSONAL PROPERTY): Act 373 of 1925, GIFTS, GRANTS, BEQUESTS, AND DEVISES | 1 | 2 sections, text as of 2025-03-11 |
-| `mcl-act-1925-0258/` | Michigan Compiled Laws, Chapter 554 (REAL AND PERSONAL PROPERTY): Act 258 of 1925, SALE OF CERTAIN LANDS | 1 | 4 sections, text as of 2025-03-11 |
-| `mcl-act-1998-0433/` | Michigan Compiled Laws, Chapter 554 (REAL AND PERSONAL PROPERTY): Act 433 of 1998, Michigan uniform transfers to minors act | 1 | 32 sections, text as of 2025-03-11 |
-| `mcl-act-2014-0226/` | Michigan Compiled Laws, Chapter 554 (REAL AND PERSONAL PROPERTY): Act 226 of 2014, Trespass liability act | 1 | 2 sections, text as of 2025-03-11 |
-| `mcl-act-1972-0348/` | Michigan Compiled Laws, Chapter 554 (REAL AND PERSONAL PROPERTY): Act 348 of 1972, LANDLORD AND TENANT RELATIONSHIPS | 1 | 21 sections, text as of 2025-03-11 |
-| `mcl-act-1978-0454/` | Michigan Compiled Laws, Chapter 554 (REAL AND PERSONAL PROPERTY): Act 454 of 1978, Truth in renting act | 1 | 11 sections, text as of 2025-03-11 |
-| `mcl-act-1990-0162/` | Michigan Compiled Laws, Chapter 554 (REAL AND PERSONAL PROPERTY): Act 162 of 1990, CAMPGROUNDS | 1 | 8 sections, text as of 2025-03-11 |
-| `mcl-act-2014-0448/` | Michigan Compiled Laws, Chapter 554 (REAL AND PERSONAL PROPERTY): Act 448 of 2014, Continuing care community disclosure act | 1 | 46 sections, text as of 2025-03-11 |
-| `mcl-act-2018-0016/` | Michigan Compiled Laws, Chapter 554 (REAL AND PERSONAL PROPERTY): Act 16 of 2018, Receivership act | 1 | 29 sections, text as of 2025-03-11 |
-| `mcl-act-2022-0115/` | Michigan Compiled Laws, Chapter 554 (REAL AND PERSONAL PROPERTY): Act 115 of 2022, Michigan uniform assignment of rents act | 1 | 20 sections, text as of 2025-03-11 |
-| `mcl-act-r-s-of-1846-5/` | Michigan Compiled Laws, Chapter 565 (CONVEYANCES OF REAL PROPERTY): R.S. of 1846, Revised Statutes of 1846 | 1 | 46 sections, text as of 2025-03-11 |
-| `mcl-act-1956-0066/` | Michigan Compiled Laws, Chapter 565 (CONVEYANCES OF REAL PROPERTY): Act 66 of 1956, OIL AND GAS ASSIGNMENTS | 1 | 5 sections, text as of 2025-03-11 |
-| `mcl-act-1945-0200/` | Michigan Compiled Laws, Chapter 565 (CONVEYANCES OF REAL PROPERTY): Act 200 of 1945, MARKETABLE RECORD TITLE | 1 | 10 sections, text as of 2025-03-11 |
-| `mcl-act-1947-0031/` | Michigan Compiled Laws, Chapter 565 (CONVEYANCES OF REAL PROPERTY): Act 31 of 1947, DISCHARGE OF LIENS, MORTGAGES, AND OTHER CLAIMS IN LAND | 1 | 2 sections, text as of 2025-03-11 |
-| `mcl-act-1881-0187/` | Michigan Compiled Laws, Chapter 565 (CONVEYANCES OF REAL PROPERTY): Act 187 of 1881, FORM OF DEEDS, MORTGAGES, AND ACKNOWLEDGMENTS | 1 | 4 sections, text as of 2025-03-11 |
-| `mcl-act-1966-0125/` | Michigan Compiled Laws, Chapter 565 (CONVEYANCES OF REAL PROPERTY): Act 125 of 1966, ANNUAL STATEMENTS TO MORTGAGORS | 1 | 4 sections, text as of 2025-03-11 |
-| `mcl-act-1937-0103/` | Michigan Compiled Laws, Chapter 565 (CONVEYANCES OF REAL PROPERTY): Act 103 of 1937, RECORDING REQUIREMENTS | 1 | 4 sections, text as of 2025-03-11 |
-| `mcl-act-1915-0079/` | Michigan Compiled Laws, Chapter 565 (CONVEYANCES OF REAL PROPERTY): Act 79 of 1915, STATEMENT OF MARITAL STATUS IN INSTRUMENTS CONVEYING OR MORTGAGING REAL ESTATE | 1 | 1 sections, text as of 2025-03-11 |
-| `mcl-act-1895-0198/` | Michigan Compiled Laws, Chapter 565 (CONVEYANCES OF REAL PROPERTY): Act 198 of 1895, SEALING OF DEEDS AND OTHER INSTRUMENTS | 1 | 2 sections, text as of 2025-03-11 |
-| `mcl-act-1937-0063/` | Michigan Compiled Laws, Chapter 565 (CONVEYANCES OF REAL PROPERTY): Act 63 of 1937, SEALS ON INSTRUMENTS AFFECTING REAL ESTATE | 1 | 2 sections, text as of 2025-03-11 |
-| `mcl-act-1877-0062/` | Michigan Compiled Laws, Chapter 565 (CONVEYANCES OF REAL PROPERTY): Act 62 of 1877, ACKNOWLEDGMENT OF DEEDS OR OTHER INSTRUMENTS BY MARRIED WOMEN | 1 | 2 sections, text as of 2025-03-11 |
-| `mcl-act-1881-0188/` | Michigan Compiled Laws, Chapter 565 (CONVEYANCES OF REAL PROPERTY): Act 188 of 1881, UNRECORDED DEEDS | 1 | 2 sections, text as of 2025-03-11 |
-| `mcl-act-1837-0021/` | Michigan Compiled Laws, Chapter 565 (CONVEYANCES OF REAL PROPERTY): Act 21 of 1837, LAND PATENTS | 1 | 2 sections, text as of 2025-03-11 |
-| `mcl-act-1875-0059/` | Michigan Compiled Laws, Chapter 565 (CONVEYANCES OF REAL PROPERTY): Act 59 of 1875, LOST DEEDS AND OTHER INSTRUMENTS | 1 | 1 sections, text as of 2025-03-11 |
-| `mcl-act-1877-0071/` | Michigan Compiled Laws, Chapter 565 (CONVEYANCES OF REAL PROPERTY): Act 71 of 1877, REPLACING DEED GIVEN AT JUDICIAL SALE | 1 | 3 sections, text as of 2025-03-11 |
-| `mcl-act-1879-0237/` | Michigan Compiled Laws, Chapter 565 (CONVEYANCES OF REAL PROPERTY): Act 237 of 1879, LAND CONTRACTS | 1 | 11 sections, text as of 2025-03-11 |
-| `mcl-act-1883-0098/` | Michigan Compiled Laws, Chapter 565 (CONVEYANCES OF REAL PROPERTY): Act 98 of 1883, FRAUDULENT CONVEYANCES | 1 | 2 sections, text as of 2025-03-11 |
-| `mcl-act-1929-0216/` | Michigan Compiled Laws, Chapter 565 (CONVEYANCES OF REAL PROPERTY): Act 216 of 1929, RECORDING AFFIDAVIT OF RENEWAL OF MORTGAGE | 1 | 4 sections, text as of 2025-03-11 |
-| `mcl-act-1929-0236/` | Michigan Compiled Laws, Chapter 565 (CONVEYANCES OF REAL PROPERTY): Act 236 of 1929, RECORDING WAIVER OF PRIORITY OF MORTGAGE | 1 | 1 sections, text as of 2025-03-11 |
-| `mcl-act-1873-0005/` | Michigan Compiled Laws, Chapter 565 (CONVEYANCES OF REAL PROPERTY): Act 5 of 1873, RECORDING JUDGMENT AFFECTING TITLE TO REALTY | 1 | 1 sections, text as of 2025-03-11 |
-| `mcl-act-1895-0107/` | Michigan Compiled Laws, Chapter 565 (CONVEYANCES OF REAL PROPERTY): Act 107 of 1895, RECORDING JUDGMENTS AND DECREES AS TO LANDS | 1 | 2 sections, text as of 2025-03-11 |
-| `mcl-act-1991-0133/` | Michigan Compiled Laws, Chapter 565 (CONVEYANCES OF REAL PROPERTY): Act 133 of 1991, RECORDING TRUST INSTRUMENT OR CERTIFICATE OF TRUST | 1 | 5 sections, text as of 2025-03-11 |
-| `mcl-act-1915-0123/` | Michigan Compiled Laws, Chapter 565 (CONVEYANCES OF REAL PROPERTY): Act 123 of 1915, RECORDING AFFIDAVITS AFFECTING REAL PROPERTY | 1 | 7 sections, text as of 2025-03-11 |
-| `mcl-act-1867-0020/` | Michigan Compiled Laws, Chapter 565 (CONVEYANCES OF REAL PROPERTY): Act 20 of 1867, RECORDING OF DEEDS, MORTGAGES, AND INSTRUMENTS OF RECORD | 1 | 2 sections, text as of 2025-03-11 |
-| `mcl-act-1841-0079/` | Michigan Compiled Laws, Chapter 565 (CONVEYANCES OF REAL PROPERTY): Act 79 of 1841, GENERAL INDEX OF RECORDS | 1 | 2 sections, text as of 2025-03-11 |
-| `mcl-act-1887-0158/` | Michigan Compiled Laws, Chapter 565 (CONVEYANCES OF REAL PROPERTY): Act 158 of 1887, FAILURE TO KEEP UP REQUIRED INDEXES | 1 | 1 sections, text as of 2025-03-11 |
-| `mcl-act-1875-0054/` | Michigan Compiled Laws, Chapter 565 (CONVEYANCES OF REAL PROPERTY): Act 54 of 1875, INSPECTION OF RECORDS AND FILES | 1 | 1 sections, text as of 2025-03-11 |
-| `mcl-act-1836-0025/` | Michigan Compiled Laws, Chapter 565 (CONVEYANCES OF REAL PROPERTY): Act 25 of 1836, RECORDS OF DEEDS AND OTHER CONVEYANCES | 1 | 4 sections, text as of 2025-03-11 |
-| `mcl-act-1879-0177/` | Michigan Compiled Laws, Chapter 565 (CONVEYANCES OF REAL PROPERTY): Act 177 of 1879, TRANSCRIBING RECORDS OF DEEDS, MORTGAGES, AND OTHER INSTRUMENTS | 1 | 1 sections, text as of 2025-03-11 |
-| `mcl-act-1861-0021/` | Michigan Compiled Laws, Chapter 565 (CONVEYANCES OF REAL PROPERTY): Act 21 of 1861, CONFIRMATION OF CERTAIN DEEDS AND INSTRUMENTS | 1 | 4 sections, text as of 2025-03-11 |
-| `mcl-act-1871-0191/` | Michigan Compiled Laws, Chapter 565 (CONVEYANCES OF REAL PROPERTY): Act 191 of 1871, CONFIRMATION OF RECORD OF LETTERS OF ATTORNEY OR OTHER INSTRUMENT | 1 | 2 sections, text as of 2025-03-11 |
-| `mcl-act-1941-0053/` | Michigan Compiled Laws, Chapter 565 (CONVEYANCES OF REAL PROPERTY): Act 53 of 1941, Uniform vendor and purchaser risk act | 1 | 3 sections, text as of 2025-03-11 |
-| `mcl-act-2010-0123/` | Michigan Compiled Laws, Chapter 565 (CONVEYANCES OF REAL PROPERTY): Act 123 of 2010, Uniform real property electronic recording act | 1 | 8 sections, text as of 2025-03-11 |
-| `mcl-act-2022-0234/` | Michigan Compiled Laws, Chapter 565 (CONVEYANCES OF REAL PROPERTY): Act 234 of 2022, Discharge of prohibited restrictive covenants act | 1 | 12 sections, text as of 2025-03-11 |
-| `mcl-act-2011-0034/` | Michigan Compiled Laws, Chapter 565 (CONVEYANCES OF REAL PROPERTY): Act 34 of 2011, TRANSFER FEE COVENANTS ATTACHING TO NONRESIDENTIAL REAL PROPERTY | 1 | 4 sections, text as of 2025-03-11 |
-| `mcl-act-2011-0035/` | Michigan Compiled Laws, Chapter 565 (CONVEYANCES OF REAL PROPERTY): Act 35 of 2011, TRANSFER FEE COVENANTS ATTACHING TO RESIDENTIAL REAL PROPERTY | 1 | 4 sections, text as of 2025-03-11 |
-| `mcl-act-1990-0348/` | Michigan Compiled Laws, Chapter 565 (CONVEYANCES OF REAL PROPERTY): Act 348 of 1990, PRIORITY OF MORTGAGES | 1 | 7 sections, text as of 2025-03-11 |
-| `mcl-act-1993-0092/` | Michigan Compiled Laws, Chapter 565 (CONVEYANCES OF REAL PROPERTY): Act 92 of 1993, Seller disclosure act | 1 | 16 sections, text as of 2025-03-11 |
-| `mcl-act-2022-0006/` | Michigan Compiled Laws, Chapter 565 (CONVEYANCES OF REAL PROPERTY): Act 6 of 2022, MICHIGAN FIRST-TIME HOME BUYER SAVINGS PROGRAM ACT | 1 | 7 sections, text as of 2025-03-11 |
-| `mcl-act-1962-0174/` | Michigan Compiled Laws, Chapter 440 (UNIFORM COMMERCIAL CODE): Act 174 of 1962, Uniform commercial code | 1 | 638 sections, text as of 2025-03-11 |
+| MCL chapter | Chapter title | Acts | Sections | Text as of | Folders |
+| ---: | --- | ---: | ---: | --- | --- |
+| 1 | Constitution of Michigan of 1963 | 1 | 281 | 2026-02-01 | `mcl-0001-act-constitution-of-michigan-of-1963/` |
+| 2 | State | 31 | 73 | 2026-03-22 | `mcl-0002-act-1945-0078/` .. `mcl-0002-act-2003-0112/` |
+| 3 | Federal and interstate relations | 41 | 208 | 2026-03-25 | `mcl-0003-act-1964-0282/` .. `mcl-0003-act-2018-0621/` |
+| 4 | Legislature | 26 | 185 | 2026-01-18 | `mcl-0004-act-1963-0046/` .. `mcl-0004-act-2001-0116/` |
+| 6 | Impeachments | 1 | 16 | 2026-03-21 | `mcl-0006-act-1872-0062/` |
+| 8 | Statutes | 4 | 47 | 2026-03-20 | `mcl-0008-act-r-s-of-1846/` .. `mcl-0008-act-1970-0193/` |
+| 10 | Governor | 10 | 38 | 2026-02-06 | `mcl-0010-act-r-s-of-1846/` .. `mcl-0010-act-e-r-o-no-2002-0007/` |
+| 11 | Secretary of state | 4 | 9 | 2026-03-30 | `mcl-0011-act-r-s-of-1846/` .. `mcl-0011-act-1885-0031/` |
+| 12 | State treasurer | 21 | 106 | 2026-03-23 | `mcl-0012-act-r-s-of-1846/` .. `mcl-0012-act-2011-0267/` |
+| 13 | Auditor general | 2 | 2 | 2026-01-29 | `mcl-0013-act-r-s-of-1846/` .. `mcl-0013-act-2003-0001/` |
+| 14 | Attorney general | 9 | 83 | 2026-03-21 | `mcl-0014-act-r-s-of-1846/` .. `mcl-0014-act-1992-0298/` |
+| 15 | Public officers and employees | 30 | 199 | 2026-03-21 | `mcl-0015-act-1969-0010/` .. `mcl-0015-act-2023-0281/` |
+| 16 | Executive organization | 11 | 211 | 2026-04-01 | `mcl-0016-act-1964-0017/` .. `mcl-0016-act-e-r-o-no-2025-0002/` |
+| 17 | State administrative board | 8 | 31 | 2026-02-05 | `mcl-0017-act-1921-0002/` .. `mcl-0017-act-1967-0266/` |
+| 18 | Department of management and budget | 37 | 362 | 2026-01-20 | `mcl-0018-act-e-r-o-no-1973-0005/` .. `mcl-0018-act-2018-0540/` |
+| 19 | Board of state auditors | 3 | 10 | 2026-01-12 | `mcl-0019-act-2012-0486/` .. `mcl-0019-act-1905-0080/` |
+| 21 | Budget and state accounts | 14 | 98 | 2026-03-20 | `mcl-0021-act-1919-0071/` .. `mcl-0021-act-2018-0323/` |
+| 24 | Printing and state documents | 6 | 142 | 2026-03-24 | `mcl-0024-act-1899-0044/` .. `mcl-0024-act-1996-0101/` |
+| 26 | Supreme court reports | 5 | 19 | 2026-03-24 | `mcl-0026-act-1927-0385/` .. `mcl-0026-act-1909-0190/` |
+| 28 | Michigan state police | 48 | 363 | 2026-03-23 | `mcl-0028-act-1935-0059/` .. `mcl-0028-act-2023-0023/` |
+| 29 | Fire prevention | 14 | 132 | 2026-01-27 | `mcl-0029-act-1941-0207/` .. `mcl-0029-act-2024-0098/` |
+| 30 | Civilian defense | 4 | 30 | 2026-03-31 | `mcl-0030-act-1951-0203/` .. `mcl-0030-act-1976-0390/` |
+| 31 | Succession to office | 1 | 15 | 2026-10-30 | `mcl-0031-act-1959-0202/` |
+| 32 | Military establishment | 17 | 324 | 2026-03-30 | `mcl-0032-act-1909-0084/` .. `mcl-0032-act-1980-0523/` |
+| 33 | Naval militia | 1 | 15 | 2026-03-21 | `mcl-0033-act-1893-0184/` |
+| 35 | Veterans and members of armed forces | 50 | 252 | 2026-01-24 | `mcl-0035-act-1945-0077/` .. `mcl-0035-act-2024-0197/` |
+| 36 | Michigan veterans' facility | 2 | 17 | 2026-02-08 | `mcl-0036-act-e-r-o-no-1991-0007/` .. `mcl-0036-act-2016-0560/` |
+| 37 | Civil rights | 16 | 142 | 2026-03-23 | `mcl-0037-act-2023-0242/` .. `mcl-0037-act-e-r-o-no-1993-0013/` |
+| 38 | Civil service and retirement | 39 | 860 | 2026-03-20 | `mcl-0038-act-1943-0240/` .. `mcl-0038-act-2017-0202/` |
+| 41 | Townships | 9 | 250 | 2025-05-06 | `mcl-0041-act-r-s-of-1846/` .. `mcl-0041-act-1951-0033/` |
+| 42 | Charter townships | 1 | 46 | 2026-03-20 | `mcl-0042-act-1947-0359/` |
+| 43 | Fences and fence viewers | 1 | 9 | 2026-03-23 | `mcl-0043-act-1978-0034/` |
+| 45 | Counties | 18 | 173 | 2026-02-08 | `mcl-0045-act-r-s-of-1846/` .. `mcl-0045-act-1998-0518/` |
+| 46 | County boards of commissioners | 20 | 155 | 2026-02-01 | `mcl-0046-act-1851-0156/` .. `mcl-0046-act-1966-0261/` |
+| 47 | County auditors | 3 | 20 | 2026-03-23 | `mcl-0047-act-1913-0275/` .. `mcl-0047-act-r-s-of-1846/` |
+| 48 | County treasurers | 3 | 17 | 2026-01-26 | `mcl-0048-act-r-s-of-1846/` .. `mcl-0048-act-1919-0090/` |
+| 49 | Prosecuting attorneys | 9 | 37 | 2026-01-16 | `mcl-0049-act-1887-0072/` .. `mcl-0049-act-r-s-of-1846/` |
+| 50 | County clerks | 3 | 11 | 2026-03-23 | `mcl-0050-act-r-s-of-1846/` .. `mcl-0050-act-1921-0018/` |
+| 51 | Sheriffs | 8 | 52 | 2026-03-26 | `mcl-0051-act-r-s-of-1846/` .. `mcl-0051-act-1966-0298/` |
+| 52 | Coroners | 4 | 40 | 2026-03-26 | `mcl-0052-act-r-s-of-1846/` .. `mcl-0052-act-1953-0181/` |
+| 53 | Register of deeds | 3 | 17 | 2026-03-20 | `mcl-0053-act-r-s-of-1846/` .. `mcl-0053-act-1921-0378/` |
+| 54 | Surveyors | 9 | 79 | 2026-01-22 | `mcl-0054-act-r-s-of-1846/` .. `mcl-0054-act-2022-0081/` |
+| 55 | Notaries public | 2 | 38 | 2026-01-25 | `mcl-0055-act-r-s-of-1846/` .. `mcl-0055-act-2003-0238/` |
+| 61 | Villages | 1 | 247 | 2026-03-30 | `mcl-0061-act-1895-0003/` |
+| 440 | Uniform commercial code | 1 | 638 | 2025-03-11 | `mcl-act-1962-0174/` |
+| 450 | Corporations | 18 | 845 | 2025-03-11 | `mcl-act-1931-0327/` .. `mcl-act-1993-0023/` |
+| 554 | Real and personal property | 24 | 260 | 2025-03-11 | `mcl-act-r-s-of-1846-3/` .. `mcl-act-2022-0115/` |
+| 565 | Conveyances of real property | 39 | 201 | 2025-03-11 | `mcl-act-r-s-of-1846-5/` .. `mcl-act-2022-0006/` |
+| 750 | Michigan penal code | 1 | 900 | 2025-03-11 | `mcl-act-1931-0328/` |
 
-English. Only the section number, catch line, body text and the section's History line are taken; the Editor's notes and Commentary (case annotations) are not.
+**Source.** The Michigan Compiled Laws chapter files (XML) published by the [Michigan Legislature](https://www.legislature.mi.gov/), read from Internet Archive captures of those files. English. Only the section number, catch line, body text (including tables and paragraph headings) and the section's History line are taken; the Editor's notes and Commentary (case annotations) are not.
 
 ## Dates
 
-The Legislature's files carry the current text only. Each Act is therefore one version, "oldest version available", dated 2025-03-11, the day of the Internet Archive capture read. The XML lists the Acts that amended each section and their effective dates, but the earlier texts are not available, so that list is not history here; later builds will add later versions on top.
+The Legislature's files carry the current text only. Each Act is therefore one version, "oldest version available", dated by the day of the Internet Archive capture of its chapter file (the file states no currency date): 2025-03-11 for the five chapters of the first build, and the newest capture of each file for the chapters added on 2026-11-10. The XML lists the Acts that amended each section and their effective dates, but the earlier texts are not available, so that list is not history here; later builds will add later versions on top.
 
 ## How it is checked
 
-Every version is read back from git on the day it took effect and on the day before (`tools/check_repo.py`) and must match `corpus.json`; the results are in `REPRODUCE.md`.
+Every version is read back from git on the day it took effect and on the day before (`tools/check_repo.py`) and must match `corpus.json` and its parts; the results are in `REPRODUCE.md`. Each added chapter was also compared with its source file: every section in the file has a file here, and its letters and digits equal the file's.
 
 ## What "author" means
 
-The author of a commit is the law that made the change, with an e-mail address that cannot exist (`<law key>@legislature.mi.gov.invalid`). In this first build no dated history is available, so every commit is credited to the publisher as "oldest version available". The committer is always Lexifina.
+The author of a commit is the law that made the change, with an e-mail address that cannot exist. No dated history is available, so every commit is credited to the publisher as "oldest version available". The committer is always Lexifina.
 
 ## Limits
 
-A first build: a few chapters of the Michigan Compiled Laws (the Michigan Penal Code and other selected Acts). The other chapters, the Michigan Constitution of 1963 and the Public Acts are not included. There is no history before the date above.
+Chapters whose file the Internet Archive does not hold are not included yet; the Public Acts are not included. There is no history before the dates above. The five chapters of the first build (440, 450, 554, 565, 750) were read with an earlier reader that dropped tables, paragraph headings and some paragraph numbers inside a few sections; the chapters added later do not have that defect.
