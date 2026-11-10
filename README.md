@@ -4,7 +4,7 @@ Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git h
 
 The law of Michigan as a git history: one file per provision, with `git blame` and `git log` working line by line. It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
 
-**What is in it now (not complete)**: 99 chapters of the Michigan Compiled Laws, 1254 Acts, 19117 sections. Each Act is a folder; MCL chapter 1 is the Constitution of 1963.
+**What is in it now (not complete)**: 173 chapters of the Michigan Compiled Laws, 2092 Acts, 37073 sections. Each Act is a folder; MCL chapter 1 is the Constitution of 1963.
 
 | MCL chapter | Chapter title | Acts | Sections | Text as of | Folders |
 | ---: | --- | ---: | ---: | --- | --- |
@@ -102,8 +102,82 @@ The law of Michigan as a git history: one file per provision, with `git blame` a
 | 319 | Oil, gas, and minerals | 1 | 10 | 2026-01-23 | `mcl-0319-act-1941-0178/` |
 | 322 | State lands | 22 | 124 | 2026-03-26 | `mcl-0322-act-1941-0230/` .. `mcl-0322-act-1959-0066/` |
 | 323 | Water resources | 1 | 3 | 2026-03-21 | `mcl-0323-act-1949-0222/` |
+| 324 | Natural resources and environmental protection | 30 | 3298 | 2026-03-24 | `mcl-0324-act-1994-0451/` .. `mcl-0324-act-e-r-o-no-2019-0001/` |
+| 325 | Health | 6 | 82 | 2026-03-20 | `mcl-0325-act-1978-0312/` .. `mcl-0325-act-e-r-o-no-1991-0010/` |
+| 326 | Vital statistics | 1 | 2 | 2026-03-25 | `mcl-0326-act-1931-0035/` |
+| 327 | Local health boards | 1 | 1 | 2026-01-11 | `mcl-0327-act-1861-0215/` |
+| 328 | Dead human bodies | 2 | 29 | 2026-01-27 | `mcl-0328-act-1954-0070/` .. `mcl-0328-act-1986-0255/` |
+| 330 | Mental health code | 4 | 509 | 2026-03-23 | `mcl-0330-act-1974-0258/` .. `mcl-0330-act-e-r-o-no-1996-0001/` |
+| 331 | Hospitals | 13 | 217 | 2026-03-21 | `mcl-0331-act-1945-0047/` .. `mcl-0331-act-1987-0230/` |
+| 333 | Health | 51 | 2185 | 2026-03-24 | `mcl-0333-act-1978-0606/` .. `mcl-0333-act-2020-0220/` |
+| 336 | Air pollution | 1 | 7 | 2026-01-21 | `mcl-0336-act-1976-0384/` |
+| 338 | Professions and occupations | 23 | 310 | 2026-03-25 | `mcl-0338-act-1972-0099/` .. `mcl-0338-act-2010-0370/` |
+| 339 | Occupational code | 4 | 490 | 2026-03-30 | `mcl-0339-act-1980-0299/` .. `mcl-0339-act-e-r-o-no-2017-0001/` |
+| 380 | The revised school code | 3 | 706 | 2026-01-17 | `mcl-0380-act-1976-0451/` .. `mcl-0380-act-2023-0154/` |
+| 388 | Schools and school aid | 42 | 896 | 2026-03-23 | `mcl-0388-act-1969-0226/` .. `mcl-0388-act-2022-0180/` |
+| 389 | Community colleges | 2 | 106 | 2026-03-21 | `mcl-0389-act-1966-0331/` .. `mcl-0389-act-1969-0039/` |
+| 390 | Universities and colleges | 82 | 525 | 2026-03-25 | `mcl-0390-act-1851-0151/` .. `mcl-0390-act-2020-0366/` |
+| 393 | Deaf and blind | 6 | 62 | 2026-02-04 | `mcl-0393-act-1937-0263/` .. `mcl-0393-act-1982-0204/` |
+| 395 | Vocational training | 7 | 36 | 2026-03-23 | `mcl-0395-act-1964-0232/` .. `mcl-0395-act-2024-0256/` |
+| 397 | Libraries | 20 | 176 | 2026-03-30 | `mcl-0397-act-1982-0540/` .. `mcl-0397-act-1982-0455/` |
+| 399 | Historical records and sites | 18 | 118 | 2026-01-15 | `mcl-0399-act-1927-0054/` .. `mcl-0399-act-2016-0469/` |
+| 400 | Social services | 40 | 624 | 2026-01-22 | `mcl-0400-act-1939-0280/` .. `mcl-0400-act-e-r-o-no-1995-0017/` |
+| 401 | The poor law | 1 | 24 | 2026-03-21 | `mcl-0401-act-1925-0146/` |
+| 404 | Welfare and charity | 4 | 17 | 2026-03-24 | `mcl-0404-act-1929-0178/` .. `mcl-0404-act-1907-0068/` |
+| 408 | Labor | 33 | 343 | 2026-03-24 | `mcl-0408-act-e-r-o-no-1999-0001/` .. `mcl-0408-act-2023-0010/` |
+| 409 | Youth employment | 4 | 69 | 2026-01-22 | `mcl-0409-act-1978-0090/` .. `mcl-0409-act-1984-0022/` |
+| 418 | Worker's disability compensation | 4 | 183 | 2026-03-24 | `mcl-0418-act-e-r-o-no-1986-0003/` .. `mcl-0418-act-1969-0317/` |
+| 419 | Miscellaneous labor laws | 4 | 16 | 2026-03-21 | `mcl-0419-act-1909-0104/` .. `mcl-0419-act-1927-0019/` |
+| 421 | Employment security | 7 | 166 | 2026-01-31 | `mcl-0421-act-1936-0001/` .. `mcl-0421-act-1982-0048/` |
+| 423 | Labor disputes and employment relations | 8 | 120 | 2026-03-20 | `mcl-0423-act-1939-0176/` .. `mcl-0423-act-1978-0397/` |
+| 425 | Mines | 2 | 15 | 2026-03-22 | `mcl-0425-act-1911-0163/` .. `mcl-0425-act-1967-0091/` |
+| 426 | Forest products | 2 | 11 | 2026-03-23 | `mcl-0426-act-1879-0238/` .. `mcl-0426-act-r-s-of-1846/` |
+| 427 | Hotels | 4 | 28 | 2026-03-26 | `mcl-0427-act-1913-0188/` .. `mcl-0427-act-2001-0125/` |
+| 429 | Brands, labels, and trademarks | 6 | 37 | 2026-03-23 | `mcl-0429-act-1969-0242/` .. `mcl-0429-act-1975-0317/` |
+| 430 | Names, titles, insignia, and emblems | 5 | 20 | 2026-03-23 | `mcl-0430-act-1927-0281/` .. `mcl-0430-act-1911-0046/` |
+| 431 | Racing, boxing, and exhibitions | 3 | 51 | 2026-03-21 | `mcl-0431-act-r-s-of-1846/` .. `mcl-0431-act-1995-0279/` |
+| 432 | Gaming | 9 | 205 | 2026-03-20 | `mcl-0432-act-1972-0239/` .. `mcl-0432-act-2019-0157/` |
+| 433 | Animals running at large | 7 | 47 | 2026-02-15 | `mcl-0433-act-1976-0328/` .. `mcl-0433-act-1974-0057/` |
+| 434 | Lost and unclaimed property | 3 | 20 | 2026-02-07 | `mcl-0434-act-1987-0273/` .. `mcl-0434-act-1979-0214/` |
+| 435 | Sundays and holidays | 27 | 40 | 2026-04-02 | `mcl-0435-act-r-s-of-1846/` .. `mcl-0435-act-2024-0069/` |
+| 436 | Alcoholic beverages | 2 | 189 | 2026-03-23 | `mcl-0436-act-1913-0068/` .. `mcl-0436-act-1998-0058/` |
+| 438 | Money and interest | 6 | 19 | 2026-03-25 | `mcl-0438-act-r-s-of-1846/` .. `mcl-0438-act-1861-0140/` |
 | 440 | Uniform commercial code | 1 | 638 | 2025-03-11 | `mcl-act-1962-0174/` |
+| 441 | Fiduciary security transfers | 1 | 12 | 2026-03-26 | `mcl-0441-act-1959-0239/` |
+| 442 | Sales | 4 | 45 | 2026-03-30 | `mcl-0442-act-1961-0039/` .. `mcl-0442-act-1987-0040/` |
+| 443 | Uniform warehouse receipts act | 1 | 8 | 2026-03-25 | `mcl-0443-act-1909-0303/` |
+| 444 | Warehouses | 2 | 22 | 2026-02-08 | `mcl-0444-act-1895-0220/` .. `mcl-0444-act-1905-0147/` |
+| 445 | Trade and commerce | 97 | 775 | 2026-01-19 | `mcl-0445-act-1907-0101/` .. `mcl-0445-act-2018-0186/` |
+| 446 | Business regulation | 8 | 67 | 2026-03-26 | `mcl-0446-act-r-s-of-1846/` .. `mcl-0446-act-1917-0273/` |
+| 447 | Foreign trade | 8 | 38 | 2026-03-26 | `mcl-0447-act-1963-0154/` .. `mcl-0447-act-e-r-o-no-1994-0003/` |
+| 449 | Partnerships | 7 | 157 | 2026-02-02 | `mcl-0449-act-1917-0072/` .. `mcl-0449-act-1982-0213/` |
 | 450 | Corporations | 18 | 845 | 2025-03-11 | `mcl-act-1931-0327/` .. `mcl-act-1993-0023/` |
+| 451 | Securities, real estate, and debt management | 7 | 143 | 2026-03-21 | `mcl-0451-act-1935-0013/` .. `mcl-0451-act-2008-0551/` |
+| 453 | Agricultural associations | 18 | 65 | 2026-03-30 | `mcl-0453-act-1875-0068/` .. `mcl-0453-act-1887-0041/` |
+| 454 | Trade and labor associations | 6 | 42 | 2026-01-18 | `mcl-0454-act-1857-0188/` .. `mcl-0454-act-1891-0028/` |
+| 455 | Summer resort and park associations | 8 | 103 | 2026-02-07 | `mcl-0455-act-1897-0230/` .. `mcl-0455-act-1911-0161/` |
+| 456 | Cemetery associations | 8 | 109 | 2026-03-26 | `mcl-0456-act-1855-0087/` .. `mcl-0456-act-1968-0251/` |
+| 457 | Fraternal associations | 46 | 324 | 2026-04-01 | `mcl-0457-act-1871-0134/` .. `mcl-0457-act-1917-0055/` |
+| 458 | Ecclesiastical corporations | 19 | 170 | 2026-03-20 | `mcl-0458-act-1867-0207/` .. `mcl-0458-act-1949-0265/` |
+| 460 | Public utilities | 26 | 375 | 2026-03-30 | `mcl-0460-act-1939-0003/` .. `mcl-0460-act-2018-0365/` |
+| 462 | Railroads | 4 | 151 | 2026-03-23 | `mcl-0462-act-1909-0300/` .. `mcl-0462-act-1993-0354/` |
+| 472 | Street railways | 1 | 2 | 2026-03-20 | `mcl-0472-act-1891-0067/` |
+| 473 | Consolidated public utility companies | 5 | 13 | 2026-03-23 | `mcl-0473-act-1891-0197/` .. `mcl-0473-act-1903-0061/` |
+| 474 | State transportation | 3 | 58 | 2026-03-31 | `mcl-0474-act-2012-0341/` .. `mcl-0474-act-1982-0432/` |
+| 475 | Motor carrier act | 1 | 78 | 2026-03-20 | `mcl-0475-act-1933-0254/` |
+| 480 | Motor carrier safety | 1 | 28 | 2026-02-26 | `mcl-0480-act-1963-0181/` |
+| 482 | Bills of lading | 1 | 9 | 2026-03-23 | `mcl-0482-act-1911-0165/` |
+| 483 | Oil, gas, and brine lines | 3 | 42 | 2026-01-18 | `mcl-0483-act-1929-0016/` .. `mcl-0483-act-1969-0165/` |
+| 484 | Telephone, telegraph, and radio | 14 | 284 | 2026-05-08 | `mcl-0484-act-1883-0129/` .. `mcl-0484-act-e-r-o-no-2009-0035/` |
+| 485 | Canal, harbor, and river improvement companies | 4 | 70 | 2026-03-24 | `mcl-0485-act-1875-0233/` .. `mcl-0485-act-1889-0188/` |
+| 486 | Water and power companies | 9 | 107 | 2026-01-25 | `mcl-0486-act-1863-0232/` .. `mcl-0486-act-1956-0006/` |
+| 487 | Financial institutions | 16 | 499 | 2026-03-25 | `mcl-0487-act-1925-0349/` .. `mcl-0487-act-1999-0276/` |
+| 488 | Electronic funds transfers | 1 | 31 | 2026-03-26 | `mcl-0488-act-1978-0322/` |
+| 489 | Savings and loan associations | 1 | 3 | 2026-03-23 | `mcl-0489-act-1964-0156/` |
+| 490 | Credit unions | 3 | 113 | 2026-01-26 | `mcl-0490-act-1968-0041/` .. `mcl-0490-act-2003-0215/` |
+| 492 | Installment sales of motor vehicles | 3 | 49 | 2026-03-28 | `mcl-0492-act-2009-0229/` .. `mcl-0492-act-1969-0217/` |
+| 493 | Regulatory loans | 4 | 122 | 2026-03-23 | `mcl-0493-act-1939-0021/` .. `mcl-0493-act-1984-0379/` |
+| 500 | Insurance code of 1956 | 1 | 1843 | 2026-03-30 | `mcl-0500-act-1956-0218/` |
 | 554 | Real and personal property | 24 | 260 | 2025-03-11 | `mcl-act-r-s-of-1846-3/` .. `mcl-act-2022-0115/` |
 | 565 | Conveyances of real property | 39 | 201 | 2025-03-11 | `mcl-act-r-s-of-1846-5/` .. `mcl-act-2022-0006/` |
 | 750 | Michigan penal code | 1 | 900 | 2025-03-11 | `mcl-act-1931-0328/` |

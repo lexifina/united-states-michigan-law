@@ -1,0 +1,7 @@
+# Michigan Compiled Laws, Chapter 399 (HISTORICAL RECORDS AND SITES): Act 54 of 1927, RECORDS OF UNITED STATES LAND OFFICE
+
+MCL ch. 399, Act 54 of 1927 · 1 versions, from 2026-01-15 (latest in force: 2026-01-15) · <https://www.legislature.mi.gov/documents/mcl/Chapter%20399.xml>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| MCL 399.51 | [sec-0399-0051.md](sec-0399-0051.md) | 0 |  |
