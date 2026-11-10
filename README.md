@@ -74,4 +74,4 @@ The author of a commit is the law that made the change, with an e-mail address t
 
 ## Limits
 
-Chapters whose file the Internet Archive does not hold are not included yet; the Public Acts are not included. There is no history before the dates above. The five chapters of the first build (440, 450, 554, 565, 750) were read with an earlier reader that dropped tables, paragraph headings and some paragraph numbers inside a few sections; the chapters added later do not have that defect.
+Chapters whose file the Internet Archive does not hold are not included yet; the Public Acts are not included. There is no history before the dates above. The five chapters of the first build (440, 450, 554, 565, 750) were first read with a reader that dropped tables, paragraph headings and some paragraph numbers in 86 sections; correction commits (`Kind: correction`, 2026-11-10) give their full text for the same day.

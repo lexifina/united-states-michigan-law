@@ -692,7 +692,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `mcl-0055-act-2003-0238` | Michigan Compiled Laws, Chapter 55 (NOTARIES PUBLIC): Act 238 of 2003, Michigan law on notarial acts | 1 | 2026-01-25 to 2026-01-25 |
 | `mcl-0061-act-1895-0003` | Michigan Compiled Laws, Chapter 61 (VILLAGES): Act 3 of 1895, The general law village act | 1 | 2026-03-30 to 2026-03-30 |
 
-The build made 633 commits:
+The build made 644 commits:
 
 | Commits | Kind |
 | ---: | --- |
@@ -716,7 +716,7 @@ When a law gives no date of its own, the default rule applies: No dated text his
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `46e7ec66729063b9ec5446a5d7b798007f3b2f398f04f17aaf81ebf59415a016` (14934409 bytes).
+- Corpus: sha256 `83c2e3152b8594e6e434edac00a9f98e52aac5281f9788318af77feba043f364` (14935437 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 

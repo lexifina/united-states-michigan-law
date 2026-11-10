@@ -28,23 +28,50 @@ def cap(ch):
 
 
 def body_lines(bt):
+    """parse.py's reader, with fixes: a paragraph number holding markup ("(<Emph>l</Emph>)") is read whole (parse.py's
+    findtext kept only "("); a paragraph heading is kept; content of a paragraph that is not a <P> (tables, <pre>
+    blocks) is kept, one line per table row or per line of preformatted text."""
     root = ET.fromstring('<r>' + bt + '</r>')
     lines, sec = [], ''
+
     def para(p):
-        parts = []
-        num = p.findtext('Paragraph-Number')
-        if num:
-            parts.append(num)
-        for pp in p.findall('P'):
-            parts.append(''.join(pp.itertext()))
-        return norm(' '.join(parts))
+        head = []
+        n = p.find('Paragraph-Number')
+        num = ''.join(n.itertext()) if n is not None else ''
+        if num.strip():
+            head.append(num)
+        h = p.find('Paragraph-heading')
+        if h is not None and ''.join(h.itertext()).strip():
+            head.append(''.join(h.itertext()))
+        out, cur = [], list(head)
+        for ch in p:
+            if ch.tag in ('Paragraph-Number', 'Paragraph-heading', 'Paragraph'):
+                continue
+            if ch.tag == 'P':
+                cur.append(''.join(ch.itertext()))
+                continue
+            rows = list(ch.iter('tr')) or [ch]
+            for r in rows:
+                txt = ''.join(r.itertext())
+                for piece in (txt.split(chr(10)) if r.find('.//pre') is not None or ch.tag == 'pre' else [txt]):
+                    piece = norm(piece)
+                    if piece:
+                        out.append(piece)
+        first = norm(' '.join(cur))
+        return ([first] if first else []) + out
+    in_para = {id(h) for p in root.iter('Paragraph') for h in p.findall('Paragraph-heading')}
     for el in root.iter():
         if el.tag == 'Section-Number' and not sec:
             sec = norm(''.join(el.itertext()))
-        elif el.tag == 'Paragraph':
-            t = para(el)
+        elif el.tag == 'Paragraph-heading' and id(el) not in in_para:
+            t = norm(''.join(el.itertext()))
             if t:
-                lines.append((sec + ' ' + t).strip() if sec else t)
+                lines.append(t)
+        elif el.tag == 'Paragraph':
+            ts = para(el)
+            if ts:
+                ts[0] = (sec + ' ' + ts[0]).strip() if sec else ts[0]
+                lines += ts
                 sec = ''
     if sec:
         lines.append(sec)
