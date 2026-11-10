@@ -13258,6 +13258,4304 @@
      "sha256": "819365b8e536f0c07a8a2577b9a330c6f9f221253e51589b7a28e0f982ce6e9c"
     }
    ]
+  },
+  {
+   "slug": "mcl-0209-act-1911-0044",
+   "short": "MCL ch. 209, Act 44 of 1911",
+   "title": "Michigan Compiled Laws, Chapter 209 (STATE ASSESSMENT AND EQUALIZATION): Act 44 of 1911, STATE BOARD OF EQUALIZATION",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20209.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 10,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20209.xml",
+     "sha256": "f330d95f628c477b7ae07ebb3f735a2dcac4eeab2437585ffff17bb0dc253232"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0209-act-e-r-o-no-2006-0006",
+   "short": "MCL ch. 209, E.R.O. No. 2006-6",
+   "title": "Michigan Compiled Laws, Chapter 209 (STATE ASSESSMENT AND EQUALIZATION): E.R.O. No. 2006-6, EXECUTIVE REORGANIZATION ORDER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20209.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20209.xml",
+     "sha256": "f330d95f628c477b7ae07ebb3f735a2dcac4eeab2437585ffff17bb0dc253232"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0209-act-1927-0360",
+   "short": "MCL ch. 209, Act 360 of 1927",
+   "title": "Michigan Compiled Laws, Chapter 209 (STATE ASSESSMENT AND EQUALIZATION): Act 360 of 1927, STATE TAX COMMISSION",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20209.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 7,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20209.xml",
+     "sha256": "f330d95f628c477b7ae07ebb3f735a2dcac4eeab2437585ffff17bb0dc253232"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0209-act-1915-0133",
+   "short": "MCL ch. 209, Act 133 of 1915",
+   "title": "Michigan Compiled Laws, Chapter 209 (STATE ASSESSMENT AND EQUALIZATION): Act 133 of 1915, OATH OF PROPERTY EXAMINERS AND APPRAISERS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20209.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20209.xml",
+     "sha256": "f330d95f628c477b7ae07ebb3f735a2dcac4eeab2437585ffff17bb0dc253232"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0209-act-e-r-o-no-2009-0036",
+   "short": "MCL ch. 209, E.R.O. No. 2009-36",
+   "title": "Michigan Compiled Laws, Chapter 209 (STATE ASSESSMENT AND EQUALIZATION): E.R.O. No. 2009-36, EXECUTIVE REORGANIZATION ORDER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20209.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20209.xml",
+     "sha256": "f330d95f628c477b7ae07ebb3f735a2dcac4eeab2437585ffff17bb0dc253232"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0209-act-1925-0155",
+   "short": "MCL ch. 209, Act 155 of 1925",
+   "title": "Michigan Compiled Laws, Chapter 209 (STATE ASSESSMENT AND EQUALIZATION): Act 155 of 1925, STATE TAX DEPARTMENT",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20209.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 3,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20209.xml",
+     "sha256": "f330d95f628c477b7ae07ebb3f735a2dcac4eeab2437585ffff17bb0dc253232"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0211-act-1893-0206",
+   "short": "MCL ch. 211, Act 206 of 1893",
+   "title": "Michigan Compiled Laws, Chapter 211 (TAXATION OF REAL AND PERSONAL PROPERTY): Act 206 of 1893, The general property tax act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 288,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+     "sha256": "a0452b9293fa9719498648e76ad8efa1ec2c95a0959673e26efb16497f4196a4"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0211-act-1953-0189",
+   "short": "MCL ch. 211, Act 189 of 1953",
+   "title": "Michigan Compiled Laws, Chapter 211 (TAXATION OF REAL AND PERSONAL PROPERTY): Act 189 of 1953, TAXATION OF LESSEES OR USERS OF TAX-EXEMPT PROPERTY",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 3,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+     "sha256": "a0452b9293fa9719498648e76ad8efa1ec2c95a0959673e26efb16497f4196a4"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0211-act-1970-0117",
+   "short": "MCL ch. 211, Act 117 of 1970",
+   "title": "Michigan Compiled Laws, Chapter 211 (TAXATION OF REAL AND PERSONAL PROPERTY): Act 117 of 1970, STATUS OF PROPERTY FOR TAXATION",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+     "sha256": "a0452b9293fa9719498648e76ad8efa1ec2c95a0959673e26efb16497f4196a4"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0211-act-1933-0062",
+   "short": "MCL ch. 211, Act 62 of 1933",
+   "title": "Michigan Compiled Laws, Chapter 211 (TAXATION OF REAL AND PERSONAL PROPERTY): Act 62 of 1933, Property tax limitation act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 33,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+     "sha256": "a0452b9293fa9719498648e76ad8efa1ec2c95a0959673e26efb16497f4196a4"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0211-act-1933-0162",
+   "short": "MCL ch. 211, Act 162 of 1933",
+   "title": "Michigan Compiled Laws, Chapter 211 (TAXATION OF REAL AND PERSONAL PROPERTY): Act 162 of 1933, ADDITIONAL TAXES IN MUNICIPAL SCHOOL DISTRICTS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 6,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+     "sha256": "a0452b9293fa9719498648e76ad8efa1ec2c95a0959673e26efb16497f4196a4"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0211-act-e-r-o-no-2004-0001",
+   "short": "MCL ch. 211, E.R.O. No. 2004-1",
+   "title": "Michigan Compiled Laws, Chapter 211 (TAXATION OF REAL AND PERSONAL PROPERTY): E.R.O. No. 2004-1, EXECUTIVE REORGANIZATION ORDER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+     "sha256": "a0452b9293fa9719498648e76ad8efa1ec2c95a0959673e26efb16497f4196a4"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0211-act-1943-0092",
+   "short": "MCL ch. 211, Act 92 of 1943",
+   "title": "Michigan Compiled Laws, Chapter 211 (TAXATION OF REAL AND PERSONAL PROPERTY): Act 92 of 1943, WITHHOLDING LANDS FROM SALE",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+     "sha256": "a0452b9293fa9719498648e76ad8efa1ec2c95a0959673e26efb16497f4196a4"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0211-act-1931-0218",
+   "short": "MCL ch. 211, Act 218 of 1931",
+   "title": "Michigan Compiled Laws, Chapter 211 (TAXATION OF REAL AND PERSONAL PROPERTY): Act 218 of 1931, ERRONEOUSLY ASSESSED TAXES; CIVIL REMEDY",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+     "sha256": "a0452b9293fa9719498648e76ad8efa1ec2c95a0959673e26efb16497f4196a4"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0211-act-1931-0292",
+   "short": "MCL ch. 211, Act 292 of 1931",
+   "title": "Michigan Compiled Laws, Chapter 211 (TAXATION OF REAL AND PERSONAL PROPERTY): Act 292 of 1931, EXTENSION OF TIME FOR PAYMENT OF DRAIN TAXES OR HIGHWAY ASSESSMENTS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+     "sha256": "a0452b9293fa9719498648e76ad8efa1ec2c95a0959673e26efb16497f4196a4"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0211-act-1933-0133",
+   "short": "MCL ch. 211, Act 133 of 1933",
+   "title": "Michigan Compiled Laws, Chapter 211 (TAXATION OF REAL AND PERSONAL PROPERTY): Act 133 of 1933, ACCEPTANCE OF CERTAIN BONDS AND OBLIGATIONS IN PAYMENT OF TAXES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 7,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+     "sha256": "a0452b9293fa9719498648e76ad8efa1ec2c95a0959673e26efb16497f4196a4"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0211-act-1931-0260",
+   "short": "MCL ch. 211, Act 260 of 1931",
+   "title": "Michigan Compiled Laws, Chapter 211 (TAXATION OF REAL AND PERSONAL PROPERTY): Act 260 of 1931, PURCHASE OF DELINQUENT TAX LANDS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+     "sha256": "a0452b9293fa9719498648e76ad8efa1ec2c95a0959673e26efb16497f4196a4"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0211-act-1903-0084",
+   "short": "MCL ch. 211, Act 84 of 1903",
+   "title": "Michigan Compiled Laws, Chapter 211 (TAXATION OF REAL AND PERSONAL PROPERTY): Act 84 of 1903, TAX HOMESTEAD LANDS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+     "sha256": "a0452b9293fa9719498648e76ad8efa1ec2c95a0959673e26efb16497f4196a4"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0211-act-1905-0211",
+   "short": "MCL ch. 211, Act 211 of 1905",
+   "title": "Michigan Compiled Laws, Chapter 211 (TAXATION OF REAL AND PERSONAL PROPERTY): Act 211 of 1905, DEEDS MADE UPON SALE OF RESERVED LAND AS EVIDENCE OF TITLE",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+     "sha256": "a0452b9293fa9719498648e76ad8efa1ec2c95a0959673e26efb16497f4196a4"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0211-act-1907-0130",
+   "short": "MCL ch. 211, Act 130 of 1907",
+   "title": "Michigan Compiled Laws, Chapter 211 (TAXATION OF REAL AND PERSONAL PROPERTY): Act 130 of 1907, REFUND OF PURCHASE PRICE AND CANCELLATION OF CONVEYANCE",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+     "sha256": "a0452b9293fa9719498648e76ad8efa1ec2c95a0959673e26efb16497f4196a4"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0211-act-1929-0234",
+   "short": "MCL ch. 211, Act 234 of 1929",
+   "title": "Michigan Compiled Laws, Chapter 211 (TAXATION OF REAL AND PERSONAL PROPERTY): Act 234 of 1929, PUBLIC IMPROVEMENT ASSESSMENTS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 2,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+     "sha256": "a0452b9293fa9719498648e76ad8efa1ec2c95a0959673e26efb16497f4196a4"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0211-act-1889-0223",
+   "short": "MCL ch. 211, Act 223 of 1889",
+   "title": "Michigan Compiled Laws, Chapter 211 (TAXATION OF REAL AND PERSONAL PROPERTY): Act 223 of 1889, INJUNCTIONS TO RESTRAIN WASTE",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+     "sha256": "a0452b9293fa9719498648e76ad8efa1ec2c95a0959673e26efb16497f4196a4"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0211-act-1873-0006",
+   "short": "MCL ch. 211, Act 6 of 1873",
+   "title": "Michigan Compiled Laws, Chapter 211 (TAXATION OF REAL AND PERSONAL PROPERTY): Act 6 of 1873, IRREGULAR OR ILLEGAL TAXES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 2,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+     "sha256": "a0452b9293fa9719498648e76ad8efa1ec2c95a0959673e26efb16497f4196a4"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0211-act-1897-0263",
+   "short": "MCL ch. 211, Act 263 of 1897",
+   "title": "Michigan Compiled Laws, Chapter 211 (TAXATION OF REAL AND PERSONAL PROPERTY): Act 263 of 1897, TAXES ON STATE TAX LANDS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+     "sha256": "a0452b9293fa9719498648e76ad8efa1ec2c95a0959673e26efb16497f4196a4"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0211-act-1891-0143",
+   "short": "MCL ch. 211, Act 143 of 1891",
+   "title": "Michigan Compiled Laws, Chapter 211 (TAXATION OF REAL AND PERSONAL PROPERTY): Act 143 of 1891, EXEMPTION OF WOMEN'S AUXILIARY ASSOCIATION OF THE UNIVERSITY OF MICHIGAN",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+     "sha256": "a0452b9293fa9719498648e76ad8efa1ec2c95a0959673e26efb16497f4196a4"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0211-act-1909-0088",
+   "short": "MCL ch. 211, Act 88 of 1909",
+   "title": "Michigan Compiled Laws, Chapter 211 (TAXATION OF REAL AND PERSONAL PROPERTY): Act 88 of 1909, EXEMPTION OF MUNICIPAL BONDS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+     "sha256": "a0452b9293fa9719498648e76ad8efa1ec2c95a0959673e26efb16497f4196a4"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0211-act-1951-0077",
+   "short": "MCL ch. 211, Act 77 of 1951",
+   "title": "Michigan Compiled Laws, Chapter 211 (TAXATION OF REAL AND PERSONAL PROPERTY): Act 77 of 1951, TAX ON LOW GRADE IRON ORE",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 6,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+     "sha256": "a0452b9293fa9719498648e76ad8efa1ec2c95a0959673e26efb16497f4196a4"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0211-act-1951-0107",
+   "short": "MCL ch. 211, Act 107 of 1951",
+   "title": "Michigan Compiled Laws, Chapter 211 (TAXATION OF REAL AND PERSONAL PROPERTY): Act 107 of 1951, SALE OF TAX LANDS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+     "sha256": "a0452b9293fa9719498648e76ad8efa1ec2c95a0959673e26efb16497f4196a4"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0211-act-1952-0188",
+   "short": "MCL ch. 211, Act 188 of 1952",
+   "title": "Michigan Compiled Laws, Chapter 211 (TAXATION OF REAL AND PERSONAL PROPERTY): Act 188 of 1952, SALE OF PROPERTY ACQUIRED FOR PUBLIC USE",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+     "sha256": "a0452b9293fa9719498648e76ad8efa1ec2c95a0959673e26efb16497f4196a4"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0211-act-1983-0102",
+   "short": "MCL ch. 211, Act 102 of 1983",
+   "title": "Michigan Compiled Laws, Chapter 211 (TAXATION OF REAL AND PERSONAL PROPERTY): Act 102 of 1983, Uniform federal lien registration act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 8,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+     "sha256": "a0452b9293fa9719498648e76ad8efa1ec2c95a0959673e26efb16497f4196a4"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0211-act-1968-0203",
+   "short": "MCL ch. 211, Act 203 of 1968",
+   "title": "Michigan Compiled Laws, Chapter 211 (TAXATION OF REAL AND PERSONAL PROPERTY): Act 203 of 1968, State tax lien registration act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 7,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+     "sha256": "a0452b9293fa9719498648e76ad8efa1ec2c95a0959673e26efb16497f4196a4"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0211-act-1956-0055",
+   "short": "MCL ch. 211, Act 55 of 1956",
+   "title": "Michigan Compiled Laws, Chapter 211 (TAXATION OF REAL AND PERSONAL PROPERTY): Act 55 of 1956, JEOPARDY ASSESSMENT OF PERSONAL PROPERTY TAXES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 7,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+     "sha256": "a0452b9293fa9719498648e76ad8efa1ec2c95a0959673e26efb16497f4196a4"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0211-act-1961-0129",
+   "short": "MCL ch. 211, Act 129 of 1961",
+   "title": "Michigan Compiled Laws, Chapter 211 (TAXATION OF REAL AND PERSONAL PROPERTY): Act 129 of 1961, RECONVEYANCE OF PROPERTY SOLD FOR TAXES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+     "sha256": "a0452b9293fa9719498648e76ad8efa1ec2c95a0959673e26efb16497f4196a4"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0211-act-1972-0160",
+   "short": "MCL ch. 211, Act 160 of 1972",
+   "title": "Michigan Compiled Laws, Chapter 211 (TAXATION OF REAL AND PERSONAL PROPERTY): Act 160 of 1972, AGREEMENT FOR ASSESSMENT AND COLLECTION OF TAXES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+     "sha256": "a0452b9293fa9719498648e76ad8efa1ec2c95a0959673e26efb16497f4196a4"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0211-act-1962-0162",
+   "short": "MCL ch. 211, Act 162 of 1962",
+   "title": "Michigan Compiled Laws, Chapter 211 (TAXATION OF REAL AND PERSONAL PROPERTY): Act 162 of 1962, NOTICE OF SPECIAL ASSESSMENT HEARINGS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 6,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+     "sha256": "a0452b9293fa9719498648e76ad8efa1ec2c95a0959673e26efb16497f4196a4"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0211-act-1976-0225",
+   "short": "MCL ch. 211, Act 225 of 1976",
+   "title": "Michigan Compiled Laws, Chapter 211 (TAXATION OF REAL AND PERSONAL PROPERTY): Act 225 of 1976, DEFERMENT OF SPECIAL ASSESSMENTS ON HOMESTEADS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 11,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+     "sha256": "a0452b9293fa9719498648e76ad8efa1ec2c95a0959673e26efb16497f4196a4"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0211-act-2012-0410",
+   "short": "MCL ch. 211, Act 410 of 2012",
+   "title": "Michigan Compiled Laws, Chapter 211 (TAXATION OF REAL AND PERSONAL PROPERTY): Act 410 of 2012, Nonferrous metallic minerals extraction severance tax act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 11,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+     "sha256": "a0452b9293fa9719498648e76ad8efa1ec2c95a0959673e26efb16497f4196a4"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0211-act-1977-0070",
+   "short": "MCL ch. 211, Act 70 of 1977",
+   "title": "Michigan Compiled Laws, Chapter 211 (TAXATION OF REAL AND PERSONAL PROPERTY): Act 70 of 1977, REIMBURSEMENT FOR TAXES LOST DUE TO ESTABLISHMENT OF NATIONAL PARKS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+     "sha256": "a0452b9293fa9719498648e76ad8efa1ec2c95a0959673e26efb16497f4196a4"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0211-act-1993-0331",
+   "short": "MCL ch. 211, Act 331 of 1993",
+   "title": "Michigan Compiled Laws, Chapter 211 (TAXATION OF REAL AND PERSONAL PROPERTY): Act 331 of 1993, State education tax act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 9,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+     "sha256": "a0452b9293fa9719498648e76ad8efa1ec2c95a0959673e26efb16497f4196a4"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0211-act-1999-0132",
+   "short": "MCL ch. 211, Act 132 of 1999",
+   "title": "Michigan Compiled Laws, Chapter 211 (TAXATION OF REAL AND PERSONAL PROPERTY): Act 132 of 1999, Certification of abandoned property for accelerated forfeiture act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 6,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+     "sha256": "a0452b9293fa9719498648e76ad8efa1ec2c95a0959673e26efb16497f4196a4"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0211-act-2014-0512",
+   "short": "MCL ch. 211, Act 512 of 2014",
+   "title": "Michigan Compiled Laws, Chapter 211 (TAXATION OF REAL AND PERSONAL PROPERTY): Act 512 of 2014, Eligible hydroponics and eligible aquaculture production facilities specific tax act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 6,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+     "sha256": "a0452b9293fa9719498648e76ad8efa1ec2c95a0959673e26efb16497f4196a4"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0211-act-2000-0261",
+   "short": "MCL ch. 211, Act 261 of 2000",
+   "title": "Michigan Compiled Laws, Chapter 211 (TAXATION OF REAL AND PERSONAL PROPERTY): Act 261 of 2000, Agricultural property recapture act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 7,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+     "sha256": "a0452b9293fa9719498648e76ad8efa1ec2c95a0959673e26efb16497f4196a4"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0211-act-2003-0260",
+   "short": "MCL ch. 211, Act 260 of 2003",
+   "title": "Michigan Compiled Laws, Chapter 211 (TAXATION OF REAL AND PERSONAL PROPERTY): Act 260 of 2003, Tax reverted clean title act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 7,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+     "sha256": "a0452b9293fa9719498648e76ad8efa1ec2c95a0959673e26efb16497f4196a4"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0211-act-2006-0379",
+   "short": "MCL ch. 211, Act 379 of 2006",
+   "title": "Michigan Compiled Laws, Chapter 211 (TAXATION OF REAL AND PERSONAL PROPERTY): Act 379 of 2006, Qualified forest property recapture tax act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 6,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+     "sha256": "a0452b9293fa9719498648e76ad8efa1ec2c95a0959673e26efb16497f4196a4"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0211-act-2014-0092",
+   "short": "MCL ch. 211, Act 92 of 2014",
+   "title": "Michigan Compiled Laws, Chapter 211 (TAXATION OF REAL AND PERSONAL PROPERTY): Act 92 of 2014, State essential services assessment act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 7,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+     "sha256": "a0452b9293fa9719498648e76ad8efa1ec2c95a0959673e26efb16497f4196a4"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0211-act-2014-0093",
+   "short": "MCL ch. 211, Act 93 of 2014",
+   "title": "Michigan Compiled Laws, Chapter 211 (TAXATION OF REAL AND PERSONAL PROPERTY): Act 93 of 2014, Alternative state essential services assessment act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+     "sha256": "a0452b9293fa9719498648e76ad8efa1ec2c95a0959673e26efb16497f4196a4"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0211-act-2016-0260",
+   "short": "MCL ch. 211, Act 260 of 2016",
+   "title": "Michigan Compiled Laws, Chapter 211 (TAXATION OF REAL AND PERSONAL PROPERTY): Act 260 of 2016, Transitional qualified forest property specific tax act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 11,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+     "sha256": "a0452b9293fa9719498648e76ad8efa1ec2c95a0959673e26efb16497f4196a4"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0211-act-2022-0035",
+   "short": "MCL ch. 211, Act 35 of 2022",
+   "title": "Michigan Compiled Laws, Chapter 211 (TAXATION OF REAL AND PERSONAL PROPERTY): Act 35 of 2022, Qualified heavy equipment rental personal property specific tax act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 7,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+     "sha256": "a0452b9293fa9719498648e76ad8efa1ec2c95a0959673e26efb16497f4196a4"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0211-act-2023-0108",
+   "short": "MCL ch. 211, Act 108 of 2023",
+   "title": "Michigan Compiled Laws, Chapter 211 (TAXATION OF REAL AND PERSONAL PROPERTY): Act 108 of 2023, Solar energy facilities taxation act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 15,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20211.xml",
+     "sha256": "a0452b9293fa9719498648e76ad8efa1ec2c95a0959673e26efb16497f4196a4"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0213-act-1911-0236",
+   "short": "MCL ch. 213, Act 236 of 1911",
+   "title": "Michigan Compiled Laws, Chapter 213 (CONDEMNATION): Act 236 of 1911, CONDEMNATION BY STATE",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20213.xml",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 4,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20213.xml",
+     "sha256": "34ffa86942a0fca3525b3440a190c30b29360555e75b436eb42d9816ff1aae2c"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0213-act-1911-0149",
+   "short": "MCL ch. 213, Act 149 of 1911",
+   "title": "Michigan Compiled Laws, Chapter 213 (CONDEMNATION): Act 149 of 1911, ACQUISITION OF PROPERTY BY STATE AGENCIES AND PUBLIC CORPORATIONS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20213.xml",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 7,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20213.xml",
+     "sha256": "34ffa86942a0fca3525b3440a190c30b29360555e75b436eb42d9816ff1aae2c"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0213-act-1980-0087",
+   "short": "MCL ch. 213, Act 87 of 1980",
+   "title": "Michigan Compiled Laws, Chapter 213 (CONDEMNATION): Act 87 of 1980, The uniform condemnation procedures act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20213.xml",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 29,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20213.xml",
+     "sha256": "34ffa86942a0fca3525b3440a190c30b29360555e75b436eb42d9816ff1aae2c"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0213-act-1919-0119",
+   "short": "MCL ch. 213, Act 119 of 1919",
+   "title": "Michigan Compiled Laws, Chapter 213 (CONDEMNATION): Act 119 of 1919, TAKING OF PUBLIC UTILITY BY CITY",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20213.xml",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 24,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20213.xml",
+     "sha256": "34ffa86942a0fca3525b3440a190c30b29360555e75b436eb42d9816ff1aae2c"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0213-act-1925-0215",
+   "short": "MCL ch. 213, Act 215 of 1925",
+   "title": "Michigan Compiled Laws, Chapter 213 (CONDEMNATION): Act 215 of 1925, ACQUIRING RAILROAD OR PUBLIC UTILITY RIGHT OF WAY FOR TRUNK LINE HIGHWAY",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20213.xml",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 3,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20213.xml",
+     "sha256": "34ffa86942a0fca3525b3440a190c30b29360555e75b436eb42d9816ff1aae2c"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0213-act-1925-0352",
+   "short": "MCL ch. 213, Act 352 of 1925",
+   "title": "Michigan Compiled Laws, Chapter 213 (CONDEMNATION): Act 352 of 1925, ACQUIRING PROPERTY FOR HIGHWAY PURPOSES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20213.xml",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 29,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20213.xml",
+     "sha256": "34ffa86942a0fca3525b3440a190c30b29360555e75b436eb42d9816ff1aae2c"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0213-act-1929-0190",
+   "short": "MCL ch. 213, Act 190 of 1929",
+   "title": "Michigan Compiled Laws, Chapter 213 (CONDEMNATION): Act 190 of 1929, ACQUIRING PROPERTY FOR BOULEVARD, STREET, OR ALLEY",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20213.xml",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 3,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20213.xml",
+     "sha256": "34ffa86942a0fca3525b3440a190c30b29360555e75b436eb42d9816ff1aae2c"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0213-act-1945-0140",
+   "short": "MCL ch. 213, Act 140 of 1945",
+   "title": "Michigan Compiled Laws, Chapter 213 (CONDEMNATION): Act 140 of 1945, ACQUISITION OF OVERHEAD AND UNDERGROUND RIGHTS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20213.xml",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20213.xml",
+     "sha256": "34ffa86942a0fca3525b3440a190c30b29360555e75b436eb42d9816ff1aae2c"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0213-act-1927-0379",
+   "short": "MCL ch. 213, Act 379 of 1927",
+   "title": "Michigan Compiled Laws, Chapter 213 (CONDEMNATION): Act 379 of 1927, SERVICE ON UNKNOWN OWNERS OR CLAIMANTS IN CONDEMNATION PROCEEDINGS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20213.xml",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20213.xml",
+     "sha256": "34ffa86942a0fca3525b3440a190c30b29360555e75b436eb42d9816ff1aae2c"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0213-act-1931-0270",
+   "short": "MCL ch. 213, Act 270 of 1931",
+   "title": "Michigan Compiled Laws, Chapter 213 (CONDEMNATION): Act 270 of 1931, APPLICATION OF CONDEMNATION AWARDS AGAINST TAXES AND SPECIAL ASSESSMENTS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20213.xml",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20213.xml",
+     "sha256": "34ffa86942a0fca3525b3440a190c30b29360555e75b436eb42d9816ff1aae2c"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0213-act-1957-0288",
+   "short": "MCL ch. 213, Act 288 of 1957",
+   "title": "Michigan Compiled Laws, Chapter 213 (CONDEMNATION): Act 288 of 1957, TAKING PROPERTY OF PUBLIC HOSPITAL, COLLEGE, OR UNIVERSITY",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20213.xml",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 4,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20213.xml",
+     "sha256": "34ffa86942a0fca3525b3440a190c30b29360555e75b436eb42d9816ff1aae2c"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0213-act-1972-0227",
+   "short": "MCL ch. 213, Act 227 of 1972",
+   "title": "Michigan Compiled Laws, Chapter 213 (CONDEMNATION): Act 227 of 1972, RELOCATION ASSISTANCE",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20213.xml",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 12,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20213.xml",
+     "sha256": "34ffa86942a0fca3525b3440a190c30b29360555e75b436eb42d9816ff1aae2c"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0213-act-1965-0040",
+   "short": "MCL ch. 213, Act 40 of 1965",
+   "title": "Michigan Compiled Laws, Chapter 213 (CONDEMNATION): Act 40 of 1965, ALLOWANCES FOR MOVING PERSONAL PROPERTY FROM ACQUIRED REAL PROPERTY",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20213.xml",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20213.xml",
+     "sha256": "34ffa86942a0fca3525b3440a190c30b29360555e75b436eb42d9816ff1aae2c"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0213-act-1966-0295",
+   "short": "MCL ch. 213, Act 295 of 1966",
+   "title": "Michigan Compiled Laws, Chapter 213 (CONDEMNATION): Act 295 of 1966, ACQUISITION OF PROPERTY FOR PUBLIC HIGHWAYS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20213.xml",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 7,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20213.xml",
+     "sha256": "34ffa86942a0fca3525b3440a190c30b29360555e75b436eb42d9816ff1aae2c"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0220-act-1909-0283",
+   "short": "MCL ch. 220, Act 283 of 1909",
+   "title": "Michigan Compiled Laws, Chapter 220 (GENERAL HIGHWAY LAW): Act 283 of 1909, PUBLIC HIGHWAYS AND PRIVATE ROADS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20220.xml",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 113,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20220.xml",
+     "sha256": "dd00791c36489c38ec54920349350860369d75458f5646aa06c8ebacd0b9ee23"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0247-act-1927-0341",
+   "short": "MCL ch. 247, Act 341 of 1927",
+   "title": "Michigan Compiled Laws, Chapter 247 (HIGHWAYS): Act 341 of 1927, DISCONTINUATION OF HIGHWAY BORDERING LAKE OR STREAM",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 6,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+     "sha256": "54d6477b9f0c2602d97d8b471ff338f99463a6f2182e3658a31de4de6503cbcb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0247-act-1941-0359",
+   "short": "MCL ch. 247, Act 359 of 1941",
+   "title": "Michigan Compiled Laws, Chapter 247 (HIGHWAYS): Act 359 of 1941, NOXIOUS WEEDS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 13,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+     "sha256": "54d6477b9f0c2602d97d8b471ff338f99463a6f2182e3658a31de4de6503cbcb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0247-act-1917-0253",
+   "short": "MCL ch. 247, Act 253 of 1917",
+   "title": "Michigan Compiled Laws, Chapter 247 (HIGHWAYS): Act 253 of 1917, TRANSFERS FROM GENERAL FUND TO COUNTY ROAD FUND",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+     "sha256": "54d6477b9f0c2602d97d8b471ff338f99463a6f2182e3658a31de4de6503cbcb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0247-act-1925-0368",
+   "short": "MCL ch. 247, Act 368 of 1925",
+   "title": "Michigan Compiled Laws, Chapter 247 (HIGHWAYS): Act 368 of 1925, HIGHWAY OBSTRUCTIONS AND ENCROACHMENTS; USE OF HIGHWAY BY PUBLIC UTILITIES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 23,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+     "sha256": "54d6477b9f0c2602d97d8b471ff338f99463a6f2182e3658a31de4de6503cbcb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0247-act-1913-0393",
+   "short": "MCL ch. 247, Act 393 of 1913",
+   "title": "Michigan Compiled Laws, Chapter 247 (HIGHWAYS): Act 393 of 1913, PRIVATE ROADS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+     "sha256": "54d6477b9f0c2602d97d8b471ff338f99463a6f2182e3658a31de4de6503cbcb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0247-act-1915-0172",
+   "short": "MCL ch. 247, Act 172 of 1915",
+   "title": "Michigan Compiled Laws, Chapter 247 (HIGHWAYS): Act 172 of 1915, ROADS TO ISOLATED LANDS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+     "sha256": "54d6477b9f0c2602d97d8b471ff338f99463a6f2182e3658a31de4de6503cbcb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0247-act-1921-0283",
+   "short": "MCL ch. 247, Act 283 of 1921",
+   "title": "Michigan Compiled Laws, Chapter 247 (HIGHWAYS): Act 283 of 1921, TEMPORARY HIGHWAYS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+     "sha256": "54d6477b9f0c2602d97d8b471ff338f99463a6f2182e3658a31de4de6503cbcb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0247-act-1921-0002",
+   "short": "MCL ch. 247, Act 2 of 1921 (1st Ex. Sess.)",
+   "title": "Michigan Compiled Laws, Chapter 247 (HIGHWAYS): Act 2 of 1921 (1st Ex. Sess.), TREES AND SHRUBS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 2,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+     "sha256": "54d6477b9f0c2602d97d8b471ff338f99463a6f2182e3658a31de4de6503cbcb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0247-act-1917-0165",
+   "short": "MCL ch. 247, Act 165 of 1917",
+   "title": "Michigan Compiled Laws, Chapter 247 (HIGHWAYS): Act 165 of 1917, CLOSING ROADS UNDER CONSTRUCTION OR REPAIR",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+     "sha256": "54d6477b9f0c2602d97d8b471ff338f99463a6f2182e3658a31de4de6503cbcb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0247-act-1937-0295",
+   "short": "MCL ch. 247, Act 295 of 1937",
+   "title": "Michigan Compiled Laws, Chapter 247 (HIGHWAYS): Act 295 of 1937, MECHANICALLY OPERATED BARRICADING DEVICES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 4,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+     "sha256": "54d6477b9f0c2602d97d8b471ff338f99463a6f2182e3658a31de4de6503cbcb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0247-act-1969-0200",
+   "short": "MCL ch. 247, Act 200 of 1969",
+   "title": "Michigan Compiled Laws, Chapter 247 (HIGHWAYS): Act 200 of 1969, DRIVEWAYS, BANNERS, AND PARADES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 9,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+     "sha256": "54d6477b9f0c2602d97d8b471ff338f99463a6f2182e3658a31de4de6503cbcb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0247-act-1959-0096",
+   "short": "MCL ch. 247, Act 96 of 1959",
+   "title": "Michigan Compiled Laws, Chapter 247 (HIGHWAYS): Act 96 of 1959, BUS PASSENGER SHELTERS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 6,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+     "sha256": "54d6477b9f0c2602d97d8b471ff338f99463a6f2182e3658a31de4de6503cbcb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0247-act-1972-0140",
+   "short": "MCL ch. 247, Act 140 of 1972",
+   "title": "Michigan Compiled Laws, Chapter 247 (HIGHWAYS): Act 140 of 1972, SIGNS MARKING TOWNSHIP LIMITS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+     "sha256": "54d6477b9f0c2602d97d8b471ff338f99463a6f2182e3658a31de4de6503cbcb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0247-act-1956-0111",
+   "short": "MCL ch. 247, Act 111 of 1956",
+   "title": "Michigan Compiled Laws, Chapter 247 (HIGHWAYS): Act 111 of 1956, HIGHWAYS WITHIN TOWNSHIPS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 6,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+     "sha256": "54d6477b9f0c2602d97d8b471ff338f99463a6f2182e3658a31de4de6503cbcb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0247-act-1965-0387",
+   "short": "MCL ch. 247, Act 387 of 1965",
+   "title": "Michigan Compiled Laws, Chapter 247 (HIGHWAYS): Act 387 of 1965, SNOW REMOVAL FROM PRIVATE WAYS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 3,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+     "sha256": "54d6477b9f0c2602d97d8b471ff338f99463a6f2182e3658a31de4de6503cbcb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0247-act-1972-0139",
+   "short": "MCL ch. 247, Act 139 of 1972",
+   "title": "Michigan Compiled Laws, Chapter 247 (HIGHWAYS): Act 139 of 1972, MAINTENANCE OF PRIVATE ROADS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 8,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+     "sha256": "54d6477b9f0c2602d97d8b471ff338f99463a6f2182e3658a31de4de6503cbcb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0247-act-1996-0299",
+   "short": "MCL ch. 247, Act 299 of 1996",
+   "title": "Michigan Compiled Laws, Chapter 247 (HIGHWAYS): Act 299 of 1996, TOURIST-ORIENTED DIRECTIONAL SIGNS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+     "sha256": "54d6477b9f0c2602d97d8b471ff338f99463a6f2182e3658a31de4de6503cbcb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0247-act-1915-0059",
+   "short": "MCL ch. 247, Act 59 of 1915",
+   "title": "Michigan Compiled Laws, Chapter 247 (HIGHWAYS): Act 59 of 1915, CONSTRUCTION, IMPROVEMENT, AND MAINTENANCE OF HIGHWAYS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 62,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+     "sha256": "54d6477b9f0c2602d97d8b471ff338f99463a6f2182e3658a31de4de6503cbcb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0247-act-1951-0051",
+   "short": "MCL ch. 247, Act 51 of 1951",
+   "title": "Michigan Compiled Laws, Chapter 247 (HIGHWAYS): Act 51 of 1951, STATE TRUNK LINE HIGHWAY SYSTEM",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 92,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+     "sha256": "54d6477b9f0c2602d97d8b471ff338f99463a6f2182e3658a31de4de6503cbcb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0247-act-e-r-o-no-1997-0006",
+   "short": "MCL ch. 247, E.R.O. No. 1997-6",
+   "title": "Michigan Compiled Laws, Chapter 247 (HIGHWAYS): E.R.O. No. 1997-6, EXECUTIVE REORGANIZATION ORDER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+     "sha256": "54d6477b9f0c2602d97d8b471ff338f99463a6f2182e3658a31de4de6503cbcb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0247-act-e-r-o-no-2009-0034",
+   "short": "MCL ch. 247, E.R.O. No. 2009-34",
+   "title": "Michigan Compiled Laws, Chapter 247 (HIGHWAYS): E.R.O. No. 2009-34, EXECUTIVE REORGANIZATION ORDER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+     "sha256": "54d6477b9f0c2602d97d8b471ff338f99463a6f2182e3658a31de4de6503cbcb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0247-act-1952-0175",
+   "short": "MCL ch. 247, Act 175 of 1952",
+   "title": "Michigan Compiled Laws, Chapter 247 (HIGHWAYS): Act 175 of 1952, BORROWING FROM MOTOR VEHICLE HIGHWAY FUND",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 7,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+     "sha256": "54d6477b9f0c2602d97d8b471ff338f99463a6f2182e3658a31de4de6503cbcb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0247-act-1959-0208",
+   "short": "MCL ch. 247, Act 208 of 1959",
+   "title": "Michigan Compiled Laws, Chapter 247 (HIGHWAYS): Act 208 of 1959, SURVEYS ON PUBLIC AND PRIVATE PROPERTY",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+     "sha256": "54d6477b9f0c2602d97d8b471ff338f99463a6f2182e3658a31de4de6503cbcb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0247-act-2018-0063",
+   "short": "MCL ch. 247, Act 63 of 2018",
+   "title": "Michigan Compiled Laws, Chapter 247 (HIGHWAYS): Act 63 of 2018, RAIL FIXED GUIDEWAY PUBLIC TRANSPORTATION SYSTEMS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 4,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+     "sha256": "54d6477b9f0c2602d97d8b471ff338f99463a6f2182e3658a31de4de6503cbcb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0247-act-1964-0286",
+   "short": "MCL ch. 247, Act 286 of 1964",
+   "title": "Michigan Compiled Laws, Chapter 247 (HIGHWAYS): Act 286 of 1964, STATE TRANSPORTATION COMMISSION",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 22,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+     "sha256": "54d6477b9f0c2602d97d8b471ff338f99463a6f2182e3658a31de4de6503cbcb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0247-act-e-r-o-no-1973-0001",
+   "short": "MCL ch. 247, E.R.O. No. 1973-1",
+   "title": "Michigan Compiled Laws, Chapter 247 (HIGHWAYS): E.R.O. No. 1973-1, EXECUTIVE REORGANIZATION ORDER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+     "sha256": "54d6477b9f0c2602d97d8b471ff338f99463a6f2182e3658a31de4de6503cbcb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0247-act-e-r-o-no-1975-0001",
+   "short": "MCL ch. 247, E.R.O. No. 1975-1",
+   "title": "Michigan Compiled Laws, Chapter 247 (HIGHWAYS): E.R.O. No. 1975-1, EXECUTIVE REORGANIZATION ORDER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+     "sha256": "54d6477b9f0c2602d97d8b471ff338f99463a6f2182e3658a31de4de6503cbcb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0247-act-e-r-o-no-1982-0003",
+   "short": "MCL ch. 247, E.R.O. No. 1982-3",
+   "title": "Michigan Compiled Laws, Chapter 247 (HIGHWAYS): E.R.O. No. 1982-3, EXECUTIVE REORGANIZATION ORDER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+     "sha256": "54d6477b9f0c2602d97d8b471ff338f99463a6f2182e3658a31de4de6503cbcb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0247-act-1967-0213",
+   "short": "MCL ch. 247, Act 213 of 1967",
+   "title": "Michigan Compiled Laws, Chapter 247 (HIGHWAYS): Act 213 of 1967, BENEFITS UNDER FEDERAL HIGHWAY SAFETY ACT",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+     "sha256": "54d6477b9f0c2602d97d8b471ff338f99463a6f2182e3658a31de4de6503cbcb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0247-act-1969-0296",
+   "short": "MCL ch. 247, Act 296 of 1969",
+   "title": "Michigan Compiled Laws, Chapter 247 (HIGHWAYS): Act 296 of 1969, TRANSFER OF JURISDICTION OVER HIGHWAYS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 11,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+     "sha256": "54d6477b9f0c2602d97d8b471ff338f99463a6f2182e3658a31de4de6503cbcb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0247-act-1987-0231",
+   "short": "MCL ch. 247, Act 231 of 1987",
+   "title": "Michigan Compiled Laws, Chapter 247 (HIGHWAYS): Act 231 of 1987, TRANSPORTATION ECONOMIC DEVELOPMENT FUND",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 14,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+     "sha256": "54d6477b9f0c2602d97d8b471ff338f99463a6f2182e3658a31de4de6503cbcb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0247-act-1993-0069",
+   "short": "MCL ch. 247, Act 69 of 1993",
+   "title": "Michigan Compiled Laws, Chapter 247 (HIGHWAYS): Act 69 of 1993, MICHIGAN HERITAGE ROUTES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 9,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20247.xml",
+     "sha256": "54d6477b9f0c2602d97d8b471ff338f99463a6f2182e3658a31de4de6503cbcb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0249-act-1917-0099",
+   "short": "MCL ch. 249, Act 99 of 1917",
+   "title": "Michigan Compiled Laws, Chapter 249 (HIGHWAYS): Act 99 of 1917, FEDERAL AID ROADS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20249.xml",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 3,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20249.xml",
+     "sha256": "faa222e0e4e38824ae8544411643ddb5910880373f6f9cdf6963a050e14236c9"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0249-act-1931-0096",
+   "short": "MCL ch. 249, Act 96 of 1931",
+   "title": "Michigan Compiled Laws, Chapter 249 (HIGHWAYS): Act 96 of 1931, ROADS IN UNITED STATES FOREST",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20249.xml",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 4,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20249.xml",
+     "sha256": "faa222e0e4e38824ae8544411643ddb5910880373f6f9cdf6963a050e14236c9"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0250-act-1925-0017",
+   "short": "MCL ch. 250, Act 17 of 1925",
+   "title": "Michigan Compiled Laws, Chapter 250 (HIGHWAYS): Act 17 of 1925, TRUNK LINE HIGHWAYS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20250.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 2,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20250.xml",
+     "sha256": "6a7b02808b58e4de328195ef6297260d6b4fe80f10c8caa0c03863a7ab895ebf"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0250-act-1929-0077",
+   "short": "MCL ch. 250, Act 77 of 1929",
+   "title": "Michigan Compiled Laws, Chapter 250 (HIGHWAYS): Act 77 of 1929, TRUNK LINE HIGHWAYS THROUGH STATE PARKS OR PROPERTY",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20250.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 2,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20250.xml",
+     "sha256": "6a7b02808b58e4de328195ef6297260d6b4fe80f10c8caa0c03863a7ab895ebf"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0250-act-1941-0090",
+   "short": "MCL ch. 250, Act 90 of 1941",
+   "title": "Michigan Compiled Laws, Chapter 250 (HIGHWAYS): Act 90 of 1941, ACCESS ROADS OR BRIDGES ON STATE PROPERTY",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20250.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 3,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20250.xml",
+     "sha256": "6a7b02808b58e4de328195ef6297260d6b4fe80f10c8caa0c03863a7ab895ebf"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0250-act-1925-0012",
+   "short": "MCL ch. 250, Act 12 of 1925",
+   "title": "Michigan Compiled Laws, Chapter 250 (HIGHWAYS): Act 12 of 1925, ADDITIONAL TRUNK LINE MILEAGE",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20250.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20250.xml",
+     "sha256": "6a7b02808b58e4de328195ef6297260d6b4fe80f10c8caa0c03863a7ab895ebf"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0250-act-1927-0061",
+   "short": "MCL ch. 250, Act 61 of 1927",
+   "title": "Michigan Compiled Laws, Chapter 250 (HIGHWAYS): Act 61 of 1927, ADDITIONAL TRUNK LINE MILEAGE",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20250.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20250.xml",
+     "sha256": "6a7b02808b58e4de328195ef6297260d6b4fe80f10c8caa0c03863a7ab895ebf"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0250-act-1929-0274",
+   "short": "MCL ch. 250, Act 274 of 1929",
+   "title": "Michigan Compiled Laws, Chapter 250 (HIGHWAYS): Act 274 of 1929, VACATION OR ALTERATION OF STATE HIGHWAY",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20250.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20250.xml",
+     "sha256": "6a7b02808b58e4de328195ef6297260d6b4fe80f10c8caa0c03863a7ab895ebf"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0250-act-1943-0063",
+   "short": "MCL ch. 250, Act 63 of 1943",
+   "title": "Michigan Compiled Laws, Chapter 250 (HIGHWAYS): Act 63 of 1943, EASEMENTS TO GRAND TRUNK WESTERN RAILROAD COMPANY",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20250.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20250.xml",
+     "sha256": "6a7b02808b58e4de328195ef6297260d6b4fe80f10c8caa0c03863a7ab895ebf"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0250-act-1929-0282",
+   "short": "MCL ch. 250, Act 282 of 1929",
+   "title": "Michigan Compiled Laws, Chapter 250 (HIGHWAYS): Act 282 of 1929, VALIDATION OF INSTRUMENTS CONVEYING LANDS FOR TRUNK LINE HIGHWAYS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20250.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 2,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20250.xml",
+     "sha256": "6a7b02808b58e4de328195ef6297260d6b4fe80f10c8caa0c03863a7ab895ebf"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0250-act-1998-0256",
+   "short": "MCL ch. 250, Act 256 of 1998",
+   "title": "Michigan Compiled Laws, Chapter 250 (HIGHWAYS): Act 256 of 1998, VETERANS MEMORIAL BRIDGES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20250.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20250.xml",
+     "sha256": "6a7b02808b58e4de328195ef6297260d6b4fe80f10c8caa0c03863a7ab895ebf"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0250-act-2000-0025",
+   "short": "MCL ch. 250, Act 25 of 2000",
+   "title": "Michigan Compiled Laws, Chapter 250 (HIGHWAYS): Act 25 of 2000, PRESTON SCHMIDT OVERPASS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20250.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 2,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20250.xml",
+     "sha256": "6a7b02808b58e4de328195ef6297260d6b4fe80f10c8caa0c03863a7ab895ebf"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0250-act-2001-0142",
+   "short": "MCL ch. 250, Act 142 of 2001",
+   "title": "Michigan Compiled Laws, Chapter 250 (HIGHWAYS): Act 142 of 2001, Michigan memorial highway act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20250.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 206,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20250.xml",
+     "sha256": "6a7b02808b58e4de328195ef6297260d6b4fe80f10c8caa0c03863a7ab895ebf"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0252-act-1925-0381",
+   "short": "MCL ch. 252, Act 381 of 1925",
+   "title": "Michigan Compiled Laws, Chapter 252 (HIGHWAYS): Act 381 of 1925, INTER-COUNTY HIGHWAYS, SUPER-HIGHWAYS, AND LIMITED ACCESS HIGHWAYS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20252.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 12,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20252.xml",
+     "sha256": "e72b78d7c7aab522c7ceb3fbac3dcdadae5b37ebb9a48de1eb1b5d13ddd8cf18"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0252-act-1941-0205",
+   "short": "MCL ch. 252, Act 205 of 1941",
+   "title": "Michigan Compiled Laws, Chapter 252 (HIGHWAYS): Act 205 of 1941, LIMITED ACCESS HIGHWAYS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20252.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 12,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20252.xml",
+     "sha256": "e72b78d7c7aab522c7ceb3fbac3dcdadae5b37ebb9a48de1eb1b5d13ddd8cf18"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0252-act-1966-0347",
+   "short": "MCL ch. 252, Act 347 of 1966",
+   "title": "Michigan Compiled Laws, Chapter 252 (HIGHWAYS): Act 347 of 1966, RELOCATION OF PERSONS DISPLACED BY HIGHWAY PROJECTS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20252.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20252.xml",
+     "sha256": "e72b78d7c7aab522c7ceb3fbac3dcdadae5b37ebb9a48de1eb1b5d13ddd8cf18"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0252-act-1970-0031",
+   "short": "MCL ch. 252, Act 31 of 1970",
+   "title": "Michigan Compiled Laws, Chapter 252 (HIGHWAYS): Act 31 of 1970, RELOCATION ASSISTANCE FOR PERSONS DISPLACED BY ACQUISITION OF PROPERTY FOR HIGHWAYS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20252.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 3,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20252.xml",
+     "sha256": "e72b78d7c7aab522c7ceb3fbac3dcdadae5b37ebb9a48de1eb1b5d13ddd8cf18"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0252-act-1967-0012",
+   "short": "MCL ch. 252, Act 12 of 1967 (Ex. Sess.)",
+   "title": "Michigan Compiled Laws, Chapter 252 (HIGHWAYS): Act 12 of 1967 (Ex. Sess.), ARBITRATION OF DISPUTES INVOLVING INTERSTATE HIGHWAY ROUTES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20252.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 8,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20252.xml",
+     "sha256": "e72b78d7c7aab522c7ceb3fbac3dcdadae5b37ebb9a48de1eb1b5d13ddd8cf18"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0252-act-1966-0219",
+   "short": "MCL ch. 252, Act 219 of 1966",
+   "title": "Michigan Compiled Laws, Chapter 252 (HIGHWAYS): Act 219 of 1966, CONTROL OF JUNKYARDS ADJACENT TO HIGHWAYS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20252.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 12,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20252.xml",
+     "sha256": "e72b78d7c7aab522c7ceb3fbac3dcdadae5b37ebb9a48de1eb1b5d13ddd8cf18"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0252-act-1972-0106",
+   "short": "MCL ch. 252, Act 106 of 1972",
+   "title": "Michigan Compiled Laws, Chapter 252 (HIGHWAYS): Act 106 of 1972, Highway advertising act of 1972",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20252.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 34,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20252.xml",
+     "sha256": "e72b78d7c7aab522c7ceb3fbac3dcdadae5b37ebb9a48de1eb1b5d13ddd8cf18"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0254-act-1925-0354",
+   "short": "MCL ch. 254, Act 354 of 1925",
+   "title": "Michigan Compiled Laws, Chapter 254 (BRIDGES): Act 354 of 1925, BRIDGES AND CULVERTS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20254.xml",
+   "versions": [
+    {
+     "from": "2026-01-31",
+     "units": 30,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20254.xml",
+     "sha256": "6e6c719edc2f72b0f84eb44adcf16262dc93be160f6e2a30ed9b67ebab1fa66b"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0254-act-1919-0398",
+   "short": "MCL ch. 254, Act 398 of 1919",
+   "title": "Michigan Compiled Laws, Chapter 254 (BRIDGES): Act 398 of 1919, BRIDGES OVER NAVIGABLE WATERS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20254.xml",
+   "versions": [
+    {
+     "from": "2026-01-31",
+     "units": 17,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20254.xml",
+     "sha256": "6e6c719edc2f72b0f84eb44adcf16262dc93be160f6e2a30ed9b67ebab1fa66b"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0254-act-1921-0181",
+   "short": "MCL ch. 254, Act 181 of 1921",
+   "title": "Michigan Compiled Laws, Chapter 254 (BRIDGES): Act 181 of 1921, BRIDGE ACROSS PORTAGE LAKE",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20254.xml",
+   "versions": [
+    {
+     "from": "2026-01-31",
+     "units": 7,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20254.xml",
+     "sha256": "6e6c719edc2f72b0f84eb44adcf16262dc93be160f6e2a30ed9b67ebab1fa66b"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0254-act-1959-0084",
+   "short": "MCL ch. 254, Act 84 of 1959",
+   "title": "Michigan Compiled Laws, Chapter 254 (BRIDGES): Act 84 of 1959, EASEMENT FOR BRIDGE IN MACKINAC COUNTY",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20254.xml",
+   "versions": [
+    {
+     "from": "2026-01-31",
+     "units": 2,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20254.xml",
+     "sha256": "6e6c719edc2f72b0f84eb44adcf16262dc93be160f6e2a30ed9b67ebab1fa66b"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0254-act-1935-0147",
+   "short": "MCL ch. 254, Act 147 of 1935",
+   "title": "Michigan Compiled Laws, Chapter 254 (BRIDGES): Act 147 of 1935, STATE BRIDGE COMMISSION; PUBLIC WORKS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20254.xml",
+   "versions": [
+    {
+     "from": "2026-01-31",
+     "units": 17,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20254.xml",
+     "sha256": "6e6c719edc2f72b0f84eb44adcf16262dc93be160f6e2a30ed9b67ebab1fa66b"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0254-act-2010-0011",
+   "short": "MCL ch. 254, Act 11 of 2010",
+   "title": "Michigan Compiled Laws, Chapter 254 (BRIDGES): Act 11 of 2010, Blue water bridge plaza expansion oversight reporting act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20254.xml",
+   "versions": [
+    {
+     "from": "2026-01-31",
+     "units": 2,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20254.xml",
+     "sha256": "6e6c719edc2f72b0f84eb44adcf16262dc93be160f6e2a30ed9b67ebab1fa66b"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0254-act-1935-0237",
+   "short": "MCL ch. 254, Act 237 of 1935",
+   "title": "Michigan Compiled Laws, Chapter 254 (BRIDGES): Act 237 of 1935, INTERNATIONAL BRIDGE AUTHORITY",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20254.xml",
+   "versions": [
+    {
+     "from": "2026-01-31",
+     "units": 3,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20254.xml",
+     "sha256": "6e6c719edc2f72b0f84eb44adcf16262dc93be160f6e2a30ed9b67ebab1fa66b"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0254-act-1954-0099",
+   "short": "MCL ch. 254, Act 99 of 1954",
+   "title": "Michigan Compiled Laws, Chapter 254 (BRIDGES): Act 99 of 1954, INTERNATIONAL BRIDGE AUTHORITY",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20254.xml",
+   "versions": [
+    {
+     "from": "2026-01-31",
+     "units": 21,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20254.xml",
+     "sha256": "6e6c719edc2f72b0f84eb44adcf16262dc93be160f6e2a30ed9b67ebab1fa66b"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0254-act-1950-0021",
+   "short": "MCL ch. 254, Act 21 of 1950 (Ex. Sess.)",
+   "title": "Michigan Compiled Laws, Chapter 254 (BRIDGES): Act 21 of 1950 (Ex. Sess.), MACKINAC BRIDGE AUTHORITY",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20254.xml",
+   "versions": [
+    {
+     "from": "2026-01-31",
+     "units": 4,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20254.xml",
+     "sha256": "6e6c719edc2f72b0f84eb44adcf16262dc93be160f6e2a30ed9b67ebab1fa66b"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0254-act-1952-0214",
+   "short": "MCL ch. 254, Act 214 of 1952",
+   "title": "Michigan Compiled Laws, Chapter 254 (BRIDGES): Act 214 of 1952, MACKINAC BRIDGE AUTHORITY",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20254.xml",
+   "versions": [
+    {
+     "from": "2026-01-31",
+     "units": 27,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20254.xml",
+     "sha256": "6e6c719edc2f72b0f84eb44adcf16262dc93be160f6e2a30ed9b67ebab1fa66b"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0254-act-1966-0013",
+   "short": "MCL ch. 254, Act 13 of 1966",
+   "title": "Michigan Compiled Laws, Chapter 254 (BRIDGES): Act 13 of 1966, REFUNDING BONDS OF MACKINAC BRIDGE AUTHORITY; TRANSFER OF AUTHORITY TO STATE HIGHWAY DEPARTMENT",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20254.xml",
+   "versions": [
+    {
+     "from": "2026-01-31",
+     "units": 12,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20254.xml",
+     "sha256": "6e6c719edc2f72b0f84eb44adcf16262dc93be160f6e2a30ed9b67ebab1fa66b"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0255-act-r-s-of-1846",
+   "short": "MCL ch. 255, R.S. of 1846",
+   "title": "Michigan Compiled Laws, Chapter 255 (FERRIES): R.S. of 1846, Revised Statutes of 1846",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20255.xml",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 10,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20255.xml",
+     "sha256": "b9ae951a0da3f1827e7bdc233fc0398ad20f3d0fbd1fe28605a9502d7415735f"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0255-act-1943-0150",
+   "short": "MCL ch. 255, Act 150 of 1943",
+   "title": "Michigan Compiled Laws, Chapter 255 (FERRIES): Act 150 of 1943, FERRY SERVICES AND EQUIPMENT",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20255.xml",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 3,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20255.xml",
+     "sha256": "b9ae951a0da3f1827e7bdc233fc0398ad20f3d0fbd1fe28605a9502d7415735f"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0256-act-1931-0191",
+   "short": "MCL ch. 256, Act 191 of 1931",
+   "title": "Michigan Compiled Laws, Chapter 256 (MOTOR VEHICLES): Act 191 of 1931, LOCKING OF DOORS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20256.xml",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 2,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20256.xml",
+     "sha256": "fc4bb0eeb5f8baa6023af83018ee3563de610d2c6557ecc1eeb0fea4d59ffa60"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0256-act-1919-0391",
+   "short": "MCL ch. 256, Act 391 of 1919",
+   "title": "Michigan Compiled Laws, Chapter 256 (MOTOR VEHICLES): Act 391 of 1919, GARAGE KEEPER'S LIABILITY",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20256.xml",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20256.xml",
+     "sha256": "fc4bb0eeb5f8baa6023af83018ee3563de610d2c6557ecc1eeb0fea4d59ffa60"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0256-act-1941-0188",
+   "short": "MCL ch. 256, Act 188 of 1941",
+   "title": "Michigan Compiled Laws, Chapter 256 (MOTOR VEHICLES): Act 188 of 1941, MICHIGAN STATE SAFETY COMMISSION",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20256.xml",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 3,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20256.xml",
+     "sha256": "fc4bb0eeb5f8baa6023af83018ee3563de610d2c6557ecc1eeb0fea4d59ffa60"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0256-act-e-r-o-no-2002-0005",
+   "short": "MCL ch. 256, E.R.O. No. 2002-5",
+   "title": "Michigan Compiled Laws, Chapter 256 (MOTOR VEHICLES): E.R.O. No. 2002-5, EXECUTIVE REORGANIZATION ORDER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20256.xml",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20256.xml",
+     "sha256": "fc4bb0eeb5f8baa6023af83018ee3563de610d2c6557ecc1eeb0fea4d59ffa60"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0256-act-2006-0384",
+   "short": "MCL ch. 256, Act 384 of 2006",
+   "title": "Michigan Compiled Laws, Chapter 256 (MOTOR VEHICLES): Act 384 of 2006, Driver education provider and instructor act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20256.xml",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 43,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20256.xml",
+     "sha256": "fc4bb0eeb5f8baa6023af83018ee3563de610d2c6557ecc1eeb0fea4d59ffa60"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0257-act-1949-0300",
+   "short": "MCL ch. 257, Act 300 of 1949",
+   "title": "Michigan Compiled Laws, Chapter 257 (MOTOR VEHICLES): Act 300 of 1949, Michigan vehicle code",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20257.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 840,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20257.xml",
+     "sha256": "99413a90498265d541543e5b80a04b790bc2dd427db5330fb639c5af6239d654"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0257-act-e-r-o-no-2020-0001",
+   "short": "MCL ch. 257, E.R.O. No. 2020-1",
+   "title": "Michigan Compiled Laws, Chapter 257 (MOTOR VEHICLES): E.R.O. No. 2020-1, EXECUTIVE REORGANIZATION ORDER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20257.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20257.xml",
+     "sha256": "99413a90498265d541543e5b80a04b790bc2dd427db5330fb639c5af6239d654"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0257-act-1978-0387",
+   "short": "MCL ch. 257, Act 387 of 1978",
+   "title": "Michigan Compiled Laws, Chapter 257 (MOTOR VEHICLES): Act 387 of 1978, LOANS TO MOTOR CARRIERS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20257.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 7,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20257.xml",
+     "sha256": "99413a90498265d541543e5b80a04b790bc2dd427db5330fb639c5af6239d654"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0257-act-1969-0235",
+   "short": "MCL ch. 257, Act 235 of 1969",
+   "title": "Michigan Compiled Laws, Chapter 257 (MOTOR VEHICLES): Act 235 of 1969, CONTROL OF TRAFFIC IN PARKING AREAS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20257.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20257.xml",
+     "sha256": "99413a90498265d541543e5b80a04b790bc2dd427db5330fb639c5af6239d654"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0257-act-1956-0062",
+   "short": "MCL ch. 257, Act 62 of 1956",
+   "title": "Michigan Compiled Laws, Chapter 257 (MOTOR VEHICLES): Act 62 of 1956, UNIFORM TRAFFIC CODE",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20257.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20257.xml",
+     "sha256": "99413a90498265d541543e5b80a04b790bc2dd427db5330fb639c5af6239d654"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0257-act-1958-0175",
+   "short": "MCL ch. 257, Act 175 of 1958",
+   "title": "Michigan Compiled Laws, Chapter 257 (MOTOR VEHICLES): Act 175 of 1958, REGULATION OF VEHICLES ON SCHOOL PROPERTY",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20257.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20257.xml",
+     "sha256": "99413a90498265d541543e5b80a04b790bc2dd427db5330fb639c5af6239d654"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0257-act-1960-0002",
+   "short": "MCL ch. 257, Act 2 of 1960",
+   "title": "Michigan Compiled Laws, Chapter 257 (MOTOR VEHICLES): Act 2 of 1960, TAX ON PUBLIC TRANSPORTATION VEHICLES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20257.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 3,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20257.xml",
+     "sha256": "99413a90498265d541543e5b80a04b790bc2dd427db5330fb639c5af6239d654"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0257-act-1965-0198",
+   "short": "MCL ch. 257, Act 198 of 1965",
+   "title": "Michigan Compiled Laws, Chapter 257 (MOTOR VEHICLES): Act 198 of 1965, Motor vehicle accident claims act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20257.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 34,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20257.xml",
+     "sha256": "99413a90498265d541543e5b80a04b790bc2dd427db5330fb639c5af6239d654"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0257-act-2005-0263",
+   "short": "MCL ch. 257, Act 263 of 2005",
+   "title": "Michigan Compiled Laws, Chapter 257 (MOTOR VEHICLES): Act 263 of 2005, Vehicle protection product act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20257.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 12,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20257.xml",
+     "sha256": "99413a90498265d541543e5b80a04b790bc2dd427db5330fb639c5af6239d654"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0257-act-1974-0300",
+   "short": "MCL ch. 257, Act 300 of 1974",
+   "title": "Michigan Compiled Laws, Chapter 257 (MOTOR VEHICLES): Act 300 of 1974, Motor vehicle service and repair act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20257.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 57,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20257.xml",
+     "sha256": "99413a90498265d541543e5b80a04b790bc2dd427db5330fb639c5af6239d654"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0257-act-1986-0119",
+   "short": "MCL ch. 257, Act 119 of 1986",
+   "title": "Michigan Compiled Laws, Chapter 257 (MOTOR VEHICLES): Act 119 of 1986, USED MOTOR VEHICLE PARTS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20257.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 6,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20257.xml",
+     "sha256": "99413a90498265d541543e5b80a04b790bc2dd427db5330fb639c5af6239d654"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0257-act-1991-0158",
+   "short": "MCL ch. 257, Act 158 of 1991",
+   "title": "Michigan Compiled Laws, Chapter 257 (MOTOR VEHICLES): Act 158 of 1991, Aftermarket crash parts act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20257.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 4,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20257.xml",
+     "sha256": "99413a90498265d541543e5b80a04b790bc2dd427db5330fb639c5af6239d654"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0257-act-1986-0087",
+   "short": "MCL ch. 257, Act 87 of 1986",
+   "title": "Michigan Compiled Laws, Chapter 257 (MOTOR VEHICLES): Act 87 of 1986, NEW MOTOR VEHICLE WARRANTIES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20257.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 10,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20257.xml",
+     "sha256": "99413a90498265d541543e5b80a04b790bc2dd427db5330fb639c5af6239d654"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0257-act-1997-0055",
+   "short": "MCL ch. 257, Act 55 of 1997",
+   "title": "Michigan Compiled Laws, Chapter 257 (MOTOR VEHICLES): Act 55 of 1997, Electric patrol vehicle act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20257.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 7,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20257.xml",
+     "sha256": "99413a90498265d541543e5b80a04b790bc2dd427db5330fb639c5af6239d654"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0257-act-1981-0178",
+   "short": "MCL ch. 257, Act 178 of 1981",
+   "title": "Michigan Compiled Laws, Chapter 257 (MOTOR VEHICLES): Act 178 of 1981, City motor vehicle racing act of 1981",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20257.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 12,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20257.xml",
+     "sha256": "99413a90498265d541543e5b80a04b790bc2dd427db5330fb639c5af6239d654"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0257-act-1990-0187",
+   "short": "MCL ch. 257, Act 187 of 1990",
+   "title": "Michigan Compiled Laws, Chapter 257 (MOTOR VEHICLES): Act 187 of 1990, The pupil transportation act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20257.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 43,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20257.xml",
+     "sha256": "99413a90498265d541543e5b80a04b790bc2dd427db5330fb639c5af6239d654"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0257-act-2016-0345",
+   "short": "MCL ch. 257, Act 345 of 2016",
+   "title": "Michigan Compiled Laws, Chapter 257 (MOTOR VEHICLES): Act 345 of 2016, Limousine, taxicab, and transportation network company act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20257.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 30,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20257.xml",
+     "sha256": "99413a90498265d541543e5b80a04b790bc2dd427db5330fb639c5af6239d654"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0257-act-2024-0223",
+   "short": "MCL ch. 257, Act 223 of 2024",
+   "title": "Michigan Compiled Laws, Chapter 257 (MOTOR VEHICLES): Act 223 of 2024, Peer-to-peer car sharing program act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20257.xml",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 11,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20257.xml",
+     "sha256": "99413a90498265d541543e5b80a04b790bc2dd427db5330fb639c5af6239d654"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0259-act-1945-0327",
+   "short": "MCL ch. 259, Act 327 of 1945",
+   "title": "Michigan Compiled Laws, Chapter 259 (AVIATION): Act 327 of 1945, Aeronautics code of the state of Michigan",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20259.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 155,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20259.xml",
+     "sha256": "26fff12c312116ca5967f3a87e1cc614be0921b69028e6616a337457de3ef0c8"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0259-act-1969-0107",
+   "short": "MCL ch. 259, Act 107 of 1969",
+   "title": "Michigan Compiled Laws, Chapter 259 (AVIATION): Act 107 of 1969, AIRPORT DEVELOPMENT",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20259.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20259.xml",
+     "sha256": "26fff12c312116ca5967f3a87e1cc614be0921b69028e6616a337457de3ef0c8"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0259-act-2016-0436",
+   "short": "MCL ch. 259, Act 436 of 2016",
+   "title": "Michigan Compiled Laws, Chapter 259 (AVIATION): Act 436 of 2016, Unmanned aircraft systems act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20259.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 12,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20259.xml",
+     "sha256": "26fff12c312116ca5967f3a87e1cc614be0921b69028e6616a337457de3ef0c8"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0259-act-1945-0328",
+   "short": "MCL ch. 259, Act 328 of 1945",
+   "title": "Michigan Compiled Laws, Chapter 259 (AVIATION): Act 328 of 1945, SPECIAL AERONAUTICAL PLANNING FUND",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20259.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 2,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20259.xml",
+     "sha256": "26fff12c312116ca5967f3a87e1cc614be0921b69028e6616a337457de3ef0c8"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0259-act-1950-0023",
+   "short": "MCL ch. 259, Act 23 of 1950 (Ex. Sess.)",
+   "title": "Michigan Compiled Laws, Chapter 259 (AVIATION): Act 23 of 1950 (Ex. Sess.), Airport zoning act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20259.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 36,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20259.xml",
+     "sha256": "26fff12c312116ca5967f3a87e1cc614be0921b69028e6616a337457de3ef0c8"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0259-act-1959-0259",
+   "short": "MCL ch. 259, Act 259 of 1959",
+   "title": "Michigan Compiled Laws, Chapter 259 (AVIATION): Act 259 of 1959, Tall structure act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20259.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 19,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20259.xml",
+     "sha256": "26fff12c312116ca5967f3a87e1cc614be0921b69028e6616a337457de3ef0c8"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0259-act-1931-0296",
+   "short": "MCL ch. 259, Act 296 of 1931",
+   "title": "Michigan Compiled Laws, Chapter 259 (AVIATION): Act 296 of 1931, LANSING AIRPORT; LEASE OF LANDS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20259.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 2,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20259.xml",
+     "sha256": "26fff12c312116ca5967f3a87e1cc614be0921b69028e6616a337457de3ef0c8"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0259-act-1957-0206",
+   "short": "MCL ch. 259, Act 206 of 1957",
+   "title": "Michigan Compiled Laws, Chapter 259 (AVIATION): Act 206 of 1957, COMMUNITY AIRPORTS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20259.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 13,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20259.xml",
+     "sha256": "26fff12c312116ca5967f3a87e1cc614be0921b69028e6616a337457de3ef0c8"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0259-act-1946-0017",
+   "short": "MCL ch. 259, Act 17 of 1946 (1st Ex. Sess.)",
+   "title": "Michigan Compiled Laws, Chapter 259 (AVIATION): Act 17 of 1946 (1st Ex. Sess.), FEDERAL SURPLUS AIRPORTS AND EQUIPMENT",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20259.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20259.xml",
+     "sha256": "26fff12c312116ca5967f3a87e1cc614be0921b69028e6616a337457de3ef0c8"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0259-act-1965-0333",
+   "short": "MCL ch. 259, Act 333 of 1965",
+   "title": "Michigan Compiled Laws, Chapter 259 (AVIATION): Act 333 of 1965, MODEL ROCKETS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20259.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 9,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20259.xml",
+     "sha256": "26fff12c312116ca5967f3a87e1cc614be0921b69028e6616a337457de3ef0c8"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0259-act-1970-0073",
+   "short": "MCL ch. 259, Act 73 of 1970",
+   "title": "Michigan Compiled Laws, Chapter 259 (AVIATION): Act 73 of 1970, AIRPORT AUTHORITIES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20259.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 23,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20259.xml",
+     "sha256": "26fff12c312116ca5967f3a87e1cc614be0921b69028e6616a337457de3ef0c8"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0279-act-1953-0157",
+   "short": "MCL ch. 279, Act 157 of 1953",
+   "title": "Michigan Compiled Laws, Chapter 279 (DRAINS): Act 157 of 1953, DEFERRED DRAIN TAXES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20279.xml",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 8,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20279.xml",
+     "sha256": "6ba68f6daf3b45b9353dd5ede6218930a58525b45eb5fe3b6303a8315efcabe8"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0280-act-1956-0040",
+   "short": "MCL ch. 280, Act 40 of 1956",
+   "title": "Michigan Compiled Laws, Chapter 280 (DRAIN CODE OF 1956): Act 40 of 1956, The drain code of 1956",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20280.xml",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 312,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20280.xml",
+     "sha256": "f0c36e779d405d5ff17dfa28caf87fa13ea6e4573c8e2a505aa397bf49b705d9"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0281-act-1961-0053",
+   "short": "MCL ch. 281, Act 53 of 1961",
+   "title": "Michigan Compiled Laws, Chapter 281 (LAKES AND RIVERS): Act 53 of 1961, FERRY DOCK AT STRAITS OF MACKINAC",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20281.xml",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20281.xml",
+     "sha256": "42bd0d847ab194979f52bc4a365ece63bb12be7037431d0d12cee3ca9479f1dd"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0282-act-e-r-o-no-1995-0015",
+   "short": "MCL ch. 282, E.R.O. No. 1995-15",
+   "title": "Michigan Compiled Laws, Chapter 282 (SOIL CONSERVATION): E.R.O. No. 1995-15, EXECUTIVE REORGANIZATION ORDER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20282.xml",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20282.xml",
+     "sha256": "762d391c58244bb1ba537bfd704ced9457ca246b9ae00298d8cde08419d4c4e0"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0285-act-1921-0013",
+   "short": "MCL ch. 285, Act 13 of 1921",
+   "title": "Michigan Compiled Laws, Chapter 285 (AGRICULTURE): Act 13 of 1921, DEPARTMENT OF AGRICULTURE",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20285.xml",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 7,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20285.xml",
+     "sha256": "42e02540c1f04797714dcf2818a4bebea54cb9ae09b8414ef2d70db5328c07cb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0285-act-e-r-o-no-2011-0002",
+   "short": "MCL ch. 285, E.R.O. No. 2011-2",
+   "title": "Michigan Compiled Laws, Chapter 285 (AGRICULTURE): E.R.O. No. 2011-2, EXECUTIVE REORGANIZATION ORDER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20285.xml",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20285.xml",
+     "sha256": "42e02540c1f04797714dcf2818a4bebea54cb9ae09b8414ef2d70db5328c07cb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0285-act-1915-0091",
+   "short": "MCL ch. 285, Act 91 of 1915",
+   "title": "Michigan Compiled Laws, Chapter 285 (AGRICULTURE): Act 91 of 1915, MARKET CONDITIONS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20285.xml",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 12,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20285.xml",
+     "sha256": "42e02540c1f04797714dcf2818a4bebea54cb9ae09b8414ef2d70db5328c07cb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0285-act-1919-0315",
+   "short": "MCL ch. 285, Act 315 of 1919",
+   "title": "Michigan Compiled Laws, Chapter 285 (AGRICULTURE): Act 315 of 1919, PROMOTION OF AGRICULTURAL INTERESTS; FARM BUREAU; AGRICULTURAL AGENT",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20285.xml",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20285.xml",
+     "sha256": "42e02540c1f04797714dcf2818a4bebea54cb9ae09b8414ef2d70db5328c07cb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0285-act-1939-0141",
+   "short": "MCL ch. 285, Act 141 of 1939",
+   "title": "Michigan Compiled Laws, Chapter 285 (AGRICULTURE): Act 141 of 1939, Grain dealers act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20285.xml",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 35,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20285.xml",
+     "sha256": "42e02540c1f04797714dcf2818a4bebea54cb9ae09b8414ef2d70db5328c07cb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0285-act-1927-0089",
+   "short": "MCL ch. 285, Act 89 of 1927",
+   "title": "Michigan Compiled Laws, Chapter 285 (AGRICULTURE): Act 89 of 1927, UPPER PENINSULA STATE FAIR",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20285.xml",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 6,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20285.xml",
+     "sha256": "42e02540c1f04797714dcf2818a4bebea54cb9ae09b8414ef2d70db5328c07cb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0285-act-1941-0080",
+   "short": "MCL ch. 285, Act 80 of 1941",
+   "title": "Michigan Compiled Laws, Chapter 285 (AGRICULTURE): Act 80 of 1941, NATIONAL AND HOME GUARD USE OF DETROIT STATE FAIRGROUNDS PROPERTY",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20285.xml",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20285.xml",
+     "sha256": "42e02540c1f04797714dcf2818a4bebea54cb9ae09b8414ef2d70db5328c07cb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0285-act-1978-0361",
+   "short": "MCL ch. 285, Act 361 of 1978",
+   "title": "Michigan Compiled Laws, Chapter 285 (AGRICULTURE): Act 361 of 1978, Michigan exposition and fairgrounds authority act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20285.xml",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 19,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20285.xml",
+     "sha256": "42e02540c1f04797714dcf2818a4bebea54cb9ae09b8414ef2d70db5328c07cb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0285-act-e-r-o-no-1993-0014",
+   "short": "MCL ch. 285, E.R.O. No. 1993-14",
+   "title": "Michigan Compiled Laws, Chapter 285 (AGRICULTURE): E.R.O. No. 1993-14, EXECUTIVE REORGANIZATION ORDER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20285.xml",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20285.xml",
+     "sha256": "42e02540c1f04797714dcf2818a4bebea54cb9ae09b8414ef2d70db5328c07cb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0285-act-e-r-o-no-2009-0002",
+   "short": "MCL ch. 285, E.R.O. No. 2009-2",
+   "title": "Michigan Compiled Laws, Chapter 285 (AGRICULTURE): E.R.O. No. 2009-2, EXECUTIVE REORGANIZATION ORDER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20285.xml",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20285.xml",
+     "sha256": "42e02540c1f04797714dcf2818a4bebea54cb9ae09b8414ef2d70db5328c07cb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0285-act-1956-0197",
+   "short": "MCL ch. 285, Act 197 of 1956",
+   "title": "Michigan Compiled Laws, Chapter 285 (AGRICULTURE): Act 197 of 1956, PROMOTING AGRICULTURAL INTERESTS OF TOWNSHIPS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20285.xml",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 4,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20285.xml",
+     "sha256": "42e02540c1f04797714dcf2818a4bebea54cb9ae09b8414ef2d70db5328c07cb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0285-act-1982-0220",
+   "short": "MCL ch. 285, Act 220 of 1982",
+   "title": "Michigan Compiled Laws, Chapter 285 (AGRICULTURE): Act 220 of 1982, Michigan family farm development act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20285.xml",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 29,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20285.xml",
+     "sha256": "42e02540c1f04797714dcf2818a4bebea54cb9ae09b8414ef2d70db5328c07cb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0285-act-e-r-o-no-1999-0004",
+   "short": "MCL ch. 285, E.R.O. No. 1999-4",
+   "title": "Michigan Compiled Laws, Chapter 285 (AGRICULTURE): E.R.O. No. 1999-4, EXECUTIVE REORGANIZATION ORDER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20285.xml",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20285.xml",
+     "sha256": "42e02540c1f04797714dcf2818a4bebea54cb9ae09b8414ef2d70db5328c07cb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0285-act-e-r-o-no-2007-0008",
+   "short": "MCL ch. 285, E.R.O. No. 2007-8",
+   "title": "Michigan Compiled Laws, Chapter 285 (AGRICULTURE): E.R.O. No. 2007-8, EXECUTIVE REORGANIZATION ORDER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20285.xml",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20285.xml",
+     "sha256": "42e02540c1f04797714dcf2818a4bebea54cb9ae09b8414ef2d70db5328c07cb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0285-act-e-r-o-no-2007-0014",
+   "short": "MCL ch. 285, E.R.O. No. 2007-14",
+   "title": "Michigan Compiled Laws, Chapter 285 (AGRICULTURE): E.R.O. No. 2007-14, EXECUTIVE REORGANIZATION ORDER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20285.xml",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20285.xml",
+     "sha256": "42e02540c1f04797714dcf2818a4bebea54cb9ae09b8414ef2d70db5328c07cb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0285-act-2000-0322",
+   "short": "MCL ch. 285, Act 322 of 2000",
+   "title": "Michigan Compiled Laws, Chapter 285 (AGRICULTURE): Act 322 of 2000, Julian-Stille value-added act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20285.xml",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 6,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20285.xml",
+     "sha256": "42e02540c1f04797714dcf2818a4bebea54cb9ae09b8414ef2d70db5328c07cb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0285-act-2003-0198",
+   "short": "MCL ch. 285, Act 198 of 2003",
+   "title": "Michigan Compiled Laws, Chapter 285 (AGRICULTURE): Act 198 of 2003, Farm produce insurance act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20285.xml",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 13,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20285.xml",
+     "sha256": "42e02540c1f04797714dcf2818a4bebea54cb9ae09b8414ef2d70db5328c07cb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0285-act-2008-0330",
+   "short": "MCL ch. 285, Act 330 of 2008",
+   "title": "Michigan Compiled Laws, Chapter 285 (AGRICULTURE): Act 330 of 2008, PUBLICATION OF INFORMATION ESTABLISHING ALTERNATIVE FUELS FACILITIES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20285.xml",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 3,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20285.xml",
+     "sha256": "42e02540c1f04797714dcf2818a4bebea54cb9ae09b8414ef2d70db5328c07cb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0285-act-2012-0487",
+   "short": "MCL ch. 285, Act 487 of 2012",
+   "title": "Michigan Compiled Laws, Chapter 285 (AGRICULTURE): Act 487 of 2012, Wildlife depredations indemnification act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20285.xml",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20285.xml",
+     "sha256": "42e02540c1f04797714dcf2818a4bebea54cb9ae09b8414ef2d70db5328c07cb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0286-act-1959-0221",
+   "short": "MCL ch. 286, Act 221 of 1959",
+   "title": "Michigan Compiled Laws, Chapter 286 (AGRICULTURAL INDUSTRY): Act 221 of 1959, CERTIFICATION OF SEED",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+   "versions": [
+    {
+     "from": "2026-03-21",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+     "sha256": "1209134ed01188bcc71994a0daae5a6999848c1d142ba2351c91a02b3d2fa7eb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0286-act-1929-0086",
+   "short": "MCL ch. 286, Act 86 of 1929",
+   "title": "Michigan Compiled Laws, Chapter 286 (AGRICULTURAL INDUSTRY): Act 86 of 1929, CHERRY PESTS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+   "versions": [
+    {
+     "from": "2026-03-21",
+     "units": 7,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+     "sha256": "1209134ed01188bcc71994a0daae5a6999848c1d142ba2351c91a02b3d2fa7eb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0286-act-1929-0313",
+   "short": "MCL ch. 286, Act 313 of 1929",
+   "title": "Michigan Compiled Laws, Chapter 286 (AGRICULTURAL INDUSTRY): Act 313 of 1929, WHITE PINE BLISTER RUST",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+   "versions": [
+    {
+     "from": "2026-03-21",
+     "units": 10,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+     "sha256": "1209134ed01188bcc71994a0daae5a6999848c1d142ba2351c91a02b3d2fa7eb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0286-act-1919-0006",
+   "short": "MCL ch. 286, Act 6 of 1919 (Ex. Sess.)",
+   "title": "Michigan Compiled Laws, Chapter 286 (AGRICULTURAL INDUSTRY): Act 6 of 1919 (Ex. Sess.), EXTERMINATION OF GRASSHOPPERS AND SIMILAR PESTS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+   "versions": [
+    {
+     "from": "2026-03-21",
+     "units": 3,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+     "sha256": "1209134ed01188bcc71994a0daae5a6999848c1d142ba2351c91a02b3d2fa7eb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0286-act-1931-0189",
+   "short": "MCL ch. 286, Act 189 of 1931",
+   "title": "Michigan Compiled Laws, Chapter 286 (AGRICULTURAL INDUSTRY): Act 189 of 1931, The insect pest and plant disease act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+   "versions": [
+    {
+     "from": "2026-03-21",
+     "units": 32,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+     "sha256": "1209134ed01188bcc71994a0daae5a6999848c1d142ba2351c91a02b3d2fa7eb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0286-act-1945-0072",
+   "short": "MCL ch. 286, Act 72 of 1945",
+   "title": "Michigan Compiled Laws, Chapter 286 (AGRICULTURAL INDUSTRY): Act 72 of 1945, INSECT PESTS AND PLANT DISEASES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+   "versions": [
+    {
+     "from": "2026-03-21",
+     "units": 9,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+     "sha256": "1209134ed01188bcc71994a0daae5a6999848c1d142ba2351c91a02b3d2fa7eb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0286-act-1935-0137",
+   "short": "MCL ch. 286, Act 137 of 1935",
+   "title": "Michigan Compiled Laws, Chapter 286 (AGRICULTURAL INDUSTRY): Act 137 of 1935, CHEMICAL LABORATORIES; FRUIT PROTECTION",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+   "versions": [
+    {
+     "from": "2026-03-21",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+     "sha256": "1209134ed01188bcc71994a0daae5a6999848c1d142ba2351c91a02b3d2fa7eb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0286-act-1959-0228",
+   "short": "MCL ch. 286, Act 228 of 1959",
+   "title": "Michigan Compiled Laws, Chapter 286 (AGRICULTURAL INDUSTRY): Act 228 of 1959, FRUITS AND VEGETABLES; CONTROLLED ATMOSPHERE STORAGE",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+   "versions": [
+    {
+     "from": "2026-03-21",
+     "units": 10,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+     "sha256": "1209134ed01188bcc71994a0daae5a6999848c1d142ba2351c91a02b3d2fa7eb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0286-act-1959-0006",
+   "short": "MCL ch. 286, Act 6 of 1959",
+   "title": "Michigan Compiled Laws, Chapter 286 (AGRICULTURAL INDUSTRY): Act 6 of 1959, GRAPE GROWERS; USE OF CHEMICAL SUBSTANCES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+   "versions": [
+    {
+     "from": "2026-03-21",
+     "units": 6,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+     "sha256": "1209134ed01188bcc71994a0daae5a6999848c1d142ba2351c91a02b3d2fa7eb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0286-act-2018-0111",
+   "short": "MCL ch. 286, Act 111 of 2018",
+   "title": "Michigan Compiled Laws, Chapter 286 (AGRICULTURAL INDUSTRY): Act 111 of 2018, Agricultural disaster loan origination program act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+   "versions": [
+    {
+     "from": "2026-03-21",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+     "sha256": "1209134ed01188bcc71994a0daae5a6999848c1d142ba2351c91a02b3d2fa7eb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0286-act-1981-0093",
+   "short": "MCL ch. 286, Act 93 of 1981",
+   "title": "Michigan Compiled Laws, Chapter 286 (AGRICULTURAL INDUSTRY): Act 93 of 1981, Michigan right to farm act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+   "versions": [
+    {
+     "from": "2026-03-21",
+     "units": 7,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+     "sha256": "1209134ed01188bcc71994a0daae5a6999848c1d142ba2351c91a02b3d2fa7eb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0286-act-1965-0187",
+   "short": "MCL ch. 286, Act 187 of 1965",
+   "title": "Michigan Compiled Laws, Chapter 286 (AGRICULTURAL INDUSTRY): Act 187 of 1965, PEST CONTROL COMPACT",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+   "versions": [
+    {
+     "from": "2026-03-21",
+     "units": 7,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+     "sha256": "1209134ed01188bcc71994a0daae5a6999848c1d142ba2351c91a02b3d2fa7eb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0286-act-1965-0288",
+   "short": "MCL ch. 286, Act 288 of 1965",
+   "title": "Michigan Compiled Laws, Chapter 286 (AGRICULTURAL INDUSTRY): Act 288 of 1965, TRANSPORTATION OF MIGRANT AGRICULTURAL WORKERS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+   "versions": [
+    {
+     "from": "2026-03-21",
+     "units": 2,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+     "sha256": "1209134ed01188bcc71994a0daae5a6999848c1d142ba2351c91a02b3d2fa7eb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0286-act-1966-0160",
+   "short": "MCL ch. 286, Act 160 of 1966",
+   "title": "Michigan Compiled Laws, Chapter 286 (AGRICULTURAL INDUSTRY): Act 160 of 1966, OVERNIGHT REST CAMPS FOR MIGRANT AGRICULTURAL WORKERS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+   "versions": [
+    {
+     "from": "2026-03-21",
+     "units": 4,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+     "sha256": "1209134ed01188bcc71994a0daae5a6999848c1d142ba2351c91a02b3d2fa7eb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0286-act-1966-0234",
+   "short": "MCL ch. 286, Act 234 of 1966",
+   "title": "Michigan Compiled Laws, Chapter 286 (AGRICULTURAL INDUSTRY): Act 234 of 1966, LICENSING AND REGULATION OF EMIGRANT AGENTS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+   "versions": [
+    {
+     "from": "2026-03-21",
+     "units": 7,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+     "sha256": "1209134ed01188bcc71994a0daae5a6999848c1d142ba2351c91a02b3d2fa7eb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0286-act-2018-0094",
+   "short": "MCL ch. 286, Act 94 of 2018",
+   "title": "Michigan Compiled Laws, Chapter 286 (AGRICULTURAL INDUSTRY): Act 94 of 2018, Seed potato act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+   "versions": [
+    {
+     "from": "2026-03-21",
+     "units": 9,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+     "sha256": "1209134ed01188bcc71994a0daae5a6999848c1d142ba2351c91a02b3d2fa7eb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0286-act-1965-0329",
+   "short": "MCL ch. 286, Act 329 of 1965",
+   "title": "Michigan Compiled Laws, Chapter 286 (AGRICULTURAL INDUSTRY): Act 329 of 1965, Michigan seed law",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+   "versions": [
+    {
+     "from": "2026-03-21",
+     "units": 17,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+     "sha256": "1209134ed01188bcc71994a0daae5a6999848c1d142ba2351c91a02b3d2fa7eb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0286-act-e-r-o-no-1996-0003",
+   "short": "MCL ch. 286, E.R.O. No. 1996-3",
+   "title": "Michigan Compiled Laws, Chapter 286 (AGRICULTURAL INDUSTRY): E.R.O. No. 1996-3, EXECUTIVE REORGANIZATION ORDER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+   "versions": [
+    {
+     "from": "2026-03-21",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+     "sha256": "1209134ed01188bcc71994a0daae5a6999848c1d142ba2351c91a02b3d2fa7eb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0286-act-2006-0417",
+   "short": "MCL ch. 286, Act 417 of 2006",
+   "title": "Michigan Compiled Laws, Chapter 286 (AGRICULTURAL INDUSTRY): Act 417 of 2006, Anhydrous ammonia security act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+   "versions": [
+    {
+     "from": "2026-03-21",
+     "units": 3,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+     "sha256": "1209134ed01188bcc71994a0daae5a6999848c1d142ba2351c91a02b3d2fa7eb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0286-act-1976-0412",
+   "short": "MCL ch. 286, Act 412 of 1976",
+   "title": "Michigan Compiled Laws, Chapter 286 (AGRICULTURAL INDUSTRY): Act 412 of 1976, APIARY LAW",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+   "versions": [
+    {
+     "from": "2026-03-21",
+     "units": 11,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+     "sha256": "1209134ed01188bcc71994a0daae5a6999848c1d142ba2351c91a02b3d2fa7eb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0286-act-2014-0547",
+   "short": "MCL ch. 286, Act 547 of 2014",
+   "title": "Michigan Compiled Laws, Chapter 286 (AGRICULTURAL INDUSTRY): Act 547 of 2014, Industrial hemp research and development act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+   "versions": [
+    {
+     "from": "2026-03-21",
+     "units": 19,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+     "sha256": "1209134ed01188bcc71994a0daae5a6999848c1d142ba2351c91a02b3d2fa7eb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0286-act-1996-0199",
+   "short": "MCL ch. 286, Act 199 of 1996",
+   "title": "Michigan Compiled Laws, Chapter 286 (AGRICULTURAL INDUSTRY): Act 199 of 1996, Michigan aquaculture development act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+   "versions": [
+    {
+     "from": "2026-03-21",
+     "units": 14,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+     "sha256": "1209134ed01188bcc71994a0daae5a6999848c1d142ba2351c91a02b3d2fa7eb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0286-act-e-r-o-no-2007-0026",
+   "short": "MCL ch. 286, E.R.O. No. 2007-26",
+   "title": "Michigan Compiled Laws, Chapter 286 (AGRICULTURAL INDUSTRY): E.R.O. No. 2007-26, EXECUTIVE REORGANIZATION ORDER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+   "versions": [
+    {
+     "from": "2026-03-21",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+     "sha256": "1209134ed01188bcc71994a0daae5a6999848c1d142ba2351c91a02b3d2fa7eb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0286-act-2000-0316",
+   "short": "MCL ch. 286, Act 316 of 2000",
+   "title": "Michigan Compiled Laws, Chapter 286 (AGRICULTURAL INDUSTRY): Act 316 of 2000, Michigan organic products act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+   "versions": [
+    {
+     "from": "2026-03-21",
+     "units": 18,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+     "sha256": "1209134ed01188bcc71994a0daae5a6999848c1d142ba2351c91a02b3d2fa7eb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0286-act-2012-0411",
+   "short": "MCL ch. 286, Act 411 of 2012",
+   "title": "Michigan Compiled Laws, Chapter 286 (AGRICULTURAL INDUSTRY): Act 411 of 2012, Rural development fund act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+   "versions": [
+    {
+     "from": "2026-03-21",
+     "units": 7,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20286.xml",
+     "sha256": "1209134ed01188bcc71994a0daae5a6999848c1d142ba2351c91a02b3d2fa7eb"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0287-act-1974-0093",
+   "short": "MCL ch. 287, Act 93 of 1974",
+   "title": "Michigan Compiled Laws, Chapter 287 (ANIMAL INDUSTRY): Act 93 of 1974, HORSE RIDING STABLES AND SALES BARNS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20287.xml",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 9,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20287.xml",
+     "sha256": "1455bbe45800991360ad83f995335f9d30b377ec288873d7bf61fc75ec4b0f51"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0287-act-1937-0284",
+   "short": "MCL ch. 287, Act 284 of 1937",
+   "title": "Michigan Compiled Laws, Chapter 287 (ANIMAL INDUSTRY): Act 284 of 1937, LICENSING LIVESTOCK DEALERS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20287.xml",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 12,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20287.xml",
+     "sha256": "1455bbe45800991360ad83f995335f9d30b377ec288873d7bf61fc75ec4b0f51"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0287-act-1883-0122",
+   "short": "MCL ch. 287, Act 122 of 1883",
+   "title": "Michigan Compiled Laws, Chapter 287 (ANIMAL INDUSTRY): Act 122 of 1883, BRANDING LIVESTOCK",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20287.xml",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 3,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20287.xml",
+     "sha256": "1455bbe45800991360ad83f995335f9d30b377ec288873d7bf61fc75ec4b0f51"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0287-act-1976-0308",
+   "short": "MCL ch. 287, Act 308 of 1976",
+   "title": "Michigan Compiled Laws, Chapter 287 (ANIMAL INDUSTRY): Act 308 of 1976, DISPOSAL OF LIVESTOCK",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20287.xml",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 8,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20287.xml",
+     "sha256": "1455bbe45800991360ad83f995335f9d30b377ec288873d7bf61fc75ec4b0f51"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0287-act-1919-0339",
+   "short": "MCL ch. 287, Act 339 of 1919",
+   "title": "Michigan Compiled Laws, Chapter 287 (ANIMAL INDUSTRY): Act 339 of 1919, Dog law of 1919",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20287.xml",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 41,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20287.xml",
+     "sha256": "1455bbe45800991360ad83f995335f9d30b377ec288873d7bf61fc75ec4b0f51"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0287-act-1970-0207",
+   "short": "MCL ch. 287, Act 207 of 1970",
+   "title": "Michigan Compiled Laws, Chapter 287 (ANIMAL INDUSTRY): Act 207 of 1970, LEADER DOGS FOR BLIND PERSONS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20287.xml",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20287.xml",
+     "sha256": "1455bbe45800991360ad83f995335f9d30b377ec288873d7bf61fc75ec4b0f51"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0287-act-1939-0309",
+   "short": "MCL ch. 287, Act 309 of 1939",
+   "title": "Michigan Compiled Laws, Chapter 287 (ANIMAL INDUSTRY): Act 309 of 1939, REGISTRATION AND IDENTIFICATION OF DOGS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20287.xml",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 8,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20287.xml",
+     "sha256": "1455bbe45800991360ad83f995335f9d30b377ec288873d7bf61fc75ec4b0f51"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0287-act-1988-0424",
+   "short": "MCL ch. 287, Act 424 of 1988",
+   "title": "Michigan Compiled Laws, Chapter 287 (ANIMAL INDUSTRY): Act 424 of 1988, TURTLES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20287.xml",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 4,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20287.xml",
+     "sha256": "1455bbe45800991360ad83f995335f9d30b377ec288873d7bf61fc75ec4b0f51"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0287-act-1988-0426",
+   "short": "MCL ch. 287, Act 426 of 1988",
+   "title": "Michigan Compiled Laws, Chapter 287 (ANIMAL INDUSTRY): Act 426 of 1988, DANGEROUS ANIMALS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20287.xml",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 3,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20287.xml",
+     "sha256": "1455bbe45800991360ad83f995335f9d30b377ec288873d7bf61fc75ec4b0f51"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0287-act-1969-0287",
+   "short": "MCL ch. 287, Act 287 of 1969",
+   "title": "Michigan Compiled Laws, Chapter 287 (ANIMAL INDUSTRY): Act 287 of 1969, PET SHOPS, DOG POUNDS, AND ANIMAL SHELTERS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20287.xml",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 18,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20287.xml",
+     "sha256": "1455bbe45800991360ad83f995335f9d30b377ec288873d7bf61fc75ec4b0f51"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0287-act-1939-0073",
+   "short": "MCL ch. 287, Act 73 of 1939",
+   "title": "Michigan Compiled Laws, Chapter 287 (ANIMAL INDUSTRY): Act 73 of 1939, LIABILITY OF OWNER FOR DOG BITE",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20287.xml",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20287.xml",
+     "sha256": "1455bbe45800991360ad83f995335f9d30b377ec288873d7bf61fc75ec4b0f51"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0287-act-1969-0224",
+   "short": "MCL ch. 287, Act 224 of 1969",
+   "title": "Michigan Compiled Laws, Chapter 287 (ANIMAL INDUSTRY): Act 224 of 1969, USE OF DOGS AND CATS FOR RESEARCH",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20287.xml",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 18,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20287.xml",
+     "sha256": "1455bbe45800991360ad83f995335f9d30b377ec288873d7bf61fc75ec4b0f51"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0287-act-1975-0120",
+   "short": "MCL ch. 287, Act 120 of 1975",
+   "title": "Michigan Compiled Laws, Chapter 287 (ANIMAL INDUSTRY): Act 120 of 1975, Feed law",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20287.xml",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 19,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20287.xml",
+     "sha256": "1455bbe45800991360ad83f995335f9d30b377ec288873d7bf61fc75ec4b0f51"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0287-act-1962-0163",
+   "short": "MCL ch. 287, Act 163 of 1962",
+   "title": "Michigan Compiled Laws, Chapter 287 (ANIMAL INDUSTRY): Act 163 of 1962, HUMANE SLAUGHTER OF LIVESTOCK",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20287.xml",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 6,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20287.xml",
+     "sha256": "1455bbe45800991360ad83f995335f9d30b377ec288873d7bf61fc75ec4b0f51"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0287-act-1972-0291",
+   "short": "MCL ch. 287, Act 291 of 1972",
+   "title": "Michigan Compiled Laws, Chapter 287 (ANIMAL INDUSTRY): Act 291 of 1972, Beef industry commission act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20287.xml",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 11,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20287.xml",
+     "sha256": "1455bbe45800991360ad83f995335f9d30b377ec288873d7bf61fc75ec4b0f51"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0287-act-1982-0239",
+   "short": "MCL ch. 287, Act 239 of 1982",
+   "title": "Michigan Compiled Laws, Chapter 287 (ANIMAL INDUSTRY): Act 239 of 1982, BODIES OF DEAD ANIMALS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20287.xml",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 18,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20287.xml",
+     "sha256": "1455bbe45800991360ad83f995335f9d30b377ec288873d7bf61fc75ec4b0f51"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0287-act-1988-0466",
+   "short": "MCL ch. 287, Act 466 of 1988",
+   "title": "Michigan Compiled Laws, Chapter 287 (ANIMAL INDUSTRY): Act 466 of 1988, Animal industry act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20287.xml",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 50,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20287.xml",
+     "sha256": "1455bbe45800991360ad83f995335f9d30b377ec288873d7bf61fc75ec4b0f51"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0287-act-1992-0239",
+   "short": "MCL ch. 287, Act 239 of 1992",
+   "title": "Michigan Compiled Laws, Chapter 287 (ANIMAL INDUSTRY): Act 239 of 1992, Pseudorabies and swine brucellosis control and eradication act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20287.xml",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 30,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20287.xml",
+     "sha256": "1455bbe45800991360ad83f995335f9d30b377ec288873d7bf61fc75ec4b0f51"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0287-act-1994-0358",
+   "short": "MCL ch. 287, Act 358 of 1994",
+   "title": "Michigan Compiled Laws, Chapter 287 (ANIMAL INDUSTRY): Act 358 of 1994, FERRETS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20287.xml",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 11,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20287.xml",
+     "sha256": "1455bbe45800991360ad83f995335f9d30b377ec288873d7bf61fc75ec4b0f51"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0287-act-2000-0190",
+   "short": "MCL ch. 287, Act 190 of 2000",
+   "title": "Michigan Compiled Laws, Chapter 287 (ANIMAL INDUSTRY): Act 190 of 2000, Privately owned cervidae producers marketing act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20287.xml",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 19,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20287.xml",
+     "sha256": "1455bbe45800991360ad83f995335f9d30b377ec288873d7bf61fc75ec4b0f51"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0287-act-e-r-o-no-2004-0002",
+   "short": "MCL ch. 287, E.R.O. No. 2004-2",
+   "title": "Michigan Compiled Laws, Chapter 287 (ANIMAL INDUSTRY): E.R.O. No. 2004-2, EXECUTIVE REORGANIZATION ORDER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20287.xml",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20287.xml",
+     "sha256": "1455bbe45800991360ad83f995335f9d30b377ec288873d7bf61fc75ec4b0f51"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0287-act-2007-0132",
+   "short": "MCL ch. 287, Act 132 of 2007",
+   "title": "Michigan Compiled Laws, Chapter 287 (ANIMAL INDUSTRY): Act 132 of 2007, Animal welfare fund act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20287.xml",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 7,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20287.xml",
+     "sha256": "1455bbe45800991360ad83f995335f9d30b377ec288873d7bf61fc75ec4b0f51"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0287-act-2000-0246",
+   "short": "MCL ch. 287, Act 246 of 2000",
+   "title": "Michigan Compiled Laws, Chapter 287 (ANIMAL INDUSTRY): Act 246 of 2000, Wolf-dog cross act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20287.xml",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 23,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20287.xml",
+     "sha256": "1455bbe45800991360ad83f995335f9d30b377ec288873d7bf61fc75ec4b0f51"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0287-act-2000-0274",
+   "short": "MCL ch. 287, Act 274 of 2000",
+   "title": "Michigan Compiled Laws, Chapter 287 (ANIMAL INDUSTRY): Act 274 of 2000, Large carnivore act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20287.xml",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 26,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20287.xml",
+     "sha256": "1455bbe45800991360ad83f995335f9d30b377ec288873d7bf61fc75ec4b0f51"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0288-act-2001-0266",
+   "short": "MCL ch. 288, Act 266 of 2001",
+   "title": "Michigan Compiled Laws, Chapter 288 (DAIRY INDUSTRY): Act 266 of 2001, Grade a milk law of 2001",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20288.xml",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 46,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20288.xml",
+     "sha256": "ec7ed22b5b058e9dcfefd467fbf4f072c8cecd61ce24ee7ef21d57a62445818d"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0288-act-2001-0267",
+   "short": "MCL ch. 288, Act 267 of 2001",
+   "title": "Michigan Compiled Laws, Chapter 288 (DAIRY INDUSTRY): Act 267 of 2001, Manufacturing milk law of 2001",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20288.xml",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 73,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20288.xml",
+     "sha256": "ec7ed22b5b058e9dcfefd467fbf4f072c8cecd61ce24ee7ef21d57a62445818d"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0289-act-1893-0211",
+   "short": "MCL ch. 289, Act 211 of 1893",
+   "title": "Michigan Compiled Laws, Chapter 289 (PURE FOODS AND STANDARDS): Act 211 of 1893, DAIRY AND FOOD COMMISSIONER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20289.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 11,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20289.xml",
+     "sha256": "6dec26011640ea3898598cf3920c21e2a85234e36aedaa3d9d3357975f90f496"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0289-act-1913-0037",
+   "short": "MCL ch. 289, Act 37 of 1913",
+   "title": "Michigan Compiled Laws, Chapter 289 (PURE FOODS AND STANDARDS): Act 37 of 1913, COLLECTION OF FEES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20289.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 3,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20289.xml",
+     "sha256": "6dec26011640ea3898598cf3920c21e2a85234e36aedaa3d9d3357975f90f496"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0289-act-1913-0064",
+   "short": "MCL ch. 289, Act 64 of 1913",
+   "title": "Michigan Compiled Laws, Chapter 289 (PURE FOODS AND STANDARDS): Act 64 of 1913, STANDARDS OF PURITY FOR FOOD AND DRUGS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20289.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20289.xml",
+     "sha256": "6dec26011640ea3898598cf3920c21e2a85234e36aedaa3d9d3357975f90f496"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0289-act-1919-0418",
+   "short": "MCL ch. 289, Act 418 of 1919",
+   "title": "Michigan Compiled Laws, Chapter 289 (PURE FOODS AND STANDARDS): Act 418 of 1919, PEPPER, CLOVES, AND NUTMEG",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20289.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 6,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20289.xml",
+     "sha256": "6dec26011640ea3898598cf3920c21e2a85234e36aedaa3d9d3357975f90f496"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0289-act-1996-0280",
+   "short": "MCL ch. 289, Act 280 of 1996",
+   "title": "Michigan Compiled Laws, Chapter 289 (PURE FOODS AND STANDARDS): Act 280 of 1996, MAPLE SYRUP",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20289.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 4,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20289.xml",
+     "sha256": "6dec26011640ea3898598cf3920c21e2a85234e36aedaa3d9d3357975f90f496"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0289-act-1998-0381",
+   "short": "MCL ch. 289, Act 381 of 1998",
+   "title": "Michigan Compiled Laws, Chapter 289 (PURE FOODS AND STANDARDS): Act 381 of 1998, Michigan agricultural processing act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20289.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20289.xml",
+     "sha256": "6dec26011640ea3898598cf3920c21e2a85234e36aedaa3d9d3357975f90f496"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0289-act-e-r-o-no-2007-0027",
+   "short": "MCL ch. 289, E.R.O. No. 2007-27",
+   "title": "Michigan Compiled Laws, Chapter 289 (PURE FOODS AND STANDARDS): E.R.O. No. 2007-27, EXECUTIVE REORGANIZATION ORDER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20289.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20289.xml",
+     "sha256": "6dec26011640ea3898598cf3920c21e2a85234e36aedaa3d9d3357975f90f496"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0289-act-2000-0092",
+   "short": "MCL ch. 289, Act 92 of 2000",
+   "title": "Michigan Compiled Laws, Chapter 289 (PURE FOODS AND STANDARDS): Act 92 of 2000, Food law of 2000",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20289.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 133,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20289.xml",
+     "sha256": "6dec26011640ea3898598cf3920c21e2a85234e36aedaa3d9d3357975f90f496"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0290-act-1929-0017",
+   "short": "MCL ch. 290, Act 17 of 1929",
+   "title": "Michigan Compiled Laws, Chapter 290 (WEIGHTS, MEASURES, AND STANDARDS): Act 17 of 1929, FRUIT STANDARDS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20290.xml",
+   "versions": [
+    {
+     "from": "2026-01-26",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20290.xml",
+     "sha256": "9b98c2c3c9e6062f3d03fe97d91ae6d9cf9f00fd1ea692ba353a480b3dc0c189"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0290-act-1863-0223",
+   "short": "MCL ch. 290, Act 223 of 1863",
+   "title": "Michigan Compiled Laws, Chapter 290 (WEIGHTS, MEASURES, AND STANDARDS): Act 223 of 1863, WEIGHT PER BUSHEL",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20290.xml",
+   "versions": [
+    {
+     "from": "2026-01-26",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20290.xml",
+     "sha256": "9b98c2c3c9e6062f3d03fe97d91ae6d9cf9f00fd1ea692ba353a480b3dc0c189"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0290-act-1871-0084",
+   "short": "MCL ch. 290, Act 84 of 1871",
+   "title": "Michigan Compiled Laws, Chapter 290 (WEIGHTS, MEASURES, AND STANDARDS): Act 84 of 1871, WEIGHT OF LIME",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20290.xml",
+   "versions": [
+    {
+     "from": "2026-01-26",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20290.xml",
+     "sha256": "9b98c2c3c9e6062f3d03fe97d91ae6d9cf9f00fd1ea692ba353a480b3dc0c189"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0290-act-1877-0063",
+   "short": "MCL ch. 290, Act 63 of 1877",
+   "title": "Michigan Compiled Laws, Chapter 290 (WEIGHTS, MEASURES, AND STANDARDS): Act 63 of 1877, BUSHEL OF APPLES; WEIGHT",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20290.xml",
+   "versions": [
+    {
+     "from": "2026-01-26",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20290.xml",
+     "sha256": "9b98c2c3c9e6062f3d03fe97d91ae6d9cf9f00fd1ea692ba353a480b3dc0c189"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0290-act-1917-0088",
+   "short": "MCL ch. 290, Act 88 of 1917",
+   "title": "Michigan Compiled Laws, Chapter 290 (WEIGHTS, MEASURES, AND STANDARDS): Act 88 of 1917, STANDARD BARREL FOR FRUITS, VEGETABLES, AND DRY COMMODITIES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20290.xml",
+   "versions": [
+    {
+     "from": "2026-01-26",
+     "units": 4,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20290.xml",
+     "sha256": "9b98c2c3c9e6062f3d03fe97d91ae6d9cf9f00fd1ea692ba353a480b3dc0c189"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0290-act-1917-0074",
+   "short": "MCL ch. 290, Act 74 of 1917",
+   "title": "Michigan Compiled Laws, Chapter 290 (WEIGHTS, MEASURES, AND STANDARDS): Act 74 of 1917, STANDARD CLIMAX BASKETS, BASKETS, OR OTHER CONTAINERS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20290.xml",
+   "versions": [
+    {
+     "from": "2026-01-26",
+     "units": 7,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20290.xml",
+     "sha256": "9b98c2c3c9e6062f3d03fe97d91ae6d9cf9f00fd1ea692ba353a480b3dc0c189"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0290-act-1929-0220",
+   "short": "MCL ch. 290, Act 220 of 1929",
+   "title": "Michigan Compiled Laws, Chapter 290 (WEIGHTS, MEASURES, AND STANDARDS): Act 220 of 1929, STANDARD GRADES FOR TABLE STOCK POTATOES (IRISH POTATOES)",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20290.xml",
+   "versions": [
+    {
+     "from": "2026-01-26",
+     "units": 11,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20290.xml",
+     "sha256": "9b98c2c3c9e6062f3d03fe97d91ae6d9cf9f00fd1ea692ba353a480b3dc0c189"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0290-act-1909-0110",
+   "short": "MCL ch. 290, Act 110 of 1909",
+   "title": "Michigan Compiled Laws, Chapter 290 (WEIGHTS, MEASURES, AND STANDARDS): Act 110 of 1909, LINSEED OR FLAXSEED OIL",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20290.xml",
+   "versions": [
+    {
+     "from": "2026-01-26",
+     "units": 6,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20290.xml",
+     "sha256": "9b98c2c3c9e6062f3d03fe97d91ae6d9cf9f00fd1ea692ba353a480b3dc0c189"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0290-act-1925-0057",
+   "short": "MCL ch. 290, Act 57 of 1925",
+   "title": "Michigan Compiled Laws, Chapter 290 (WEIGHTS, MEASURES, AND STANDARDS): Act 57 of 1925, STANDARD GRADES OF NAVAL STORES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20290.xml",
+   "versions": [
+    {
+     "from": "2026-01-26",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20290.xml",
+     "sha256": "9b98c2c3c9e6062f3d03fe97d91ae6d9cf9f00fd1ea692ba353a480b3dc0c189"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0290-act-1915-0227",
+   "short": "MCL ch. 290, Act 227 of 1915",
+   "title": "Michigan Compiled Laws, Chapter 290 (WEIGHTS, MEASURES, AND STANDARDS): Act 227 of 1915, GALVANIZED WIRE FENCE",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20290.xml",
+   "versions": [
+    {
+     "from": "2026-01-26",
+     "units": 10,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20290.xml",
+     "sha256": "9b98c2c3c9e6062f3d03fe97d91ae6d9cf9f00fd1ea692ba353a480b3dc0c189"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0290-act-1941-0208",
+   "short": "MCL ch. 290, Act 208 of 1941",
+   "title": "Michigan Compiled Laws, Chapter 290 (WEIGHTS, MEASURES, AND STANDARDS): Act 208 of 1941, STANDARD LOG RULE",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20290.xml",
+   "versions": [
+    {
+     "from": "2026-01-26",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20290.xml",
+     "sha256": "9b98c2c3c9e6062f3d03fe97d91ae6d9cf9f00fd1ea692ba353a480b3dc0c189"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0290-act-1970-0029",
+   "short": "MCL ch. 290, Act 29 of 1970",
+   "title": "Michigan Compiled Laws, Chapter 290 (WEIGHTS, MEASURES, AND STANDARDS): Act 29 of 1970, STATE POTATO INDUSTRY COMMISSION",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20290.xml",
+   "versions": [
+    {
+     "from": "2026-01-26",
+     "units": 12,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20290.xml",
+     "sha256": "9b98c2c3c9e6062f3d03fe97d91ae6d9cf9f00fd1ea692ba353a480b3dc0c189"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0290-act-1964-0158",
+   "short": "MCL ch. 290, Act 158 of 1964",
+   "title": "Michigan Compiled Laws, Chapter 290 (WEIGHTS, MEASURES, AND STANDARDS): Act 158 of 1964, WHOLESALE POTATO DEALERS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20290.xml",
+   "versions": [
+    {
+     "from": "2026-01-26",
+     "units": 17,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20290.xml",
+     "sha256": "9b98c2c3c9e6062f3d03fe97d91ae6d9cf9f00fd1ea692ba353a480b3dc0c189"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0290-act-1955-0162",
+   "short": "MCL ch. 290, Act 162 of 1955",
+   "title": "Michigan Compiled Laws, Chapter 290 (WEIGHTS, MEASURES, AND STANDARDS): Act 162 of 1955, LIMING MATERIAL",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20290.xml",
+   "versions": [
+    {
+     "from": "2026-01-26",
+     "units": 8,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20290.xml",
+     "sha256": "9b98c2c3c9e6062f3d03fe97d91ae6d9cf9f00fd1ea692ba353a480b3dc0c189"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0290-act-1965-0114",
+   "short": "MCL ch. 290, Act 114 of 1965",
+   "title": "Michigan Compiled Laws, Chapter 290 (WEIGHTS, MEASURES, AND STANDARDS): Act 114 of 1965, BEANS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20290.xml",
+   "versions": [
+    {
+     "from": "2026-01-26",
+     "units": 20,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20290.xml",
+     "sha256": "9b98c2c3c9e6062f3d03fe97d91ae6d9cf9f00fd1ea692ba353a480b3dc0c189"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0290-act-e-r-o-no-2010-0007",
+   "short": "MCL ch. 290, E.R.O. No. 2010-7",
+   "title": "Michigan Compiled Laws, Chapter 290 (WEIGHTS, MEASURES, AND STANDARDS): E.R.O. No. 2010-7, EXECUTIVE REORGANIZATION ORDER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20290.xml",
+   "versions": [
+    {
+     "from": "2026-01-26",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20290.xml",
+     "sha256": "9b98c2c3c9e6062f3d03fe97d91ae6d9cf9f00fd1ea692ba353a480b3dc0c189"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0290-act-1964-0283",
+   "short": "MCL ch. 290, Act 283 of 1964",
+   "title": "Michigan Compiled Laws, Chapter 290 (WEIGHTS, MEASURES, AND STANDARDS): Act 283 of 1964, Weights and measures act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20290.xml",
+   "versions": [
+    {
+     "from": "2026-01-26",
+     "units": 46,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20290.xml",
+     "sha256": "9b98c2c3c9e6062f3d03fe97d91ae6d9cf9f00fd1ea692ba353a480b3dc0c189"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0290-act-1984-0044",
+   "short": "MCL ch. 290, Act 44 of 1984",
+   "title": "Michigan Compiled Laws, Chapter 290 (WEIGHTS, MEASURES, AND STANDARDS): Act 44 of 1984, Motor fuels quality act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20290.xml",
+   "versions": [
+    {
+     "from": "2026-01-26",
+     "units": 27,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20290.xml",
+     "sha256": "9b98c2c3c9e6062f3d03fe97d91ae6d9cf9f00fd1ea692ba353a480b3dc0c189"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0290-act-1965-0232",
+   "short": "MCL ch. 290, Act 232 of 1965",
+   "title": "Michigan Compiled Laws, Chapter 290 (WEIGHTS, MEASURES, AND STANDARDS): Act 232 of 1965, Agricultural commodities marketing act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20290.xml",
+   "versions": [
+    {
+     "from": "2026-01-26",
+     "units": 26,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20290.xml",
+     "sha256": "9b98c2c3c9e6062f3d03fe97d91ae6d9cf9f00fd1ea692ba353a480b3dc0c189"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0290-act-1975-0153",
+   "short": "MCL ch. 290, Act 153 of 1975",
+   "title": "Michigan Compiled Laws, Chapter 290 (WEIGHTS, MEASURES, AND STANDARDS): Act 153 of 1975, MARKETING FEES FOR FRUITS AND VEGETABLES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20290.xml",
+   "versions": [
+    {
+     "from": "2026-01-26",
+     "units": 3,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20290.xml",
+     "sha256": "9b98c2c3c9e6062f3d03fe97d91ae6d9cf9f00fd1ea692ba353a480b3dc0c189"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0290-act-1972-0344",
+   "short": "MCL ch. 290, Act 344 of 1972",
+   "title": "Michigan Compiled Laws, Chapter 290 (WEIGHTS, MEASURES, AND STANDARDS): Act 344 of 1972, Agricultural marketing and bargaining act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20290.xml",
+   "versions": [
+    {
+     "from": "2026-01-26",
+     "units": 28,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20290.xml",
+     "sha256": "9b98c2c3c9e6062f3d03fe97d91ae6d9cf9f00fd1ea692ba353a480b3dc0c189"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0290-act-e-r-o-no-2007-0007",
+   "short": "MCL ch. 290, E.R.O. No. 2007-7",
+   "title": "Michigan Compiled Laws, Chapter 290 (WEIGHTS, MEASURES, AND STANDARDS): E.R.O. No. 2007-7, EXECUTIVE REORGANIZATION ORDER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20290.xml",
+   "versions": [
+    {
+     "from": "2026-01-26",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20290.xml",
+     "sha256": "9b98c2c3c9e6062f3d03fe97d91ae6d9cf9f00fd1ea692ba353a480b3dc0c189"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0290-act-1994-0184",
+   "short": "MCL ch. 290, Act 184 of 1994",
+   "title": "Michigan Compiled Laws, Chapter 290 (WEIGHTS, MEASURES, AND STANDARDS): Act 184 of 1994, Michigan ginseng act",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20290.xml",
+   "versions": [
+    {
+     "from": "2026-01-26",
+     "units": 16,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20290.xml",
+     "sha256": "9b98c2c3c9e6062f3d03fe97d91ae6d9cf9f00fd1ea692ba353a480b3dc0c189"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0299-act-e-r-o-no-1973-0002",
+   "short": "MCL ch. 299, E.R.O. No. 1973-2",
+   "title": "Michigan Compiled Laws, Chapter 299 (NATURAL RESOURCES): E.R.O. No. 1973-2, EXECUTIVE REORGANIZATION ORDER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20299.xml",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20299.xml",
+     "sha256": "da128f6aa1212e4204888caa33daf36b3cbc79e305d7836da6945a07df7ce057"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0299-act-e-r-o-no-1988-0001",
+   "short": "MCL ch. 299, E.R.O. No. 1988-1",
+   "title": "Michigan Compiled Laws, Chapter 299 (NATURAL RESOURCES): E.R.O. No. 1988-1, EXECUTIVE REORGANIZATION ORDER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20299.xml",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20299.xml",
+     "sha256": "da128f6aa1212e4204888caa33daf36b3cbc79e305d7836da6945a07df7ce057"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0299-act-e-r-o-no-1991-0022",
+   "short": "MCL ch. 299, E.R.O. No. 1991-22",
+   "title": "Michigan Compiled Laws, Chapter 299 (NATURAL RESOURCES): E.R.O. No. 1991-22, EXECUTIVE REORGANIZATION ORDER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20299.xml",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20299.xml",
+     "sha256": "da128f6aa1212e4204888caa33daf36b3cbc79e305d7836da6945a07df7ce057"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0299-act-e-r-o-no-1994-0004",
+   "short": "MCL ch. 299, E.R.O. No. 1994-4",
+   "title": "Michigan Compiled Laws, Chapter 299 (NATURAL RESOURCES): E.R.O. No. 1994-4, EXECUTIVE REORGANIZATION ORDER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20299.xml",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20299.xml",
+     "sha256": "da128f6aa1212e4204888caa33daf36b3cbc79e305d7836da6945a07df7ce057"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0299-act-e-r-o-no-1995-0003",
+   "short": "MCL ch. 299, E.R.O. No. 1995-3",
+   "title": "Michigan Compiled Laws, Chapter 299 (NATURAL RESOURCES): E.R.O. No. 1995-3, EXECUTIVE REORGANIZATION ORDER",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20299.xml",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20299.xml",
+     "sha256": "da128f6aa1212e4204888caa33daf36b3cbc79e305d7836da6945a07df7ce057"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0300-act-1986-0109",
+   "short": "MCL ch. 300, Act 109 of 1986",
+   "title": "Michigan Compiled Laws, Chapter 300 (FISH AND GAME): Act 109 of 1986, CONSERVATION OFFICERS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20300.xml",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 2,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20300.xml",
+     "sha256": "08afbdc28289ff1e0da2d65c762403bc387d71cfae557cb550c32d9139ba8d64"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0308-act-1935-0179",
+   "short": "MCL ch. 308, Act 179 of 1935",
+   "title": "Michigan Compiled Laws, Chapter 308 (COMMERCIAL FISHING): Act 179 of 1935, COMMERCIAL FISHING IN LAKE HURON",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20308.xml",
+   "versions": [
+    {
+     "from": "2026-01-17",
+     "units": 3,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20308.xml",
+     "sha256": "9683e7ea62a985bcc8a93f3ddd9f57baa51f4b729998cb38734e3fb4e6f2a0e3"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0317-act-1955-0189",
+   "short": "MCL ch. 317, Act 189 of 1955",
+   "title": "Michigan Compiled Laws, Chapter 317 (GAME BREEDING AND PROTECTION): Act 189 of 1955, MINK FARMS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20317.xml",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 2,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20317.xml",
+     "sha256": "089012e5d4fbb6e23af27f8e01f777b7de7b400f361e83734d33db73bd10fdb0"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0317-act-1915-0085",
+   "short": "MCL ch. 317, Act 85 of 1915",
+   "title": "Michigan Compiled Laws, Chapter 317 (GAME BREEDING AND PROTECTION): Act 85 of 1915, FUR-BEARING ANIMALS IN CAPTIVITY FOR BREEDING",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20317.xml",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 4,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20317.xml",
+     "sha256": "089012e5d4fbb6e23af27f8e01f777b7de7b400f361e83734d33db73bd10fdb0"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0317-act-1919-0406",
+   "short": "MCL ch. 317, Act 406 of 1919",
+   "title": "Michigan Compiled Laws, Chapter 317 (GAME BREEDING AND PROTECTION): Act 406 of 1919, PROTECTION OF CERTAIN ANIMALS AND BIRDS IN VICINITY OF CITY PARK",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20317.xml",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 2,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20317.xml",
+     "sha256": "089012e5d4fbb6e23af27f8e01f777b7de7b400f361e83734d33db73bd10fdb0"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0317-act-1929-0184",
+   "short": "MCL ch. 317, Act 184 of 1929",
+   "title": "Michigan Compiled Laws, Chapter 317 (GAME BREEDING AND PROTECTION): Act 184 of 1929, WILD LIFE SANCTUARIES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20317.xml",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 9,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20317.xml",
+     "sha256": "089012e5d4fbb6e23af27f8e01f777b7de7b400f361e83734d33db73bd10fdb0"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0317-act-1925-0080",
+   "short": "MCL ch. 317, Act 80 of 1925",
+   "title": "Michigan Compiled Laws, Chapter 317 (GAME BREEDING AND PROTECTION): Act 80 of 1925, PINE LAKE WILD LIFE SANCTUARY",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20317.xml",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20317.xml",
+     "sha256": "089012e5d4fbb6e23af27f8e01f777b7de7b400f361e83734d33db73bd10fdb0"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0317-act-1927-0368",
+   "short": "MCL ch. 317, Act 368 of 1927",
+   "title": "Michigan Compiled Laws, Chapter 317 (GAME BREEDING AND PROTECTION): Act 368 of 1927, GULL LAKE SANCTUARY",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20317.xml",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 2,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20317.xml",
+     "sha256": "089012e5d4fbb6e23af27f8e01f777b7de7b400f361e83734d33db73bd10fdb0"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0317-act-1929-0022",
+   "short": "MCL ch. 317, Act 22 of 1929",
+   "title": "Michigan Compiled Laws, Chapter 317 (GAME BREEDING AND PROTECTION): Act 22 of 1929, HARBOR BEACH REFUGE",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20317.xml",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 4,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20317.xml",
+     "sha256": "089012e5d4fbb6e23af27f8e01f777b7de7b400f361e83734d33db73bd10fdb0"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0317-act-1933-0164",
+   "short": "MCL ch. 317, Act 164 of 1933",
+   "title": "Michigan Compiled Laws, Chapter 317 (GAME BREEDING AND PROTECTION): Act 164 of 1933, GOGUAC LAKE SANCTUARY",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20317.xml",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 2,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20317.xml",
+     "sha256": "089012e5d4fbb6e23af27f8e01f777b7de7b400f361e83734d33db73bd10fdb0"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0319-act-1941-0178",
+   "short": "MCL ch. 319, Act 178 of 1941",
+   "title": "Michigan Compiled Laws, Chapter 319 (OIL, GAS, AND MINERALS): Act 178 of 1941, OIL AND GAS MINING",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20319.xml",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 10,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20319.xml",
+     "sha256": "5315386189f95d009c11bd46581002c61d6559d282edb2c250a2d238c926db5d"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0322-act-1941-0230",
+   "short": "MCL ch. 322, Act 230 of 1941",
+   "title": "Michigan Compiled Laws, Chapter 322 (STATE LANDS): Act 230 of 1941, SALE OR LEASE OF REAL ESTATE ACQUIRED BY STATE",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20322.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20322.xml",
+     "sha256": "15d446b7c0d4cb90bbdd23d854211d4919ec489ce8806ea4b81833b5b24735d7"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0322-act-1848-0037",
+   "short": "MCL ch. 322, Act 37 of 1848",
+   "title": "Michigan Compiled Laws, Chapter 322 (STATE LANDS): Act 37 of 1848, RECORDING APPROVAL OF SELECTIONS OF LANDS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20322.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 2,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20322.xml",
+     "sha256": "15d446b7c0d4cb90bbdd23d854211d4919ec489ce8806ea4b81833b5b24735d7"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0322-act-1873-0087",
+   "short": "MCL ch. 322, Act 87 of 1873",
+   "title": "Michigan Compiled Laws, Chapter 322 (STATE LANDS): Act 87 of 1873, RECORDING EVIDENCE OF TITLE",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20322.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20322.xml",
+     "sha256": "15d446b7c0d4cb90bbdd23d854211d4919ec489ce8806ea4b81833b5b24735d7"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0322-act-1843-0012",
+   "short": "MCL ch. 322, Act 12 of 1843",
+   "title": "Michigan Compiled Laws, Chapter 322 (STATE LANDS): Act 12 of 1843, RECORDING DEEDS TO STATE AND OTHER EVIDENCES OF TITLE",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20322.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 6,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20322.xml",
+     "sha256": "15d446b7c0d4cb90bbdd23d854211d4919ec489ce8806ea4b81833b5b24735d7"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0322-act-1863-0140",
+   "short": "MCL ch. 322, Act 140 of 1863",
+   "title": "Michigan Compiled Laws, Chapter 322 (STATE LANDS): Act 140 of 1863, AGRICULTURAL COLLEGE LANDS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20322.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 11,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20322.xml",
+     "sha256": "15d446b7c0d4cb90bbdd23d854211d4919ec489ce8806ea4b81833b5b24735d7"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0322-act-r-s-of-1846",
+   "short": "MCL ch. 322, R.S. of 1846",
+   "title": "Michigan Compiled Laws, Chapter 322 (STATE LANDS): R.S. of 1846, Revised Statutes of 1846",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20322.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 2,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20322.xml",
+     "sha256": "15d446b7c0d4cb90bbdd23d854211d4919ec489ce8806ea4b81833b5b24735d7"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0322-act-1913-0270",
+   "short": "MCL ch. 322, Act 270 of 1913",
+   "title": "Michigan Compiled Laws, Chapter 322 (STATE LANDS): Act 270 of 1913, COMMISSIONER OF STATE LAND OFFICE; ABOLISHED",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20322.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20322.xml",
+     "sha256": "15d446b7c0d4cb90bbdd23d854211d4919ec489ce8806ea4b81833b5b24735d7"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0322-act-1907-0292",
+   "short": "MCL ch. 322, Act 292 of 1907",
+   "title": "Michigan Compiled Laws, Chapter 322 (STATE LANDS): Act 292 of 1907, SECTION CORNERS AND BOUNDARIES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20322.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 3,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20322.xml",
+     "sha256": "15d446b7c0d4cb90bbdd23d854211d4919ec489ce8806ea4b81833b5b24735d7"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0322-act-1921-0312",
+   "short": "MCL ch. 322, Act 312 of 1921",
+   "title": "Michigan Compiled Laws, Chapter 322 (STATE LANDS): Act 312 of 1921, SECTION CORNERS AND BOUNDARIES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20322.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 2,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20322.xml",
+     "sha256": "15d446b7c0d4cb90bbdd23d854211d4919ec489ce8806ea4b81833b5b24735d7"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0322-act-1873-0021",
+   "short": "MCL ch. 322, Act 21 of 1873",
+   "title": "Michigan Compiled Laws, Chapter 322 (STATE LANDS): Act 21 of 1873, RESERVED OR FORFEITED LANDS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20322.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 5,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20322.xml",
+     "sha256": "15d446b7c0d4cb90bbdd23d854211d4919ec489ce8806ea4b81833b5b24735d7"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0322-act-1848-0149",
+   "short": "MCL ch. 322, Act 149 of 1848",
+   "title": "Michigan Compiled Laws, Chapter 322 (STATE LANDS): Act 149 of 1848, CERTIFICATES FOR SCHOOL AND UNIVERSITY LANDS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20322.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 3,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20322.xml",
+     "sha256": "15d446b7c0d4cb90bbdd23d854211d4919ec489ce8806ea4b81833b5b24735d7"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0322-act-1853-0042",
+   "short": "MCL ch. 322, Act 42 of 1853",
+   "title": "Michigan Compiled Laws, Chapter 322 (STATE LANDS): Act 42 of 1853, CERTIFICATES FOR NORMAL SCHOOL LANDS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20322.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 2,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20322.xml",
+     "sha256": "15d446b7c0d4cb90bbdd23d854211d4919ec489ce8806ea4b81833b5b24735d7"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0322-act-r-s-of-1846-2",
+   "short": "MCL ch. 322, R.S. of 1846",
+   "title": "Michigan Compiled Laws, Chapter 322 (STATE LANDS): R.S. of 1846, Revised Statutes of 1846",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20322.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 41,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20322.xml",
+     "sha256": "15d446b7c0d4cb90bbdd23d854211d4919ec489ce8806ea4b81833b5b24735d7"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0322-act-1917-0019",
+   "short": "MCL ch. 322, Act 19 of 1917",
+   "title": "Michigan Compiled Laws, Chapter 322 (STATE LANDS): Act 19 of 1917, CERTIFICATES OF CORRECTION",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20322.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20322.xml",
+     "sha256": "15d446b7c0d4cb90bbdd23d854211d4919ec489ce8806ea4b81833b5b24735d7"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0322-act-1917-0133",
+   "short": "MCL ch. 322, Act 133 of 1917",
+   "title": "Michigan Compiled Laws, Chapter 322 (STATE LANDS): Act 133 of 1917, SALE OF CERTAIN LANDS FOR RIGHT OF WAY",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20322.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20322.xml",
+     "sha256": "15d446b7c0d4cb90bbdd23d854211d4919ec489ce8806ea4b81833b5b24735d7"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0322-act-1883-0197",
+   "short": "MCL ch. 322, Act 197 of 1883",
+   "title": "Michigan Compiled Laws, Chapter 322 (STATE LANDS): Act 197 of 1883, LANDS GRANTED TO STATE FOR RAILROAD PURPOSES",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20322.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 10,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20322.xml",
+     "sha256": "15d446b7c0d4cb90bbdd23d854211d4919ec489ce8806ea4b81833b5b24735d7"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0322-act-1881-0230",
+   "short": "MCL ch. 322, Act 230 of 1881",
+   "title": "Michigan Compiled Laws, Chapter 322 (STATE LANDS): Act 230 of 1881, CERTIFICATES FOR PART-PAID STATE LAND",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20322.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 7,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20322.xml",
+     "sha256": "15d446b7c0d4cb90bbdd23d854211d4919ec489ce8806ea4b81833b5b24735d7"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0322-act-1879-0040",
+   "short": "MCL ch. 322, Act 40 of 1879",
+   "title": "Michigan Compiled Laws, Chapter 322 (STATE LANDS): Act 40 of 1879, RESTORATION OF STATE LANDS TO MARKET",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20322.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20322.xml",
+     "sha256": "15d446b7c0d4cb90bbdd23d854211d4919ec489ce8806ea4b81833b5b24735d7"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0322-act-1869-0101",
+   "short": "MCL ch. 322, Act 101 of 1869",
+   "title": "Michigan Compiled Laws, Chapter 322 (STATE LANDS): Act 101 of 1869, PATENTS TO SWAMP LANDS; ASSESSMENT AND TAXATION",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20322.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 3,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20322.xml",
+     "sha256": "15d446b7c0d4cb90bbdd23d854211d4919ec489ce8806ea4b81833b5b24735d7"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0322-act-1846-0083",
+   "short": "MCL ch. 322, Act 83 of 1846",
+   "title": "Michigan Compiled Laws, Chapter 322 (STATE LANDS): Act 83 of 1846, PATENTS ISSUED BY GOVERNOR",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20322.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 4,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20322.xml",
+     "sha256": "15d446b7c0d4cb90bbdd23d854211d4919ec489ce8806ea4b81833b5b24735d7"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0322-act-1935-0061",
+   "short": "MCL ch. 322, Act 61 of 1935",
+   "title": "Michigan Compiled Laws, Chapter 322 (STATE LANDS): Act 61 of 1935, NEW DEEDS TO PURCHASERS OF STATE LANDS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20322.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20322.xml",
+     "sha256": "15d446b7c0d4cb90bbdd23d854211d4919ec489ce8806ea4b81833b5b24735d7"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0322-act-1959-0066",
+   "short": "MCL ch. 322, Act 66 of 1959",
+   "title": "Michigan Compiled Laws, Chapter 322 (STATE LANDS): Act 66 of 1959, LIVESTOCK GRAZING ON STATE LANDS",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20322.xml",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 12,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20322.xml",
+     "sha256": "15d446b7c0d4cb90bbdd23d854211d4919ec489ce8806ea4b81833b5b24735d7"
+    }
+   ]
+  },
+  {
+   "slug": "mcl-0323-act-1949-0222",
+   "short": "MCL ch. 323, Act 222 of 1949",
+   "title": "Michigan Compiled Laws, Chapter 323 (WATER RESOURCES): Act 222 of 1949, PREVENTION AND ABATEMENT OF WATER POLLUTION",
+   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20323.xml",
+   "versions": [
+    {
+     "from": "2026-03-21",
+     "units": 3,
+     "source_url": "https://www.legislature.mi.gov/documents/mcl/Chapter%20323.xml",
+     "sha256": "9093cf0da99b95ceef826011c533013901fc6cf3298a2c2958765b991acb1823"
+    }
+   ]
   }
  ]
 }

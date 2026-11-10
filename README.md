@@ -4,7 +4,7 @@ Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git h
 
 The law of Michigan as a git history: one file per provision, with `git blame` and `git log` working line by line. It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
 
-**What is in it now (not complete)**: 69 chapters of the Michigan Compiled Laws, 947 Acts, 14374 sections. Each Act is a folder; MCL chapter 1 is the Constitution of 1963.
+**What is in it now (not complete)**: 99 chapters of the Michigan Compiled Laws, 1254 Acts, 19117 sections. Each Act is a folder; MCL chapter 1 is the Constitution of 1963.
 
 | MCL chapter | Chapter title | Acts | Sections | Text as of | Folders |
 | ---: | --- | ---: | ---: | --- | --- |
@@ -72,6 +72,36 @@ The law of Michigan as a git history: one file per provision, with `git blame` a
 | 206 | Income tax act of 1967 | 12 | 303 | 2026-02-07 | `mcl-0206-act-1967-0281/` .. `mcl-0206-act-2018-0257/` |
 | 207 | Taxation | 20 | 424 | 2026-01-23 | `mcl-0207-act-1905-0282/` .. `mcl-0207-act-2000-0403/` |
 | 208 | Business tax | 2 | 99 | 2026-01-15 | `mcl-0208-act-2006-0325/` .. `mcl-0208-act-2007-0036/` |
+| 209 | State assessment and equalization | 6 | 23 | 2026-03-24 | `mcl-0209-act-1911-0044/` .. `mcl-0209-act-1925-0155/` |
+| 211 | Taxation of real and personal property | 43 | 513 | 2026-01-16 | `mcl-0211-act-1893-0206/` .. `mcl-0211-act-2023-0108/` |
+| 213 | Condemnation | 14 | 130 | 2026-04-16 | `mcl-0213-act-1911-0236/` .. `mcl-0213-act-1966-0295/` |
+| 220 | General highway law | 1 | 113 | 2026-03-30 | `mcl-0220-act-1909-0283/` |
+| 247 | Highways | 32 | 323 | 2026-03-24 | `mcl-0247-act-1927-0341/` .. `mcl-0247-act-1993-0069/` |
+| 249 | Highways | 2 | 7 | 2026-01-16 | `mcl-0249-act-1917-0099/` .. `mcl-0249-act-1931-0096/` |
+| 250 | Highways | 11 | 226 | 2026-03-24 | `mcl-0250-act-1925-0017/` .. `mcl-0250-act-2001-0142/` |
+| 252 | Highways | 7 | 86 | 2026-03-24 | `mcl-0252-act-1925-0381/` .. `mcl-0252-act-1972-0106/` |
+| 254 | Bridges | 11 | 142 | 2026-01-31 | `mcl-0254-act-1925-0354/` .. `mcl-0254-act-1966-0013/` |
+| 255 | Ferries | 2 | 13 | 2026-03-31 | `mcl-0255-act-r-s-of-1846/` .. `mcl-0255-act-1943-0150/` |
+| 256 | Motor vehicles | 5 | 54 | 2026-03-25 | `mcl-0256-act-1931-0191/` .. `mcl-0256-act-2006-0384/` |
+| 257 | Motor vehicles | 18 | 1088 | 2026-03-23 | `mcl-0257-act-1949-0300/` .. `mcl-0257-act-2024-0223/` |
+| 259 | Aviation | 11 | 277 | 2026-03-20 | `mcl-0259-act-1945-0327/` .. `mcl-0259-act-1970-0073/` |
+| 279 | Drains | 1 | 8 | 2026-03-30 | `mcl-0279-act-1953-0157/` |
+| 280 | Drain code of 1956 | 1 | 312 | 2026-03-20 | `mcl-0280-act-1956-0040/` |
+| 281 | Lakes and rivers | 1 | 1 | 2026-03-30 | `mcl-0281-act-1961-0053/` |
+| 282 | Soil conservation | 1 | 1 | 2026-03-24 | `mcl-0282-act-e-r-o-no-1995-0015/` |
+| 285 | Agriculture | 19 | 147 | 2026-01-23 | `mcl-0285-act-1921-0013/` .. `mcl-0285-act-2012-0487/` |
+| 286 | Agricultural industry | 25 | 219 | 2026-03-21 | `mcl-0286-act-1959-0221/` .. `mcl-0286-act-2012-0411/` |
+| 287 | Animal industry | 24 | 347 | 2026-01-14 | `mcl-0287-act-1974-0093/` .. `mcl-0287-act-2000-0274/` |
+| 288 | Dairy industry | 2 | 119 | 2026-01-30 | `mcl-0288-act-2001-0266/` .. `mcl-0288-act-2001-0267/` |
+| 289 | Pure foods and standards | 8 | 164 | 2026-03-26 | `mcl-0289-act-1893-0211/` .. `mcl-0289-act-2000-0092/` |
+| 290 | Weights, measures, and standards | 23 | 253 | 2026-01-26 | `mcl-0290-act-1929-0017/` .. `mcl-0290-act-1994-0184/` |
+| 299 | Natural resources | 5 | 5 | 2026-03-30 | `mcl-0299-act-e-r-o-no-1973-0002/` .. `mcl-0299-act-e-r-o-no-1995-0003/` |
+| 300 | Fish and game | 1 | 2 | 2026-03-30 | `mcl-0300-act-1986-0109/` |
+| 308 | Commercial fishing | 1 | 3 | 2026-01-17 | `mcl-0308-act-1935-0179/` |
+| 317 | Game breeding and protection | 8 | 30 | 2026-01-12 | `mcl-0317-act-1955-0189/` .. `mcl-0317-act-1933-0164/` |
+| 319 | Oil, gas, and minerals | 1 | 10 | 2026-01-23 | `mcl-0319-act-1941-0178/` |
+| 322 | State lands | 22 | 124 | 2026-03-26 | `mcl-0322-act-1941-0230/` .. `mcl-0322-act-1959-0066/` |
+| 323 | Water resources | 1 | 3 | 2026-03-21 | `mcl-0323-act-1949-0222/` |
 | 440 | Uniform commercial code | 1 | 638 | 2025-03-11 | `mcl-act-1962-0174/` |
 | 450 | Corporations | 18 | 845 | 2025-03-11 | `mcl-act-1931-0327/` .. `mcl-act-1993-0023/` |
 | 554 | Real and personal property | 24 | 260 | 2025-03-11 | `mcl-act-r-s-of-1846-3/` .. `mcl-act-2022-0115/` |
