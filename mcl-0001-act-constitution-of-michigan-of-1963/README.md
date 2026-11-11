@@ -1,6 +1,6 @@
 # Michigan Compiled Laws, Chapter 1 (Constitution of Michigan of 1963): CONSTITUTION OF MICHIGAN OF 1963, STATE CONSTITUTION
 
-MCL ch. 1, CONSTITUTION OF MICHIGAN OF 1963 · 1 versions, from 2026-02-01 (latest in force: 2026-02-01) · <https://www.legislature.mi.gov/documents/mcl/Chapter%201.xml>
+MCL ch. 1, CONSTITUTION OF MICHIGAN OF 1963 · 2 versions, from 2018-12-22 (latest in force: 2026-02-01) · <https://web.archive.org/web/20190706013411id_/http://legislature.mi.gov:80/documents/mcl/Chapter%201.xml>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -14,7 +14,7 @@ MCL ch. 1, CONSTITUTION OF MICHIGAN OF 1963 · 1 versions, from 2026-02-01 (late
 | MCL Article I § 8 | [sec-article-i-0008.md](sec-article-i-0008.md) | 0 |  |
 | MCL Article I § 9 | [sec-article-i-0009.md](sec-article-i-0009.md) | 0 |  |
 | MCL Article I § 10 | [sec-article-i-0010.md](sec-article-i-0010.md) | 0 |  |
-| MCL Article I § 11 | [sec-article-i-0011.md](sec-article-i-0011.md) | 0 |  |
+| MCL Article I § 11 | [sec-article-i-0011.md](sec-article-i-0011.md) | 1 | 2026-02-01 |
 | MCL Article I § 12 | [sec-article-i-0012.md](sec-article-i-0012.md) | 0 |  |
 | MCL Article I § 13 | [sec-article-i-0013.md](sec-article-i-0013.md) | 0 |  |
 | MCL Article I § 14 | [sec-article-i-0014.md](sec-article-i-0014.md) | 0 |  |
@@ -28,20 +28,20 @@ MCL ch. 1, CONSTITUTION OF MICHIGAN OF 1963 · 1 versions, from 2026-02-01 (late
 | MCL Article I § 22 | [sec-article-i-0022.md](sec-article-i-0022.md) | 0 |  |
 | MCL Article I § 23 | [sec-article-i-0023.md](sec-article-i-0023.md) | 0 |  |
 | MCL Article I § 24 | [sec-article-i-0024.md](sec-article-i-0024.md) | 0 |  |
-| MCL Article I § 25 | [sec-article-i-0025.md](sec-article-i-0025.md) | 0 |  |
-| MCL Article I § 26 | [sec-article-i-0026.md](sec-article-i-0026.md) | 0 |  |
-| MCL Article I § 27 | [sec-article-i-0027.md](sec-article-i-0027.md) | 0 |  |
-| MCL Article I § 28 | [sec-article-i-0028.md](sec-article-i-0028.md) | 0 |  |
+| MCL Article I § 25 | [sec-article-i-0025.md](sec-article-i-0025.md) | 1 | 2026-02-01 |
+| MCL Article I § 26 | [sec-article-i-0026.md](sec-article-i-0026.md) | 1 | 2026-02-01 |
+| MCL Article I § 27 | [sec-article-i-0027.md](sec-article-i-0027.md) | 1 | 2026-02-01 |
+| MCL Article I § 28 | [sec-article-i-0028.md](sec-article-i-0028.md) | 1 | 2026-02-01 |
 | MCL Article II § 1 | [sec-article-ii-0001.md](sec-article-ii-0001.md) | 0 |  |
 | MCL Article II § 2 | [sec-article-ii-0002.md](sec-article-ii-0002.md) | 0 |  |
 | MCL Article II § 3 | [sec-article-ii-0003.md](sec-article-ii-0003.md) | 0 |  |
-| MCL Article II § 4 | [sec-article-ii-0004.md](sec-article-ii-0004.md) | 0 |  |
+| MCL Article II § 4 | [sec-article-ii-0004.md](sec-article-ii-0004.md) | 1 | 2026-02-01 |
 | MCL Article II § 5 | [sec-article-ii-0005.md](sec-article-ii-0005.md) | 0 |  |
 | MCL Article II § 6 | [sec-article-ii-0006.md](sec-article-ii-0006.md) | 0 |  |
-| MCL Article II § 7 | [sec-article-ii-0007.md](sec-article-ii-0007.md) | 0 |  |
+| MCL Article II § 7 | [sec-article-ii-0007.md](sec-article-ii-0007.md) | 1 | 2026-02-01 |
 | MCL Article II § 8 | [sec-article-ii-0008.md](sec-article-ii-0008.md) | 0 |  |
 | MCL Article II § 9 | [sec-article-ii-0009.md](sec-article-ii-0009.md) | 0 |  |
-| MCL Article II § 10 | [sec-article-ii-0010.md](sec-article-ii-0010.md) | 0 |  |
+| MCL Article II § 10 | [sec-article-ii-0010.md](sec-article-ii-0010.md) | 1 | 2026-02-01 |
 | MCL Article III § 1 | [sec-article-iii-0001.md](sec-article-iii-0001.md) | 0 |  |
 | MCL Article III § 2 | [sec-article-iii-0002.md](sec-article-iii-0002.md) | 0 |  |
 | MCL Article III § 3 | [sec-article-iii-0003.md](sec-article-iii-0003.md) | 0 |  |
@@ -50,16 +50,16 @@ MCL ch. 1, CONSTITUTION OF MICHIGAN OF 1963 · 1 versions, from 2026-02-01 (late
 | MCL Article III § 6 | [sec-article-iii-0006.md](sec-article-iii-0006.md) | 0 |  |
 | MCL Article III § 7 | [sec-article-iii-0007.md](sec-article-iii-0007.md) | 0 |  |
 | MCL Article III § 8 | [sec-article-iii-0008.md](sec-article-iii-0008.md) | 0 |  |
-| MCL Article IV § 1 | [sec-article-iv-0001.md](sec-article-iv-0001.md) | 0 |  |
-| MCL Article IV § 2 | [sec-article-iv-0002.md](sec-article-iv-0002.md) | 0 |  |
-| MCL Article IV § 3 | [sec-article-iv-0003.md](sec-article-iv-0003.md) | 0 |  |
-| MCL Article IV § 4 | [sec-article-iv-0004.md](sec-article-iv-0004.md) | 0 |  |
-| MCL Article IV § 5 | [sec-article-iv-0005.md](sec-article-iv-0005.md) | 0 |  |
-| MCL Article IV § 6 | [sec-article-iv-0006.md](sec-article-iv-0006.md) | 0 |  |
+| MCL Article IV § 1 | [sec-article-iv-0001.md](sec-article-iv-0001.md) | 1 | 2026-02-01 |
+| MCL Article IV § 2 | [sec-article-iv-0002.md](sec-article-iv-0002.md) | 1 | 2026-02-01 |
+| MCL Article IV § 3 | [sec-article-iv-0003.md](sec-article-iv-0003.md) | 1 | 2026-02-01 |
+| MCL Article IV § 4 | [sec-article-iv-0004.md](sec-article-iv-0004.md) | 1 | 2026-02-01 |
+| MCL Article IV § 5 | [sec-article-iv-0005.md](sec-article-iv-0005.md) | 1 | 2026-02-01 |
+| MCL Article IV § 6 | [sec-article-iv-0006.md](sec-article-iv-0006.md) | 1 | 2026-02-01 |
 | MCL Article IV § 7 | [sec-article-iv-0007.md](sec-article-iv-0007.md) | 0 |  |
 | MCL Article IV § 8 | [sec-article-iv-0008.md](sec-article-iv-0008.md) | 0 |  |
 | MCL Article IV § 9 | [sec-article-iv-0009.md](sec-article-iv-0009.md) | 0 |  |
-| MCL Article IV § 10 | [sec-article-iv-0010.md](sec-article-iv-0010.md) | 0 |  |
+| MCL Article IV § 10 | [sec-article-iv-0010.md](sec-article-iv-0010.md) | 1 | 2026-02-01 |
 | MCL Article IV § 11 | [sec-article-iv-0011.md](sec-article-iv-0011.md) | 0 |  |
 | MCL Article IV § 12 | [sec-article-iv-0012.md](sec-article-iv-0012.md) | 0 |  |
 | MCL Article IV § 13 | [sec-article-iv-0013.md](sec-article-iv-0013.md) | 0 |  |
@@ -90,7 +90,7 @@ MCL ch. 1, CONSTITUTION OF MICHIGAN OF 1963 · 1 versions, from 2026-02-01 (late
 | MCL Article IV § 38 | [sec-article-iv-0038.md](sec-article-iv-0038.md) | 0 |  |
 | MCL Article IV § 39 | [sec-article-iv-0039.md](sec-article-iv-0039.md) | 0 |  |
 | MCL Article IV § 40 | [sec-article-iv-0040.md](sec-article-iv-0040.md) | 0 |  |
-| MCL Article IV § 41 | [sec-article-iv-0041.md](sec-article-iv-0041.md) | 0 |  |
+| MCL Article IV § 41 | [sec-article-iv-0041.md](sec-article-iv-0041.md) | 1 | 2026-02-01 |
 | MCL Article IV § 42 | [sec-article-iv-0042.md](sec-article-iv-0042.md) | 0 |  |
 | MCL Article IV § 43 | [sec-article-iv-0043.md](sec-article-iv-0043.md) | 0 |  |
 | MCL Article IV § 44 | [sec-article-iv-0044.md](sec-article-iv-0044.md) | 0 |  |
@@ -103,7 +103,7 @@ MCL ch. 1, CONSTITUTION OF MICHIGAN OF 1963 · 1 versions, from 2026-02-01 (late
 | MCL Article IV § 51 | [sec-article-iv-0051.md](sec-article-iv-0051.md) | 0 |  |
 | MCL Article IV § 52 | [sec-article-iv-0052.md](sec-article-iv-0052.md) | 0 |  |
 | MCL Article IV § 53 | [sec-article-iv-0053.md](sec-article-iv-0053.md) | 0 |  |
-| MCL Article IV § 54 | [sec-article-iv-0054.md](sec-article-iv-0054.md) | 0 |  |
+| MCL Article IV § 54 | [sec-article-iv-0054.md](sec-article-iv-0054.md) | 1 | 2026-02-01 |
 | MCL Article IX § 1 | [sec-article-ix-0001.md](sec-article-ix-0001.md) | 0 |  |
 | MCL Article IX § 2 | [sec-article-ix-0002.md](sec-article-ix-0002.md) | 0 |  |
 | MCL Article IX § 3 | [sec-article-ix-0003.md](sec-article-ix-0003.md) | 0 |  |
@@ -138,8 +138,8 @@ MCL ch. 1, CONSTITUTION OF MICHIGAN OF 1963 · 1 versions, from 2026-02-01 (late
 | MCL Article IX § 32 | [sec-article-ix-0032.md](sec-article-ix-0032.md) | 0 |  |
 | MCL Article IX § 33 | [sec-article-ix-0033.md](sec-article-ix-0033.md) | 0 |  |
 | MCL Article IX § 34 | [sec-article-ix-0034.md](sec-article-ix-0034.md) | 0 |  |
-| MCL Article IX § 35 | [sec-article-ix-0035.md](sec-article-ix-0035.md) | 0 |  |
-| MCL Article IX § 35a | [sec-article-ix-0035a.md](sec-article-ix-0035a.md) | 0 |  |
+| MCL Article IX § 35 | [sec-article-ix-0035.md](sec-article-ix-0035.md) | 1 | 2026-02-01 |
+| MCL Article IX § 35a | [sec-article-ix-0035a.md](sec-article-ix-0035a.md) | 1 | 2026-02-01 |
 | MCL Article IX § 36 | [sec-article-ix-0036.md](sec-article-ix-0036.md) | 0 |  |
 | MCL Article IX § 37 | [sec-article-ix-0037.md](sec-article-ix-0037.md) | 0 |  |
 | MCL Article IX § 38 | [sec-article-ix-0038.md](sec-article-ix-0038.md) | 0 |  |
@@ -147,10 +147,10 @@ MCL ch. 1, CONSTITUTION OF MICHIGAN OF 1963 · 1 versions, from 2026-02-01 (late
 | MCL Article IX § 40 | [sec-article-ix-0040.md](sec-article-ix-0040.md) | 0 |  |
 | MCL Article IX § 41 | [sec-article-ix-0041.md](sec-article-ix-0041.md) | 0 |  |
 | MCL Article IX § 42 | [sec-article-ix-0042.md](sec-article-ix-0042.md) | 0 |  |
-| MCL Article V § 1 | [sec-article-v-0001.md](sec-article-v-0001.md) | 0 |  |
-| MCL Article V § 2 | [sec-article-v-0002.md](sec-article-v-0002.md) | 0 |  |
+| MCL Article V § 1 | [sec-article-v-0001.md](sec-article-v-0001.md) | 1 | 2026-02-01 |
+| MCL Article V § 2 | [sec-article-v-0002.md](sec-article-v-0002.md) | 1 | 2026-02-01 |
 | MCL Article V § 3 | [sec-article-v-0003.md](sec-article-v-0003.md) | 0 |  |
-| MCL Article V § 4 | [sec-article-v-0004.md](sec-article-v-0004.md) | 0 |  |
+| MCL Article V § 4 | [sec-article-v-0004.md](sec-article-v-0004.md) | 1 | 2026-02-01 |
 | MCL Article V § 5 | [sec-article-v-0005.md](sec-article-v-0005.md) | 0 |  |
 | MCL Article V § 6 | [sec-article-v-0006.md](sec-article-v-0006.md) | 0 |  |
 | MCL Article V § 7 | [sec-article-v-0007.md](sec-article-v-0007.md) | 0 |  |
@@ -176,11 +176,11 @@ MCL ch. 1, CONSTITUTION OF MICHIGAN OF 1963 · 1 versions, from 2026-02-01 (late
 | MCL Article V § 27 | [sec-article-v-0027.md](sec-article-v-0027.md) | 0 |  |
 | MCL Article V § 28 | [sec-article-v-0028.md](sec-article-v-0028.md) | 0 |  |
 | MCL Article V § 29 | [sec-article-v-0029.md](sec-article-v-0029.md) | 0 |  |
-| MCL Article V § 30 | [sec-article-v-0030.md](sec-article-v-0030.md) | 0 |  |
-| MCL Article VI § 1 | [sec-article-vi-0001.md](sec-article-vi-0001.md) | 0 |  |
+| MCL Article V § 30 | [sec-article-v-0030.md](sec-article-v-0030.md) | 1 | 2026-02-01 |
+| MCL Article VI § 1 | [sec-article-vi-0001.md](sec-article-vi-0001.md) | 1 | 2026-02-01 |
 | MCL Article VI § 2 | [sec-article-vi-0002.md](sec-article-vi-0002.md) | 0 |  |
 | MCL Article VI § 3 | [sec-article-vi-0003.md](sec-article-vi-0003.md) | 0 |  |
-| MCL Article VI § 4 | [sec-article-vi-0004.md](sec-article-vi-0004.md) | 0 |  |
+| MCL Article VI § 4 | [sec-article-vi-0004.md](sec-article-vi-0004.md) | 1 | 2026-02-01 |
 | MCL Article VI § 5 | [sec-article-vi-0005.md](sec-article-vi-0005.md) | 0 |  |
 | MCL Article VI § 6 | [sec-article-vi-0006.md](sec-article-vi-0006.md) | 0 |  |
 | MCL Article VI § 7 | [sec-article-vi-0007.md](sec-article-vi-0007.md) | 0 |  |
@@ -251,7 +251,7 @@ MCL ch. 1, CONSTITUTION OF MICHIGAN OF 1963 · 1 versions, from 2026-02-01 (late
 | MCL Article VIII § 8 | [sec-article-viii-0008.md](sec-article-viii-0008.md) | 0 |  |
 | MCL Article VIII § 9 | [sec-article-viii-0009.md](sec-article-viii-0009.md) | 0 |  |
 | MCL Article X § 1 | [sec-article-x-0001.md](sec-article-x-0001.md) | 0 |  |
-| MCL Article X § 2 | [sec-article-x-0002.md](sec-article-x-0002.md) | 0 |  |
+| MCL Article X § 2 | [sec-article-x-0002.md](sec-article-x-0002.md) | 1 | 2026-02-01 |
 | MCL Article X § 3 | [sec-article-x-0003.md](sec-article-x-0003.md) | 0 |  |
 | MCL Article X § 4 | [sec-article-x-0004.md](sec-article-x-0004.md) | 0 |  |
 | MCL Article X § 5 | [sec-article-x-0005.md](sec-article-x-0005.md) | 0 |  |
@@ -267,7 +267,7 @@ MCL ch. 1, CONSTITUTION OF MICHIGAN OF 1963 · 1 versions, from 2026-02-01 (late
 | MCL Article XII § 1 | [sec-article-xii-0001.md](sec-article-xii-0001.md) | 0 |  |
 | MCL Article XII § 2 | [sec-article-xii-0002.md](sec-article-xii-0002.md) | 0 |  |
 | MCL Article XII § 3 | [sec-article-xii-0003.md](sec-article-xii-0003.md) | 0 |  |
-| MCL Article XII § 4 | [sec-article-xii-0004.md](sec-article-xii-0004.md) | 0 |  |
+| MCL Article XII § 4 | [sec-article-xii-0004.md](sec-article-xii-0004.md) | 1 | 2026-02-01 |
 | MCL Schedule § 1 | [sec-schedule-0001.md](sec-schedule-0001.md) | 0 |  |
 | MCL Schedule § 2 | [sec-schedule-0002.md](sec-schedule-0002.md) | 0 |  |
 | MCL Schedule § 3 | [sec-schedule-0003.md](sec-schedule-0003.md) | 0 |  |

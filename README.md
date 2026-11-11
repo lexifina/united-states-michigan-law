@@ -4,7 +4,7 @@ Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git h
 
 The law of Michigan as a git history: one file per provision, with `git blame` and `git log` working line by line. It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
 
-**What is in it now (not complete)**: 204 chapters of the Michigan Compiled Laws, 2372 Acts, 43685 sections. Each Act is a folder; MCL chapter 1 is the Constitution of 1963.
+**What is in it now (not complete)**: 204 chapters of the Michigan Compiled Laws, 2372 Acts, 43685 current sections. Each Act is a folder; MCL chapter 1 is the Constitution of 1963. Eleven acts in chapters 1–4 also have earlier snapshots from July 6, 2019 Internet Archive captures of the Legislature's official chapter XML. Each snapshot is dated by the latest effective date stated in its section History notes; the Constitution snapshot is dated December 22, 2018. The current versions remain in the record.
 
 | MCL chapter | Chapter title | Acts | Sections | Text as of | Folders |
 | ---: | --- | ---: | ---: | --- | --- |
@@ -225,8 +225,8 @@ Every version is read back from git on the day it took effect and on the day bef
 
 ## What "author" means
 
-The author of a commit is the law that made the change, with an e-mail address that cannot exist. No dated history is available, so every commit is credited to the publisher as "oldest version available". The committer is always Lexifina.
+The author of an original law commit is the law that made the change, with an e-mail address that cannot exist. Current snapshots without a credited amending law are credited to the publisher as "oldest version available". Later additions of historical snapshots are labelled correction commits. The committer is always Lexifina.
 
 ## Limits
 
-Chapters whose file the Internet Archive does not hold are not included yet; the Public Acts are not included. There is no history before the dates above. The five chapters of the first build (440, 450, 554, 565, 750) were first read with a reader that dropped tables, paragraph headings and some paragraph numbers in 86 sections; correction commits (`Kind: correction`, 2026-11-10) give their full text for the same day.
+Chapters whose file the Internet Archive does not hold are not included yet; the Public Acts are not included. The earlier snapshots are a partial historical record; intermediate amendments and complete act histories are not represented. An older snapshot of Act 114 of 1984 in chapter 3 is not included because its section text did not pass source comparison. The five chapters of the first build (440, 450, 554, 565, 750) were first read with a reader that dropped tables, paragraph headings and some paragraph numbers in 86 sections; correction commits (`Kind: correction`, 2026-11-10) give their full text for the same day.

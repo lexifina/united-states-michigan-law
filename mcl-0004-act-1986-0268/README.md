@@ -1,6 +1,6 @@
 # Michigan Compiled Laws, Chapter 4 (LEGISLATURE): Act 268 of 1986, Legislative council act
 
-MCL ch. 4, Act 268 of 1986 · 1 versions, from 2026-01-18 (latest in force: 2026-01-18) · <https://www.legislature.mi.gov/documents/mcl/Chapter%204.xml>
+MCL ch. 4, Act 268 of 1986 · 2 versions, from 2019-03-29 (latest in force: 2026-01-18) · <https://web.archive.org/web/20190706013824id_/http://legislature.mi.gov:80/documents/mcl/Chapter%204.xml>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -52,6 +52,6 @@ MCL ch. 4, Act 268 of 1986 · 1 versions, from 2026-01-18 (latest in force: 2026
 | MCL 4.1751 | [sec-0004-1751.md](sec-0004-1751.md) | 0 |  |
 | MCL 4.1781 | [sec-0004-1781.md](sec-0004-1781.md) | 0 |  |
 | MCL 4.1801 | [sec-0004-1801.md](sec-0004-1801.md) | 0 |  |
-| MCL 4.1850 | [sec-0004-1850.md](sec-0004-1850.md) | 0 |  |
-| MCL 4.1851 | [sec-0004-1851.md](sec-0004-1851.md) | 0 |  |
+| MCL 4.1850 | [sec-0004-1850.md](sec-0004-1850.md) | 1 | 2026-01-18 |
+| MCL 4.1851 | [sec-0004-1851.md](sec-0004-1851.md) | 1 | 2026-01-18 |
 | MCL 4.1901 | [sec-0004-1901.md](sec-0004-1901.md) | 0 |  |
