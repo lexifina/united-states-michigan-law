@@ -3283,6 +3283,37 @@
     "mcl-0830-act-1964-0183"
    ],
    "sha256": "343640a49b4b252e4ecf4ac43799b3bb1453818859092223e4de9032a52fb091"
+  },
+  "zz-history-r2-0001-20190706.json": {
+   "acts": [
+    "mcl-0001-act-constitution-of-michigan-of-1963"
+   ],
+   "sha256": "4729d435aa2a52af4039e07567a6bd9596a82ae4b1a4823d3c2eb770abc82d69"
+  },
+  "zz-history-r2-0002-20190706.json": {
+   "acts": [
+    "mcl-0002-act-1947-0267"
+   ],
+   "sha256": "b693fed147c82aa64f519c98c1dcdf3b5980dedf0eacece0e0882720cca985d4"
+  },
+  "zz-history-r2-0003-20190706.json": {
+   "acts": [
+    "mcl-0003-act-1943-0017",
+    "mcl-0003-act-1960-0124",
+    "mcl-0003-act-2006-0173",
+    "mcl-0003-act-2006-0679",
+    "mcl-0003-act-2008-0493"
+   ],
+   "sha256": "62ca4b834bc4456fa9679bbfc9a17b9950f101fa5537ddfdde96b2907953ea12"
+  },
+  "zz-history-r2-0004-20190706.json": {
+   "acts": [
+    "mcl-0004-act-1893-0058",
+    "mcl-0004-act-1983-0256",
+    "mcl-0004-act-1986-0268",
+    "mcl-0004-act-2001-0185"
+   ],
+   "sha256": "3c0b89aafb63d2e22caba8833c0910593919c519b9b10fce398f6cc4bc1bafeb"
   }
  },
  "schema": 1
