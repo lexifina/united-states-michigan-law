@@ -1,6 +1,6 @@
 # How this repository was made (United States (Michigan))
 
-This file is written by the build on 2026-11-10, the day the source data was retrieved.
+This file is written by the build on 2026-11-11, the day the source data was retrieved.
 
 ## Sources
 
@@ -206,6 +206,10 @@ This file is written by the build on 2026-11-10, the day the source data was ret
 | Michigan Compiled Laws chapter 801 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20801.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
 | Michigan Compiled Laws chapter 803 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20803.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
 | Michigan Compiled Laws chapter 830 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20830.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
+| Michigan Compiled Laws chapter 1 XML, official text in Internet Archive capture 20190706013411 | <https://web.archive.org/web/20190706013411id_/http://legislature.mi.gov:80/documents/mcl/Chapter%201.xml> | 2026-11-11 | Michigan statute and constitutional text is public domain. |
+| Michigan Compiled Laws chapter 2 XML, official text in Internet Archive capture 20190706014626 | <https://web.archive.org/web/20190706014626id_/http://legislature.mi.gov:80/documents/mcl/Chapter%202.xml> | 2026-11-11 | Michigan statute and constitutional text is public domain. |
+| Michigan Compiled Laws chapter 3 XML, official text in Internet Archive capture 20190706014818 | <https://web.archive.org/web/20190706014818id_/http://legislature.mi.gov:80/documents/mcl/Chapter%203.xml> | 2026-11-11 | Michigan statute and constitutional text is public domain. |
+| Michigan Compiled Laws chapter 4 XML, official text in Internet Archive capture 20190706013824 | <https://web.archive.org/web/20190706013824id_/http://legislature.mi.gov:80/documents/mcl/Chapter%204.xml> | 2026-11-11 | Michigan statute and constitutional text is public domain. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -296,7 +300,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `mcl-act-1993-0092` | Michigan Compiled Laws, Chapter 565 (CONVEYANCES OF REAL PROPERTY): Act 92 of 1993, Seller disclosure act | 1 | 2025-03-11 to 2025-03-11 |
 | `mcl-act-2022-0006` | Michigan Compiled Laws, Chapter 565 (CONVEYANCES OF REAL PROPERTY): Act 6 of 2022, MICHIGAN FIRST-TIME HOME BUYER SAVINGS PROGRAM ACT | 1 | 2025-03-11 to 2025-03-11 |
 | `mcl-act-1962-0174` | Michigan Compiled Laws, Chapter 440 (UNIFORM COMMERCIAL CODE): Act 174 of 1962, Uniform commercial code | 1 | 2025-03-11 to 2025-03-11 |
-| `mcl-0001-act-constitution-of-michigan-of-1963` | Michigan Compiled Laws, Chapter 1 (Constitution of Michigan of 1963): CONSTITUTION OF MICHIGAN OF 1963, STATE CONSTITUTION | 1 | 2026-02-01 to 2026-02-01 |
+| `mcl-0001-act-constitution-of-michigan-of-1963` | Michigan Compiled Laws, Chapter 1 (Constitution of Michigan of 1963): CONSTITUTION OF MICHIGAN OF 1963, STATE CONSTITUTION | 2 | 2018-12-22 to 2026-02-01 |
 | `mcl-0002-act-1945-0078` | Michigan Compiled Laws, Chapter 2 (STATE): Act 78 of 1945, STATE AREA | 1 | 2026-03-22 to 2026-03-22 |
 | `mcl-0002-act-j-r-0010-of-1897` | Michigan Compiled Laws, Chapter 2 (STATE): J.R. 10 of 1897, STATE FLOWER | 1 | 2026-03-22 to 2026-03-22 |
 | `mcl-0002-act-1995-0281` | Michigan Compiled Laws, Chapter 2 (STATE): Act 281 of 1995, STATE REPTILE | 1 | 2026-03-22 to 2026-03-22 |
@@ -321,7 +325,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `mcl-0002-act-e-r-o-no-1991-0018` | Michigan Compiled Laws, Chapter 2 (STATE): E.R.O. No. 1991-18, EXECUTIVE REORGANIZATION ORDER | 1 | 2026-03-22 to 2026-03-22 |
 | `mcl-0002-act-2001-0184` | Michigan Compiled Laws, Chapter 2 (STATE): Act 184 of 2001, PLACEMENT OF NATIONAL MOTTO | 1 | 2026-03-22 to 2026-03-22 |
 | `mcl-0002-act-2009-0147` | Michigan Compiled Laws, Chapter 2 (STATE): Act 147 of 2009, OFFICIAL DEPICTIONS OF STATE | 1 | 2026-03-22 to 2026-03-22 |
-| `mcl-0002-act-1947-0267` | Michigan Compiled Laws, Chapter 2 (STATE): Act 267 of 1947, MICHIGAN, MINNESOTA, AND WISCONSIN BOUNDARIES | 1 | 2026-03-22 to 2026-03-22 |
+| `mcl-0002-act-1947-0267` | Michigan Compiled Laws, Chapter 2 (STATE): Act 267 of 1947, MICHIGAN, MINNESOTA, AND WISCONSIN BOUNDARIES | 2 | 2018-06-29 to 2026-03-22 |
 | `mcl-0002-act-j-r-0006-of-1917` | Michigan Compiled Laws, Chapter 2 (STATE): J.R. 6 of 1917, OHIO AND MICHIGAN BOUNDARY LINE | 1 | 2026-03-22 to 2026-03-22 |
 | `mcl-0002-act-s-c-r-0015-of-1945` | Michigan Compiled Laws, Chapter 2 (STATE): S.C.R. 15 of 1945, OHIO AND MICHIGAN BOUNDARY LINE | 1 | 2026-03-22 to 2026-03-22 |
 | `mcl-0002-act-h-c-r-0038-of-1947` | Michigan Compiled Laws, Chapter 2 (STATE): H.C.R. 38 of 1947, OHIO AND MICHIGAN BOUNDARY LINE | 1 | 2026-03-22 to 2026-03-22 |
@@ -332,7 +336,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `mcl-0003-act-1999-0221` | Michigan Compiled Laws, Chapter 3 (FEDERAL AND INTERSTATE RELATIONS): Act 221 of 1999, Congressional redistricting act | 1 | 2026-03-25 to 2026-03-25 |
 | `mcl-0003-act-1999-0222` | Michigan Compiled Laws, Chapter 3 (FEDERAL AND INTERSTATE RELATIONS): Act 222 of 1999, CONGRESSIONAL REDISTRICTING PLANS | 1 | 2026-03-25 to 2026-03-25 |
 | `mcl-0003-act-1969-0207` | Michigan Compiled Laws, Chapter 3 (FEDERAL AND INTERSTATE RELATIONS): Act 207 of 1969, PURCHASE OF RIFLES AND SHOTGUNS | 1 | 2026-03-25 to 2026-03-25 |
-| `mcl-0003-act-1960-0124` | Michigan Compiled Laws, Chapter 3 (FEDERAL AND INTERSTATE RELATIONS): Act 124 of 1960, HIGHWAY RECIPROCITY BOARD | 1 | 2026-03-25 to 2026-03-25 |
+| `mcl-0003-act-1960-0124` | Michigan Compiled Laws, Chapter 3 (FEDERAL AND INTERSTATE RELATIONS): Act 124 of 1960, HIGHWAY RECIPROCITY BOARD | 2 | 1981-01-22 to 2026-03-25 |
 | `mcl-0003-act-1987-0199` | Michigan Compiled Laws, Chapter 3 (FEDERAL AND INTERSTATE RELATIONS): Act 199 of 1987, STATE ACCEPTANCE OF JURISDICTION OVER U.S. LANDS | 1 | 2026-03-25 to 2026-03-25 |
 | `mcl-0003-act-1942-0003` | Michigan Compiled Laws, Chapter 3 (FEDERAL AND INTERSTATE RELATIONS): Act 3 of 1942 (1st Ex. Sess.), U.S. LAND ACQUISITION | 1 | 2026-03-25 to 2026-03-25 |
 | `mcl-0003-act-1941-0318` | Michigan Compiled Laws, Chapter 3 (FEDERAL AND INTERSTATE RELATIONS): Act 318 of 1941, U.S. PAYMENTS IN LIEU OF TAXES | 1 | 2026-03-25 to 2026-03-25 |
@@ -345,7 +349,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `mcl-0003-act-1967-0168` | Michigan Compiled Laws, Chapter 3 (FEDERAL AND INTERSTATE RELATIONS): Act 168 of 1967, PICTURED ROCKS NATIONAL LAKESHORE | 1 | 2026-03-25 to 2026-03-25 |
 | `mcl-0003-act-1935-0175` | Michigan Compiled Laws, Chapter 3 (FEDERAL AND INTERSTATE RELATIONS): Act 175 of 1935, U.S. ARMY LAND | 1 | 2026-03-25 to 2026-03-25 |
 | `mcl-0003-act-1935-0229` | Michigan Compiled Laws, Chapter 3 (FEDERAL AND INTERSTATE RELATIONS): Act 229 of 1935, COAST GUARD LAND | 1 | 2026-03-25 to 2026-03-25 |
-| `mcl-0003-act-1943-0017` | Michigan Compiled Laws, Chapter 3 (FEDERAL AND INTERSTATE RELATIONS): Act 17 of 1943, LEASING STATE PROPERTY TO ARMED FORCES | 1 | 2026-03-25 to 2026-03-25 |
+| `mcl-0003-act-1943-0017` | Michigan Compiled Laws, Chapter 3 (FEDERAL AND INTERSTATE RELATIONS): Act 17 of 1943, LEASING STATE PROPERTY TO ARMED FORCES | 2 | 1957-06-06 to 2026-03-25 |
 | `mcl-0003-act-1942-0012` | Michigan Compiled Laws, Chapter 3 (FEDERAL AND INTERSTATE RELATIONS): Act 12 of 1942 (1st. Ex. Sess.), PURCHASE OF FEDERAL EQUIPMENT | 1 | 2026-03-25 to 2026-03-25 |
 | `mcl-0003-act-1978-0151` | Michigan Compiled Laws, Chapter 3 (FEDERAL AND INTERSTATE RELATIONS): Act 151 of 1978, BASE CONVERSION AUTHORITY | 1 | 2026-03-25 to 2026-03-25 |
 | `mcl-0003-act-1993-0159` | Michigan Compiled Laws, Chapter 3 (FEDERAL AND INTERSTATE RELATIONS): Act 159 of 1993, ESTABLISHMENT OF BASE CONVERSION AUTHORITY | 1 | 2026-03-25 to 2026-03-25 |
@@ -363,15 +367,15 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `mcl-0003-act-2001-0247` | Michigan Compiled Laws, Chapter 3 (FEDERAL AND INTERSTATE RELATIONS): Act 247 of 2001, INTERSTATE EMERGENCY MANAGEMENT ASSISTANCE COMPACT; EQUIPMENT | 1 | 2026-03-25 to 2026-03-25 |
 | `mcl-0003-act-2001-0248` | Michigan Compiled Laws, Chapter 3 (FEDERAL AND INTERSTATE RELATIONS): Act 248 of 2001, INTERSTATE EMERGENCY MANAGEMENT ASSISTANCE COMPACT; PERSONNEL | 1 | 2026-03-25 to 2026-03-25 |
 | `mcl-0003-act-2002-0040` | Michigan Compiled Laws, Chapter 3 (FEDERAL AND INTERSTATE RELATIONS): Act 40 of 2002, INTERSTATE COMPACT FOR ADULT OFFENDER SUPERVISION | 1 | 2026-03-25 to 2026-03-25 |
-| `mcl-0003-act-2006-0173` | Michigan Compiled Laws, Chapter 3 (FEDERAL AND INTERSTATE RELATIONS): Act 173 of 2006, Midwest interstate passenger rail compact | 1 | 2026-03-25 to 2026-03-25 |
-| `mcl-0003-act-2006-0679` | Michigan Compiled Laws, Chapter 3 (FEDERAL AND INTERSTATE RELATIONS): Act 679 of 2006, INTERSTATE INSURANCE PRODUCT REGULATION COMPACT | 1 | 2026-03-25 to 2026-03-25 |
+| `mcl-0003-act-2006-0173` | Michigan Compiled Laws, Chapter 3 (FEDERAL AND INTERSTATE RELATIONS): Act 173 of 2006, Midwest interstate passenger rail compact | 2 | 2006-05-30 to 2026-03-25 |
+| `mcl-0003-act-2006-0679` | Michigan Compiled Laws, Chapter 3 (FEDERAL AND INTERSTATE RELATIONS): Act 679 of 2006, INTERSTATE INSURANCE PRODUCT REGULATION COMPACT | 2 | 2007-01-10 to 2026-03-25 |
 | `mcl-0003-act-2008-0160` | Michigan Compiled Laws, Chapter 3 (FEDERAL AND INTERSTATE RELATIONS): Act 160 of 2008, INTERSTATE COMPACT ON EDUCATIONAL OPPORTUNITY FOR MILITARY CHILDREN | 1 | 2026-03-25 to 2026-03-25 |
-| `mcl-0003-act-2008-0493` | Michigan Compiled Laws, Chapter 3 (FEDERAL AND INTERSTATE RELATIONS): Act 493 of 2008, National crime prevention and privacy compact | 1 | 2026-03-25 to 2026-03-25 |
+| `mcl-0003-act-2008-0493` | Michigan Compiled Laws, Chapter 3 (FEDERAL AND INTERSTATE RELATIONS): Act 493 of 2008, National crime prevention and privacy compact | 2 | 2009-01-13 to 2026-03-25 |
 | `mcl-0003-act-2017-0173` | Michigan Compiled Laws, Chapter 3 (FEDERAL AND INTERSTATE RELATIONS): Act 173 of 2017, Interstate library compact | 1 | 2026-03-25 to 2026-03-25 |
 | `mcl-0003-act-2018-0621` | Michigan Compiled Laws, Chapter 3 (FEDERAL AND INTERSTATE RELATIONS): Act 621 of 2018, Driver's license compact | 1 | 2026-03-25 to 2026-03-25 |
 | `mcl-0004-act-1963-0046` | Michigan Compiled Laws, Chapter 4 (LEGISLATURE): Act 46 of 1963 (2nd Ex. Sess.), COMMISSION ON LEGISLATIVE APPORTIONMENT | 1 | 2026-01-18 to 2026-01-18 |
 | `mcl-0004-act-1877-0067` | Michigan Compiled Laws, Chapter 4 (LEGISLATURE): Act 67 of 1877, ORGANIZATION OF LEGISLATURE | 1 | 2026-01-18 to 2026-01-18 |
-| `mcl-0004-act-1893-0058` | Michigan Compiled Laws, Chapter 4 (LEGISLATURE): Act 58 of 1893, SEATING IN HOUSE | 1 | 2026-01-18 to 2026-01-18 |
+| `mcl-0004-act-1893-0058` | Michigan Compiled Laws, Chapter 4 (LEGISLATURE): Act 58 of 1893, SEATING IN HOUSE | 2 | 1970-08-03 to 2026-01-18 |
 | `mcl-0004-act-r-s-of-1846` | Michigan Compiled Laws, Chapter 4 (LEGISLATURE): R.S. of 1846, Revised Statutes of 1846 | 1 | 2026-01-18 to 2026-01-18 |
 | `mcl-0004-act-1931-0118` | Michigan Compiled Laws, Chapter 4 (LEGISLATURE): Act 118 of 1931, POWERS OF LEGISLATIVE COMMITTEES | 1 | 2026-01-18 to 2026-01-18 |
 | `mcl-0004-act-1901-0127` | Michigan Compiled Laws, Chapter 4 (LEGISLATURE): Act 127 of 1901, OATHS, DEPOSITIONS, AND ACKNOWLEDGMENTS | 1 | 2026-01-18 to 2026-01-18 |
@@ -383,16 +387,16 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `mcl-0004-act-1915-0305` | Michigan Compiled Laws, Chapter 4 (LEGISLATURE): Act 305 of 1915, INTERIM DUTIES OF SECRETARY AND CLERK | 1 | 2026-01-18 to 2026-01-18 |
 | `mcl-0004-act-1996-0463` | Michigan Compiled Laws, Chapter 4 (LEGISLATURE): Act 463 of 1996, REDISTRICTING PLANS | 1 | 2026-01-18 to 2026-01-18 |
 | `mcl-0004-act-1975-0046` | Michigan Compiled Laws, Chapter 4 (LEGISLATURE): Act 46 of 1975, LEGISLATIVE CORRECTIONS OMBUDSMAN | 1 | 2026-01-18 to 2026-01-18 |
-| `mcl-0004-act-2001-0185` | Michigan Compiled Laws, Chapter 4 (LEGISLATURE): Act 185 of 2001, LEGISLATIVE SERGEANT AT ARMS POLICE POWERS ACT | 1 | 2026-01-18 to 2026-01-18 |
+| `mcl-0004-act-2001-0185` | Michigan Compiled Laws, Chapter 4 (LEGISLATURE): Act 185 of 2001, LEGISLATIVE SERGEANT AT ARMS POLICE POWERS ACT | 2 | 2017-01-02 to 2026-01-18 |
 | `mcl-0004-act-1978-0472` | Michigan Compiled Laws, Chapter 4 (LEGISLATURE): Act 472 of 1978, LOBBYISTS, LOBBYING AGENTS, AND LOBBYING ACTIVITIES | 1 | 2026-01-18 to 2026-01-18 |
 | `mcl-0004-act-1948-0005` | Michigan Compiled Laws, Chapter 4 (LEGISLATURE): Act 5 of 1948 (2nd Ex. Sess.), COMPENSATION, MILEAGE, AND EXPENSES OF LEGISLATORS | 1 | 2026-01-18 to 2026-01-18 |
 | `mcl-0004-act-1952-0046` | Michigan Compiled Laws, Chapter 4 (LEGISLATURE): Act 46 of 1952, SUBPOENAING RECORDS AND FILES | 1 | 2026-01-18 to 2026-01-18 |
 | `mcl-0004-act-1984-0027` | Michigan Compiled Laws, Chapter 4 (LEGISLATURE): Act 27 of 1984, LEGISLATIVE IMMUNITY | 1 | 2026-01-18 to 2026-01-18 |
 | `mcl-0004-act-2016-0198` | Michigan Compiled Laws, Chapter 4 (LEGISLATURE): Act 198 of 2016, MICHIGAN VETERANS' FACILITY OMBUDSMAN | 1 | 2026-01-18 to 2026-01-18 |
 | `mcl-0004-act-2024-0208` | Michigan Compiled Laws, Chapter 4 (LEGISLATURE): Act 208 of 2024, OFFICE OF THE TRIBAL LEGISLATIVE LIAISON | 1 | 2026-01-18 to 2026-01-18 |
-| `mcl-0004-act-1983-0256` | Michigan Compiled Laws, Chapter 4 (LEGISLATURE): Act 256 of 1983, SENATORIAL AND REPRESENTATIVE DISTRICTS | 1 | 2026-01-18 to 2026-01-18 |
+| `mcl-0004-act-1983-0256` | Michigan Compiled Laws, Chapter 4 (LEGISLATURE): Act 256 of 1983, SENATORIAL AND REPRESENTATIVE DISTRICTS | 2 | 1986-01-01 to 2026-01-18 |
 | `mcl-0004-act-1993-0033` | Michigan Compiled Laws, Chapter 4 (LEGISLATURE): Act 33 of 1993, AUDITS OF LEGISLATIVE BRANCH | 1 | 2026-01-18 to 2026-01-18 |
-| `mcl-0004-act-1986-0268` | Michigan Compiled Laws, Chapter 4 (LEGISLATURE): Act 268 of 1986, Legislative council act | 1 | 2026-01-18 to 2026-01-18 |
+| `mcl-0004-act-1986-0268` | Michigan Compiled Laws, Chapter 4 (LEGISLATURE): Act 268 of 1986, Legislative council act | 2 | 2019-03-29 to 2026-01-18 |
 | `mcl-0004-act-2013-0240` | Michigan Compiled Laws, Chapter 4 (LEGISLATURE): Act 240 of 2013, Michigan state capitol historic site act | 1 | 2026-01-18 to 2026-01-18 |
 | `mcl-0004-act-2001-0116` | Michigan Compiled Laws, Chapter 4 (LEGISLATURE): Act 116 of 2001, REPRESENTATIVE AND SENATORIAL DISTRICTS | 1 | 2026-01-18 to 2026-01-18 |
 | `mcl-0006-act-1872-0062` | Michigan Compiled Laws, Chapter 6 (IMPEACHMENTS): Act 62 of 1872, IMPEACHMENTS | 1 | 2026-03-21 to 2026-03-21 |
@@ -2586,7 +2590,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `mcl-0830-act-1951-0004` | Michigan Compiled Laws, Chapter 830 (STATE BUILDING PROGRAMS): Act 4 of 1951 (1st Ex. Sess.), STATE OFFICE BUILDING | 1 | 2026-03-21 to 2026-03-21 |
 | `mcl-0830-act-1964-0183` | Michigan Compiled Laws, Chapter 830 (STATE BUILDING PROGRAMS): Act 183 of 1964, STATE BUILDING AUTHORITY | 1 | 2026-03-21 to 2026-03-21 |
 
-The build made 2383 commits:
+The build made 2403 commits:
 
 | Commits | Kind |
 | ---: | --- |
@@ -2595,8 +2599,8 @@ The build made 2383 commits:
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
-- 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-11.
+- 1 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
 - 2372 tags.
 
@@ -2610,7 +2614,7 @@ When a law gives no date of its own, the default rule applies: No dated text his
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `57c8f7b389d318e2c1e4ee72e66d2c3a84c05b09a212722eeba3e55a31863612` (82000437 bytes).
+- Corpus: sha256 `2bfd32b5df4fc0d79fd1500c2e07578c477c42d606452c56a6e938c45257084c` (83040801 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -2825,6 +2829,10 @@ No second build of this corpus has been compared yet.
 - MCL chapter 801: one act per Michigan Act in the chapter file, one unit per section, dated 2026-03-23, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
 - MCL chapter 803: one act per Michigan Act in the chapter file, one unit per section, dated 2026-01-23, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
 - MCL chapter 830: one act per Michigan Act in the chapter file, one unit per section, dated 2026-03-21, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
+- Back-fill 1 acts from official chapter 1 XML captured 20190706013411; each older version starts on the latest effective date stated in its section History lines. The published current version and text are retained unchanged.
+- Back-fill 1 acts from official chapter 2 XML captured 20190706014626; each older version starts on the latest effective date stated in its section HistoryText notes and repeal CatchLine headings. The published current version and text are retained unchanged.
+- Back-fill 5 acts from official chapter 3 XML captured 20190706014818; each older version starts on the latest effective date stated in its section History lines. The published current version and text are retained unchanged.
+- Back-fill 4 acts from official chapter 4 XML captured 20190706013824; each older version starts on the latest effective date stated in its section HistoryText notes and repeal CatchLine headings. The published current version and text are retained unchanged.
 
 ## What AI did and did not do
 
@@ -3035,3 +3043,7 @@ Model use at data-build time:
 - Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
 - Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
 - Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Code selected source dates and extracted XML deterministically; no model wrote law text.
+- Code selected source dates and extracted XML deterministically; no model wrote law text.
+- Code selected source dates and extracted XML deterministically; no model wrote law text.
+- Code selected source dates and extracted XML deterministically; no model wrote law text.
