@@ -3283,6 +3283,12 @@
     "mcl-0830-act-1964-0183"
    ],
    "sha256": "343640a49b4b252e4ecf4ac43799b3bb1453818859092223e4de9032a52fb091"
+  },
+  "zz-history-0001-20190706.json": {
+   "acts": [
+    "mcl-0001-act-constitution-of-michigan-of-1963"
+   ],
+   "sha256": "4729d435aa2a52af4039e07567a6bd9596a82ae4b1a4823d3c2eb770abc82d69"
   }
  },
  "schema": 1

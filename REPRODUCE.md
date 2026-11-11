@@ -1,6 +1,6 @@
 # How this repository was made (United States (Michigan))
 
-This file is written by the build on 2026-11-10, the day the source data was retrieved.
+This file is written by the build on 2026-11-11, the day the source data was retrieved.
 
 ## Sources
 
@@ -206,6 +206,7 @@ This file is written by the build on 2026-11-10, the day the source data was ret
 | Michigan Compiled Laws chapter 801 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20801.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
 | Michigan Compiled Laws chapter 803 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20803.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
 | Michigan Compiled Laws chapter 830 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20830.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
+| Michigan Compiled Laws chapter 1 XML, official text in Internet Archive capture 20190706013411 | <https://web.archive.org/web/20190706013411id_/http://legislature.mi.gov:80/documents/mcl/Chapter%201.xml> | 2026-11-11 | Michigan statute and constitutional text is public domain. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -296,7 +297,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `mcl-act-1993-0092` | Michigan Compiled Laws, Chapter 565 (CONVEYANCES OF REAL PROPERTY): Act 92 of 1993, Seller disclosure act | 1 | 2025-03-11 to 2025-03-11 |
 | `mcl-act-2022-0006` | Michigan Compiled Laws, Chapter 565 (CONVEYANCES OF REAL PROPERTY): Act 6 of 2022, MICHIGAN FIRST-TIME HOME BUYER SAVINGS PROGRAM ACT | 1 | 2025-03-11 to 2025-03-11 |
 | `mcl-act-1962-0174` | Michigan Compiled Laws, Chapter 440 (UNIFORM COMMERCIAL CODE): Act 174 of 1962, Uniform commercial code | 1 | 2025-03-11 to 2025-03-11 |
-| `mcl-0001-act-constitution-of-michigan-of-1963` | Michigan Compiled Laws, Chapter 1 (Constitution of Michigan of 1963): CONSTITUTION OF MICHIGAN OF 1963, STATE CONSTITUTION | 1 | 2026-02-01 to 2026-02-01 |
+| `mcl-0001-act-constitution-of-michigan-of-1963` | Michigan Compiled Laws, Chapter 1 (Constitution of Michigan of 1963): CONSTITUTION OF MICHIGAN OF 1963, STATE CONSTITUTION | 2 | 2018-12-22 to 2026-02-01 |
 | `mcl-0002-act-1945-0078` | Michigan Compiled Laws, Chapter 2 (STATE): Act 78 of 1945, STATE AREA | 1 | 2026-03-22 to 2026-03-22 |
 | `mcl-0002-act-j-r-0010-of-1897` | Michigan Compiled Laws, Chapter 2 (STATE): J.R. 10 of 1897, STATE FLOWER | 1 | 2026-03-22 to 2026-03-22 |
 | `mcl-0002-act-1995-0281` | Michigan Compiled Laws, Chapter 2 (STATE): Act 281 of 1995, STATE REPTILE | 1 | 2026-03-22 to 2026-03-22 |
@@ -2586,7 +2587,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `mcl-0830-act-1951-0004` | Michigan Compiled Laws, Chapter 830 (STATE BUILDING PROGRAMS): Act 4 of 1951 (1st Ex. Sess.), STATE OFFICE BUILDING | 1 | 2026-03-21 to 2026-03-21 |
 | `mcl-0830-act-1964-0183` | Michigan Compiled Laws, Chapter 830 (STATE BUILDING PROGRAMS): Act 183 of 1964, STATE BUILDING AUTHORITY | 1 | 2026-03-21 to 2026-03-21 |
 
-The build made 2383 commits:
+The build made 2385 commits:
 
 | Commits | Kind |
 | ---: | --- |
@@ -2595,10 +2596,10 @@ The build made 2383 commits:
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-11.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 2372 tags.
+- 0 tags.
 
 ## Dates
 
@@ -2610,7 +2611,7 @@ When a law gives no date of its own, the default rule applies: No dated text his
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `57c8f7b389d318e2c1e4ee72e66d2c3a84c05b09a212722eeba3e55a31863612` (82000437 bytes).
+- Corpus: sha256 `17b693fa159218623ce584ad362926ba30afd9a21f8282068c2262ff706cdad2` (82546603 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -2825,6 +2826,7 @@ No second build of this corpus has been compared yet.
 - MCL chapter 801: one act per Michigan Act in the chapter file, one unit per section, dated 2026-03-23, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
 - MCL chapter 803: one act per Michigan Act in the chapter file, one unit per section, dated 2026-01-23, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
 - MCL chapter 830: one act per Michigan Act in the chapter file, one unit per section, dated 2026-03-21, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
+- Back-fill 1 acts from official chapter 1 XML captured 20190706013411; each older version starts on the latest effective date stated in its section History lines. The published current version and text are retained unchanged.
 
 ## What AI did and did not do
 
@@ -3035,3 +3037,4 @@ Model use at data-build time:
 - Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
 - Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
 - Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Code selected source dates and extracted XML deterministically; no model wrote law text.

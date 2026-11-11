@@ -1167,8 +1167,14 @@
    "slug": "mcl-0001-act-constitution-of-michigan-of-1963",
    "short": "MCL ch. 1, CONSTITUTION OF MICHIGAN OF 1963",
    "title": "Michigan Compiled Laws, Chapter 1 (Constitution of Michigan of 1963): CONSTITUTION OF MICHIGAN OF 1963, STATE CONSTITUTION",
-   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%201.xml",
+   "url": "https://web.archive.org/web/20190706013411id_/http://legislature.mi.gov:80/documents/mcl/Chapter%201.xml",
    "versions": [
+    {
+     "from": "2018-12-22",
+     "units": 280,
+     "source_url": "https://web.archive.org/web/20190706013411id_/http://legislature.mi.gov:80/documents/mcl/Chapter%201.xml",
+     "sha256": "b5addb78675194f4a9e054a0803f71b461c8b83e2055be8b29d508af7ac798a8"
+    },
     {
      "from": "2026-02-01",
      "units": 281,

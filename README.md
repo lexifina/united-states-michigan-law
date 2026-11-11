@@ -4,7 +4,7 @@ Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git h
 
 The law of Michigan as a git history: one file per provision, with `git blame` and `git log` working line by line. It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
 
-**What is in it now (not complete)**: 204 chapters of the Michigan Compiled Laws, 2372 Acts, 43685 sections. Each Act is a folder; MCL chapter 1 is the Constitution of 1963.
+**What is in it now (not complete)**: 204 chapters of the Michigan Compiled Laws, 2372 Acts, 43685 sections. Each Act is a folder; MCL chapter 1 is the Constitution of 1963. The Constitution also has an earlier text in force from December 22, 2018, preserved in a July 6, 2019 Internet Archive capture of the Legislature's official chapter XML; the current version remains in the record.
 
 | MCL chapter | Chapter title | Acts | Sections | Text as of | Folders |
 | ---: | --- | ---: | ---: | --- | --- |
