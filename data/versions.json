@@ -1947,8 +1947,14 @@
    "slug": "mcl-0003-act-1984-0114",
    "short": "MCL ch. 3, Act 114 of 1984",
    "title": "Michigan Compiled Laws, Chapter 3 (FEDERAL AND INTERSTATE RELATIONS): Act 114 of 1984, INTERSTATE COMPACT ON PLACEMENT OF CHILDREN",
-   "url": "https://www.legislature.mi.gov/documents/mcl/Chapter%203.xml",
+   "url": "https://web.archive.org/web/20190706014818id_/http://legislature.mi.gov:80/documents/mcl/Chapter%203.xml",
    "versions": [
+    {
+     "from": "1984-05-29",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20190706014818id_/http://legislature.mi.gov:80/documents/mcl/Chapter%203.xml",
+     "sha256": "985c5a092dee93030a5f1244df4e4fc5f5f66b3347a1ca9115af512d6fd81e8e"
+    },
     {
      "from": "2026-03-25",
      "units": 7,
