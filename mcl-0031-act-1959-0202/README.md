@@ -1,6 +1,6 @@
 # Michigan Compiled Laws, Chapter 31 (SUCCESSION TO OFFICE): Act 202 of 1959, Emergency interim executive succession act
 
-MCL ch. 31, Act 202 of 1959 · 1 versions, from 2026-10-30 (latest in force: 2026-10-30) · <https://www.legislature.mi.gov/documents/mcl/Chapter%2031.xml>
+MCL ch. 31, Act 202 of 1959 · 1 versions, from 1969-07-31 (latest in force: 1969-07-31) · <https://www.legislature.mi.gov/documents/mcl/Chapter%2031.xml>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
