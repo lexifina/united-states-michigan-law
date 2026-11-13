@@ -1,6 +1,6 @@
 # How this repository was made (United States (Michigan))
 
-This file is written by the build on 2026-11-11, the day the source data was retrieved.
+This file is written by the build on 2026-11-13, the day the source data was retrieved.
 
 ## Sources
 
@@ -206,6 +206,7 @@ This file is written by the build on 2026-11-11, the day the source data was ret
 | Michigan Compiled Laws chapter 801 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20801.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
 | Michigan Compiled Laws chapter 803 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20803.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
 | Michigan Compiled Laws chapter 830 XML (legislature.mi.gov), read from an Internet Archive capture | <https://www.legislature.mi.gov/documents/mcl/Chapter%20830.xml> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The Legislature states that the information "is not intended to replace official versions". |
+| Michigan Compiled Laws chapter 3 XML, official text in Internet Archive capture 20190706014818 | <https://web.archive.org/web/20190706014818id_/http://legislature.mi.gov:80/documents/mcl/Chapter%203.xml> | 2026-11-13 | Michigan statute and constitutional text is public domain. |
 | Michigan Compiled Laws chapter 1 XML, official text in Internet Archive capture 20190706013411 | <https://web.archive.org/web/20190706013411id_/http://legislature.mi.gov:80/documents/mcl/Chapter%201.xml> | 2026-11-11 | Michigan statute and constitutional text is public domain. |
 | Michigan Compiled Laws chapter 2 XML, official text in Internet Archive capture 20190706014626 | <https://web.archive.org/web/20190706014626id_/http://legislature.mi.gov:80/documents/mcl/Chapter%202.xml> | 2026-11-11 | Michigan statute and constitutional text is public domain. |
 | Michigan Compiled Laws chapter 3 XML, official text in Internet Archive capture 20190706014818 | <https://web.archive.org/web/20190706014818id_/http://legislature.mi.gov:80/documents/mcl/Chapter%203.xml> | 2026-11-11 | Michigan statute and constitutional text is public domain. |
@@ -354,7 +355,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `mcl-0003-act-1978-0151` | Michigan Compiled Laws, Chapter 3 (FEDERAL AND INTERSTATE RELATIONS): Act 151 of 1978, BASE CONVERSION AUTHORITY | 1 | 2026-03-25 to 2026-03-25 |
 | `mcl-0003-act-1993-0159` | Michigan Compiled Laws, Chapter 3 (FEDERAL AND INTERSTATE RELATIONS): Act 159 of 1993, ESTABLISHMENT OF BASE CONVERSION AUTHORITY | 1 | 2026-03-25 to 2026-03-25 |
 | `mcl-0003-act-2003-0056` | Michigan Compiled Laws, Chapter 3 (FEDERAL AND INTERSTATE RELATIONS): Act 56 of 2003, Interstate compact for juveniles | 1 | 2026-03-25 to 2026-03-25 |
-| `mcl-0003-act-1984-0114` | Michigan Compiled Laws, Chapter 3 (FEDERAL AND INTERSTATE RELATIONS): Act 114 of 1984, INTERSTATE COMPACT ON PLACEMENT OF CHILDREN | 1 | 2026-03-25 to 2026-03-25 |
+| `mcl-0003-act-1984-0114` | Michigan Compiled Laws, Chapter 3 (FEDERAL AND INTERSTATE RELATIONS): Act 114 of 1984, INTERSTATE COMPACT ON PLACEMENT OF CHILDREN | 2 | 1984-05-29 to 2026-03-25 |
 | `mcl-0003-act-2000-0310` | Michigan Compiled Laws, Chapter 3 (FEDERAL AND INTERSTATE RELATIONS): Act 310 of 2000, MUTUAL AID AGREEMENTS | 1 | 2026-03-25 to 2026-03-25 |
 | `mcl-0003-act-1982-0460` | Michigan Compiled Laws, Chapter 3 (FEDERAL AND INTERSTATE RELATIONS): Act 460 of 1982, MIDWEST INTERSTATE LOW-LEVEL RADIOACTIVE WASTE COMPACT | 1 | 2026-03-25 to 2026-03-25 |
 | `mcl-0003-act-1965-0054` | Michigan Compiled Laws, Chapter 3 (FEDERAL AND INTERSTATE RELATIONS): Act 54 of 1965, IONIZING RADIATION | 1 | 2026-03-25 to 2026-03-25 |
@@ -2590,16 +2591,18 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `mcl-0830-act-1951-0004` | Michigan Compiled Laws, Chapter 830 (STATE BUILDING PROGRAMS): Act 4 of 1951 (1st Ex. Sess.), STATE OFFICE BUILDING | 1 | 2026-03-21 to 2026-03-21 |
 | `mcl-0830-act-1964-0183` | Michigan Compiled Laws, Chapter 830 (STATE BUILDING PROGRAMS): Act 183 of 1964, STATE BUILDING AUTHORITY | 1 | 2026-03-21 to 2026-03-21 |
 
-The build made 2403 commits:
+The build made 2405 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 2372 | first version of an act |
-| 0 | one law on its in-force day |
+| 2372 | baseline texts where the record starts |
+| 0 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
+| 33 | corrections to the existing record |
+| 0 | printing or layout changes |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-11-11.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-13.
 - 1 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
 - 2372 tags.
@@ -2614,8 +2617,8 @@ When a law gives no date of its own, the default rule applies: No dated text his
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `2bfd32b5df4fc0d79fd1500c2e07578c477c42d606452c56a6e938c45257084c` (83040801 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Corpus: sha256 `24982c758486d64b68b4be539cbb28d6b5222f70b48d2d8049823e3ccc4ab1de` (83073967 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `63170edd89e92292ac248dae17d79e486e4e9f19`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `4a8aa1c9a5e6bd8cc831b90a6e68c5a6f448a13c`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
@@ -2829,6 +2832,8 @@ No second build of this corpus has been compared yet.
 - MCL chapter 801: one act per Michigan Act in the chapter file, one unit per section, dated 2026-03-23, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
 - MCL chapter 803: one act per Michigan Act in the chapter file, one unit per section, dated 2026-01-23, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
 - MCL chapter 830: one act per Michigan Act in the chapter file, one unit per section, dated 2026-03-21, the day of the newest Internet Archive capture of the file (the file states no currency date). The History line (the Legislative Service Bureau's source note) is kept; Editor's notes and Commentary are annotations and are not copied.
+- Back-fill 1 acts from official chapter 3 XML captured 20190706014818; each older version starts on the latest effective date stated in its section HistoryText notes and repeal CatchLine headings. The published current version and text are retained unchanged.
+- Historical XML extraction preserves source dash punctuation; only whitespace and typographic quotes are normalized.
 - Back-fill 1 acts from official chapter 1 XML captured 20190706013411; each older version starts on the latest effective date stated in its section History lines. The published current version and text are retained unchanged.
 - Back-fill 1 acts from official chapter 2 XML captured 20190706014626; each older version starts on the latest effective date stated in its section HistoryText notes and repeal CatchLine headings. The published current version and text are retained unchanged.
 - Back-fill 5 acts from official chapter 3 XML captured 20190706014818; each older version starts on the latest effective date stated in its section History lines. The published current version and text are retained unchanged.
@@ -2836,7 +2841,7 @@ No second build of this corpus has been compared yet.
 
 ## What AI did and did not do
 
-The scripts that read the sources and build this repository were written by Claude Code running Claude Opus 5.5 (`claude-opus-5-5`) under Lexifina's direction.
+The source readers and builders were developed under Lexifina's direction with coding assistants, including Claude Code and Codex.
 
 No model wrote, translated or corrected legal text. No model runs at build time. Every word of law in this repository comes from the official sources above.
 
@@ -3043,6 +3048,7 @@ Model use at data-build time:
 - Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
 - Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
 - Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Code selected source dates and extracted XML deterministically; no model wrote law text.
 - Code selected source dates and extracted XML deterministically; no model wrote law text.
 - Code selected source dates and extracted XML deterministically; no model wrote law text.
 - Code selected source dates and extracted XML deterministically; no model wrote law text.
