@@ -1,0 +1,17 @@
+{
+ "corpus": "us/michigan/acts",
+ "path": "united-states/michigan/acts",
+ "scope": "selected-acts",
+ "acts": 2372,
+ "future_branch": "future",
+ "publisher": "Michigan Legislative Council (legislature.mi.gov)",
+ "name": "United States (Michigan)",
+ "language": "en",
+ "coverage": "2372 acts of United States (Michigan) with every dated version the source gives (2384 versions), in force from 1957-06-06 to 2026-11-13",
+ "history": "in-force",
+ "history_from": "1957-06-06",
+ "record_to": "2026-11-13",
+ "checked_on": "2026-11-13",
+ "record_note": "Texts from Michigan Legislative Council (legislature.mi.gov).",
+ "in_force_trailer": "In-force"
+}

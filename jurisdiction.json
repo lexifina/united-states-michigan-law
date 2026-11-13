@@ -1,8 +1,9 @@
 {
-  "path": "us/mi",
-  "code": "US-MI",
-  "name": "United States (Michigan)",
-  "level": "state",
-  "repo": "https://github.com/lexifina/united-states-michigan-law",
-  "build": "built: 204 MCL chapters (2372 Acts, 43685 current sections), with 11 earlier act snapshots in chapters 1–4 from official XML Internet Archive captures of July 6, 2019; partial history"
+ "path": "united-states/michigan",
+ "code": "US-MI",
+ "name": "United States (Michigan)",
+ "level": "state",
+ "repo": "https://github.com/lexifina/united-states-michigan-law",
+ "build": "built: 204 MCL chapters (2372 Acts, 43685 current sections), with 12 earlier act snapshots in chapters 1–4 from official XML Internet Archive captures of July 6, 2019; partial history",
+ "parent": "united-states"
 }
