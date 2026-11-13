@@ -3284,6 +3284,12 @@
    ],
    "sha256": "343640a49b4b252e4ecf4ac43799b3bb1453818859092223e4de9032a52fb091"
   },
+  "zz-history-q1929-0003-1984-0114-20190706.json": {
+   "acts": [
+    "mcl-0003-act-1984-0114"
+   ],
+   "sha256": "c88eb4955e0f76799183718089c62557340226297cd5c3ea516e041b89c88f7b"
+  },
   "zz-history-r2-0001-20190706.json": {
    "acts": [
     "mcl-0001-act-constitution-of-michigan-of-1963"
